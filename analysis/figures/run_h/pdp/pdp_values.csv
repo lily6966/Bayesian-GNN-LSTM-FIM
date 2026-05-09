@@ -1,0 +1,3361 @@
+feature,grid_value,species,mean_count
+Temperature,16.2433,Sheepshead (Adult),0.210341
+Temperature,16.2433,Sheepshead (Recruit),0.016359
+Temperature,16.2433,Blue Crab (Recruit),0.27464
+Temperature,16.2433,Common Snook (Adult),0.299881
+Temperature,16.2433,Common Snook (Sub-adult),0.006185
+Temperature,16.2433,Spotted Seatrout (Adult),0.098202
+Temperature,16.2433,Spotted Seatrout (Recruit),0.217098
+Temperature,16.2433,Gray Snapper (Recruit),0.020592
+Temperature,16.2433,Gray Snapper (Sub-adult),0.039905
+Temperature,16.2433,Gag Grouper (Sub-adult),0.007868
+Temperature,16.2433,Red Drum (Recruit),0.020213
+Temperature,16.2433,Red Drum (Sub-adult),0.199459
+Temperature,17.0092,Sheepshead (Adult),0.205706
+Temperature,17.0092,Sheepshead (Recruit),0.016616
+Temperature,17.0092,Blue Crab (Recruit),0.270994
+Temperature,17.0092,Common Snook (Adult),0.306281
+Temperature,17.0092,Common Snook (Sub-adult),0.00628
+Temperature,17.0092,Spotted Seatrout (Adult),0.095057
+Temperature,17.0092,Spotted Seatrout (Recruit),0.219919
+Temperature,17.0092,Gray Snapper (Recruit),0.02118
+Temperature,17.0092,Gray Snapper (Sub-adult),0.040912
+Temperature,17.0092,Gag Grouper (Sub-adult),0.008249
+Temperature,17.0092,Red Drum (Recruit),0.020295
+Temperature,17.0092,Red Drum (Sub-adult),0.199578
+Temperature,17.7751,Sheepshead (Adult),0.201313
+Temperature,17.7751,Sheepshead (Recruit),0.016843
+Temperature,17.7751,Blue Crab (Recruit),0.267332
+Temperature,17.7751,Common Snook (Adult),0.312513
+Temperature,17.7751,Common Snook (Sub-adult),0.006366
+Temperature,17.7751,Spotted Seatrout (Adult),0.092105
+Temperature,17.7751,Spotted Seatrout (Recruit),0.222593
+Temperature,17.7751,Gray Snapper (Recruit),0.021772
+Temperature,17.7751,Gray Snapper (Sub-adult),0.041863
+Temperature,17.7751,Gag Grouper (Sub-adult),0.008622
+Temperature,17.7751,Red Drum (Recruit),0.020382
+Temperature,17.7751,Red Drum (Sub-adult),0.199398
+Temperature,18.541,Sheepshead (Adult),0.197134
+Temperature,18.541,Sheepshead (Recruit),0.017036
+Temperature,18.541,Blue Crab (Recruit),0.263778
+Temperature,18.541,Common Snook (Adult),0.318584
+Temperature,18.541,Common Snook (Sub-adult),0.006454
+Temperature,18.541,Spotted Seatrout (Adult),0.089235
+Temperature,18.541,Spotted Seatrout (Recruit),0.225257
+Temperature,18.541,Gray Snapper (Recruit),0.02237
+Temperature,18.541,Gray Snapper (Sub-adult),0.042834
+Temperature,18.541,Gag Grouper (Sub-adult),0.008985
+Temperature,18.541,Red Drum (Recruit),0.020457
+Temperature,18.541,Red Drum (Sub-adult),0.198958
+Temperature,19.3069,Sheepshead (Adult),0.193228
+Temperature,19.3069,Sheepshead (Recruit),0.017202
+Temperature,19.3069,Blue Crab (Recruit),0.26021
+Temperature,19.3069,Common Snook (Adult),0.324516
+Temperature,19.3069,Common Snook (Sub-adult),0.006531
+Temperature,19.3069,Spotted Seatrout (Adult),0.086512
+Temperature,19.3069,Spotted Seatrout (Recruit),0.227867
+Temperature,19.3069,Gray Snapper (Recruit),0.022976
+Temperature,19.3069,Gray Snapper (Sub-adult),0.043814
+Temperature,19.3069,Gag Grouper (Sub-adult),0.009345
+Temperature,19.3069,Red Drum (Recruit),0.020598
+Temperature,19.3069,Red Drum (Sub-adult),0.19825
+Temperature,20.0728,Sheepshead (Adult),0.189471
+Temperature,20.0728,Sheepshead (Recruit),0.017331
+Temperature,20.0728,Blue Crab (Recruit),0.256746
+Temperature,20.0728,Common Snook (Adult),0.330202
+Temperature,20.0728,Common Snook (Sub-adult),0.006609
+Temperature,20.0728,Spotted Seatrout (Adult),0.083889
+Temperature,20.0728,Spotted Seatrout (Recruit),0.230304
+Temperature,20.0728,Gray Snapper (Recruit),0.023578
+Temperature,20.0728,Gray Snapper (Sub-adult),0.044741
+Temperature,20.0728,Gag Grouper (Sub-adult),0.009705
+Temperature,20.0728,Red Drum (Recruit),0.020747
+Temperature,20.0728,Red Drum (Sub-adult),0.19723
+Temperature,20.8387,Sheepshead (Adult),0.185966
+Temperature,20.8387,Sheepshead (Recruit),0.017409
+Temperature,20.8387,Blue Crab (Recruit),0.253431
+Temperature,20.8387,Common Snook (Adult),0.335653
+Temperature,20.8387,Common Snook (Sub-adult),0.006663
+Temperature,20.8387,Spotted Seatrout (Adult),0.081349
+Temperature,20.8387,Spotted Seatrout (Recruit),0.232698
+Temperature,20.8387,Gray Snapper (Recruit),0.024179
+Temperature,20.8387,Gray Snapper (Sub-adult),0.045605
+Temperature,20.8387,Gag Grouper (Sub-adult),0.010055
+Temperature,20.8387,Red Drum (Recruit),0.020876
+Temperature,20.8387,Red Drum (Sub-adult),0.195994
+Temperature,21.6046,Sheepshead (Adult),0.182699
+Temperature,21.6046,Sheepshead (Recruit),0.017434
+Temperature,21.6046,Blue Crab (Recruit),0.250304
+Temperature,21.6046,Common Snook (Adult),0.340929
+Temperature,21.6046,Common Snook (Sub-adult),0.006731
+Temperature,21.6046,Spotted Seatrout (Adult),0.078929
+Temperature,21.6046,Spotted Seatrout (Recruit),0.23515
+Temperature,21.6046,Gray Snapper (Recruit),0.024783
+Temperature,21.6046,Gray Snapper (Sub-adult),0.046451
+Temperature,21.6046,Gag Grouper (Sub-adult),0.01041
+Temperature,21.6046,Red Drum (Recruit),0.021007
+Temperature,21.6046,Red Drum (Sub-adult),0.194577
+Temperature,22.3705,Sheepshead (Adult),0.179689
+Temperature,22.3705,Sheepshead (Recruit),0.017421
+Temperature,22.3705,Blue Crab (Recruit),0.247398
+Temperature,22.3705,Common Snook (Adult),0.345886
+Temperature,22.3705,Common Snook (Sub-adult),0.0068
+Temperature,22.3705,Spotted Seatrout (Adult),0.076675
+Temperature,22.3705,Spotted Seatrout (Recruit),0.237706
+Temperature,22.3705,Gray Snapper (Recruit),0.025378
+Temperature,22.3705,Gray Snapper (Sub-adult),0.047286
+Temperature,22.3705,Gag Grouper (Sub-adult),0.010762
+Temperature,22.3705,Red Drum (Recruit),0.021137
+Temperature,22.3705,Red Drum (Sub-adult),0.192947
+Temperature,23.1364,Sheepshead (Adult),0.176867
+Temperature,23.1364,Sheepshead (Recruit),0.017355
+Temperature,23.1364,Blue Crab (Recruit),0.244575
+Temperature,23.1364,Common Snook (Adult),0.350544
+Temperature,23.1364,Common Snook (Sub-adult),0.006856
+Temperature,23.1364,Spotted Seatrout (Adult),0.074478
+Temperature,23.1364,Spotted Seatrout (Recruit),0.24034
+Temperature,23.1364,Gray Snapper (Recruit),0.025976
+Temperature,23.1364,Gray Snapper (Sub-adult),0.048084
+Temperature,23.1364,Gag Grouper (Sub-adult),0.011115
+Temperature,23.1364,Red Drum (Recruit),0.021223
+Temperature,23.1364,Red Drum (Sub-adult),0.191062
+Temperature,23.9023,Sheepshead (Adult),0.174332
+Temperature,23.9023,Sheepshead (Recruit),0.017261
+Temperature,23.9023,Blue Crab (Recruit),0.241943
+Temperature,23.9023,Common Snook (Adult),0.355072
+Temperature,23.9023,Common Snook (Sub-adult),0.006927
+Temperature,23.9023,Spotted Seatrout (Adult),0.072437
+Temperature,23.9023,Spotted Seatrout (Recruit),0.243026
+Temperature,23.9023,Gray Snapper (Recruit),0.02656
+Temperature,23.9023,Gray Snapper (Sub-adult),0.048913
+Temperature,23.9023,Gag Grouper (Sub-adult),0.011488
+Temperature,23.9023,Red Drum (Recruit),0.021289
+Temperature,23.9023,Red Drum (Sub-adult),0.189102
+Temperature,24.6682,Sheepshead (Adult),0.172
+Temperature,24.6682,Sheepshead (Recruit),0.017145
+Temperature,24.6682,Blue Crab (Recruit),0.239435
+Temperature,24.6682,Common Snook (Adult),0.35934
+Temperature,24.6682,Common Snook (Sub-adult),0.006996
+Temperature,24.6682,Spotted Seatrout (Adult),0.070499
+Temperature,24.6682,Spotted Seatrout (Recruit),0.24576
+Temperature,24.6682,Gray Snapper (Recruit),0.02712
+Temperature,24.6682,Gray Snapper (Sub-adult),0.049766
+Temperature,24.6682,Gag Grouper (Sub-adult),0.011865
+Temperature,24.6682,Red Drum (Recruit),0.021325
+Temperature,24.6682,Red Drum (Sub-adult),0.187036
+Temperature,25.434,Sheepshead (Adult),0.169935
+Temperature,25.434,Sheepshead (Recruit),0.016999
+Temperature,25.434,Blue Crab (Recruit),0.237011
+Temperature,25.434,Common Snook (Adult),0.363563
+Temperature,25.434,Common Snook (Sub-adult),0.007052
+Temperature,25.434,Spotted Seatrout (Adult),0.068689
+Temperature,25.434,Spotted Seatrout (Recruit),0.248648
+Temperature,25.434,Gray Snapper (Recruit),0.027663
+Temperature,25.434,Gray Snapper (Sub-adult),0.050702
+Temperature,25.434,Gag Grouper (Sub-adult),0.012258
+Temperature,25.434,Red Drum (Recruit),0.021333
+Temperature,25.434,Red Drum (Sub-adult),0.185001
+Temperature,26.1999,Sheepshead (Adult),0.168134
+Temperature,26.1999,Sheepshead (Recruit),0.016808
+Temperature,26.1999,Blue Crab (Recruit),0.234699
+Temperature,26.1999,Common Snook (Adult),0.367599
+Temperature,26.1999,Common Snook (Sub-adult),0.007104
+Temperature,26.1999,Spotted Seatrout (Adult),0.066981
+Temperature,26.1999,Spotted Seatrout (Recruit),0.251547
+Temperature,26.1999,Gray Snapper (Recruit),0.028194
+Temperature,26.1999,Gray Snapper (Sub-adult),0.05173
+Temperature,26.1999,Gag Grouper (Sub-adult),0.01266
+Temperature,26.1999,Red Drum (Recruit),0.021315
+Temperature,26.1999,Red Drum (Sub-adult),0.182973
+Temperature,26.9658,Sheepshead (Adult),0.166536
+Temperature,26.9658,Sheepshead (Recruit),0.016607
+Temperature,26.9658,Blue Crab (Recruit),0.2326
+Temperature,26.9658,Common Snook (Adult),0.371504
+Temperature,26.9658,Common Snook (Sub-adult),0.00715
+Temperature,26.9658,Spotted Seatrout (Adult),0.065366
+Temperature,26.9658,Spotted Seatrout (Recruit),0.254484
+Temperature,26.9658,Gray Snapper (Recruit),0.02869
+Temperature,26.9658,Gray Snapper (Sub-adult),0.05284
+Temperature,26.9658,Gag Grouper (Sub-adult),0.013063
+Temperature,26.9658,Red Drum (Recruit),0.021275
+Temperature,26.9658,Red Drum (Sub-adult),0.180959
+Temperature,27.7317,Sheepshead (Adult),0.165064
+Temperature,27.7317,Sheepshead (Recruit),0.016409
+Temperature,27.7317,Blue Crab (Recruit),0.230626
+Temperature,27.7317,Common Snook (Adult),0.375251
+Temperature,27.7317,Common Snook (Sub-adult),0.007197
+Temperature,27.7317,Spotted Seatrout (Adult),0.063771
+Temperature,27.7317,Spotted Seatrout (Recruit),0.257605
+Temperature,27.7317,Gray Snapper (Recruit),0.029179
+Temperature,27.7317,Gray Snapper (Sub-adult),0.054056
+Temperature,27.7317,Gag Grouper (Sub-adult),0.013481
+Temperature,27.7317,Red Drum (Recruit),0.021214
+Temperature,27.7317,Red Drum (Sub-adult),0.178929
+Temperature,28.4976,Sheepshead (Adult),0.163722
+Temperature,28.4976,Sheepshead (Recruit),0.016219
+Temperature,28.4976,Blue Crab (Recruit),0.228769
+Temperature,28.4976,Common Snook (Adult),0.378867
+Temperature,28.4976,Common Snook (Sub-adult),0.007242
+Temperature,28.4976,Spotted Seatrout (Adult),0.062239
+Temperature,28.4976,Spotted Seatrout (Recruit),0.260817
+Temperature,28.4976,Gray Snapper (Recruit),0.029637
+Temperature,28.4976,Gray Snapper (Sub-adult),0.055383
+Temperature,28.4976,Gag Grouper (Sub-adult),0.013912
+Temperature,28.4976,Red Drum (Recruit),0.021132
+Temperature,28.4976,Red Drum (Sub-adult),0.176938
+Temperature,29.2635,Sheepshead (Adult),0.162644
+Temperature,29.2635,Sheepshead (Recruit),0.016021
+Temperature,29.2635,Blue Crab (Recruit),0.226985
+Temperature,29.2635,Common Snook (Adult),0.382576
+Temperature,29.2635,Common Snook (Sub-adult),0.007281
+Temperature,29.2635,Spotted Seatrout (Adult),0.060852
+Temperature,29.2635,Spotted Seatrout (Recruit),0.264105
+Temperature,29.2635,Gray Snapper (Recruit),0.030078
+Temperature,29.2635,Gray Snapper (Sub-adult),0.056827
+Temperature,29.2635,Gag Grouper (Sub-adult),0.014354
+Temperature,29.2635,Red Drum (Recruit),0.021094
+Temperature,29.2635,Red Drum (Sub-adult),0.175054
+Temperature,30.0294,Sheepshead (Adult),0.161746
+Temperature,30.0294,Sheepshead (Recruit),0.015817
+Temperature,30.0294,Blue Crab (Recruit),0.225315
+Temperature,30.0294,Common Snook (Adult),0.386251
+Temperature,30.0294,Common Snook (Sub-adult),0.007333
+Temperature,30.0294,Spotted Seatrout (Adult),0.059639
+Temperature,30.0294,Spotted Seatrout (Recruit),0.267554
+Temperature,30.0294,Gray Snapper (Recruit),0.030518
+Temperature,30.0294,Gray Snapper (Sub-adult),0.058382
+Temperature,30.0294,Gag Grouper (Sub-adult),0.014798
+Temperature,30.0294,Red Drum (Recruit),0.021118
+Temperature,30.0294,Red Drum (Sub-adult),0.173268
+Temperature,30.7953,Sheepshead (Adult),0.160923
+Temperature,30.7953,Sheepshead (Recruit),0.015623
+Temperature,30.7953,Blue Crab (Recruit),0.223794
+Temperature,30.7953,Common Snook (Adult),0.389861
+Temperature,30.7953,Common Snook (Sub-adult),0.007389
+Temperature,30.7953,Spotted Seatrout (Adult),0.058485
+Temperature,30.7953,Spotted Seatrout (Recruit),0.271146
+Temperature,30.7953,Gray Snapper (Recruit),0.030949
+Temperature,30.7953,Gray Snapper (Sub-adult),0.060042
+Temperature,30.7953,Gag Grouper (Sub-adult),0.015259
+Temperature,30.7953,Red Drum (Recruit),0.021142
+Temperature,30.7953,Red Drum (Sub-adult),0.171544
+Salinity,3.5217,Sheepshead (Adult),0.175825
+Salinity,3.5217,Sheepshead (Recruit),0.013363
+Salinity,3.5217,Blue Crab (Recruit),0.254157
+Salinity,3.5217,Common Snook (Adult),0.375725
+Salinity,3.5217,Common Snook (Sub-adult),0.006206
+Salinity,3.5217,Spotted Seatrout (Adult),0.074238
+Salinity,3.5217,Spotted Seatrout (Recruit),0.34569
+Salinity,3.5217,Gray Snapper (Recruit),0.051115
+Salinity,3.5217,Gray Snapper (Sub-adult),0.054262
+Salinity,3.5217,Gag Grouper (Sub-adult),0.009958
+Salinity,3.5217,Red Drum (Recruit),0.020099
+Salinity,3.5217,Red Drum (Sub-adult),0.20086
+Salinity,5.0766,Sheepshead (Adult),0.175226
+Salinity,5.0766,Sheepshead (Recruit),0.013594
+Salinity,5.0766,Blue Crab (Recruit),0.254112
+Salinity,5.0766,Common Snook (Adult),0.375492
+Salinity,5.0766,Common Snook (Sub-adult),0.006232
+Salinity,5.0766,Spotted Seatrout (Adult),0.074251
+Salinity,5.0766,Spotted Seatrout (Recruit),0.339146
+Salinity,5.0766,Gray Snapper (Recruit),0.048671
+Salinity,5.0766,Gray Snapper (Sub-adult),0.054297
+Salinity,5.0766,Gag Grouper (Sub-adult),0.010138
+Salinity,5.0766,Red Drum (Recruit),0.020186
+Salinity,5.0766,Red Drum (Sub-adult),0.199832
+Salinity,6.6316,Sheepshead (Adult),0.174656
+Salinity,6.6316,Sheepshead (Recruit),0.013835
+Salinity,6.6316,Blue Crab (Recruit),0.254063
+Salinity,6.6316,Common Snook (Adult),0.375216
+Salinity,6.6316,Common Snook (Sub-adult),0.006237
+Salinity,6.6316,Spotted Seatrout (Adult),0.074178
+Salinity,6.6316,Spotted Seatrout (Recruit),0.332704
+Salinity,6.6316,Gray Snapper (Recruit),0.046457
+Salinity,6.6316,Gray Snapper (Sub-adult),0.054316
+Salinity,6.6316,Gag Grouper (Sub-adult),0.010321
+Salinity,6.6316,Red Drum (Recruit),0.020233
+Salinity,6.6316,Red Drum (Sub-adult),0.198871
+Salinity,8.1866,Sheepshead (Adult),0.174149
+Salinity,8.1866,Sheepshead (Recruit),0.014083
+Salinity,8.1866,Blue Crab (Recruit),0.25406
+Salinity,8.1866,Common Snook (Adult),0.374784
+Salinity,8.1866,Common Snook (Sub-adult),0.006256
+Salinity,8.1866,Spotted Seatrout (Adult),0.074155
+Salinity,8.1866,Spotted Seatrout (Recruit),0.326387
+Salinity,8.1866,Gray Snapper (Recruit),0.044498
+Salinity,8.1866,Gray Snapper (Sub-adult),0.054342
+Salinity,8.1866,Gag Grouper (Sub-adult),0.010502
+Salinity,8.1866,Red Drum (Recruit),0.020304
+Salinity,8.1866,Red Drum (Sub-adult),0.197944
+Salinity,9.7416,Sheepshead (Adult),0.173661
+Salinity,9.7416,Sheepshead (Recruit),0.014332
+Salinity,9.7416,Blue Crab (Recruit),0.254066
+Salinity,9.7416,Common Snook (Adult),0.374152
+Salinity,9.7416,Common Snook (Sub-adult),0.006286
+Salinity,9.7416,Spotted Seatrout (Adult),0.074134
+Salinity,9.7416,Spotted Seatrout (Recruit),0.32027
+Salinity,9.7416,Gray Snapper (Recruit),0.042686
+Salinity,9.7416,Gray Snapper (Sub-adult),0.054388
+Salinity,9.7416,Gag Grouper (Sub-adult),0.010682
+Salinity,9.7416,Red Drum (Recruit),0.020368
+Salinity,9.7416,Red Drum (Sub-adult),0.197112
+Salinity,11.2966,Sheepshead (Adult),0.17318
+Salinity,11.2966,Sheepshead (Recruit),0.014569
+Salinity,11.2966,Blue Crab (Recruit),0.254035
+Salinity,11.2966,Common Snook (Adult),0.373352
+Salinity,11.2966,Common Snook (Sub-adult),0.006322
+Salinity,11.2966,Spotted Seatrout (Adult),0.074078
+Salinity,11.2966,Spotted Seatrout (Recruit),0.314248
+Salinity,11.2966,Gray Snapper (Recruit),0.040988
+Salinity,11.2966,Gray Snapper (Sub-adult),0.054438
+Salinity,11.2966,Gag Grouper (Sub-adult),0.010859
+Salinity,11.2966,Red Drum (Recruit),0.020444
+Salinity,11.2966,Red Drum (Sub-adult),0.196313
+Salinity,12.8516,Sheepshead (Adult),0.1727
+Salinity,12.8516,Sheepshead (Recruit),0.014797
+Salinity,12.8516,Blue Crab (Recruit),0.253963
+Salinity,12.8516,Common Snook (Adult),0.372437
+Salinity,12.8516,Common Snook (Sub-adult),0.006356
+Salinity,12.8516,Spotted Seatrout (Adult),0.074021
+Salinity,12.8516,Spotted Seatrout (Recruit),0.308304
+Salinity,12.8516,Gray Snapper (Recruit),0.039385
+Salinity,12.8516,Gray Snapper (Sub-adult),0.054479
+Salinity,12.8516,Gag Grouper (Sub-adult),0.011036
+Salinity,12.8516,Red Drum (Recruit),0.020529
+Salinity,12.8516,Red Drum (Sub-adult),0.195546
+Salinity,14.4065,Sheepshead (Adult),0.172237
+Salinity,14.4065,Sheepshead (Recruit),0.015022
+Salinity,14.4065,Blue Crab (Recruit),0.253943
+Salinity,14.4065,Common Snook (Adult),0.371495
+Salinity,14.4065,Common Snook (Sub-adult),0.006403
+Salinity,14.4065,Spotted Seatrout (Adult),0.073976
+Salinity,14.4065,Spotted Seatrout (Recruit),0.302456
+Salinity,14.4065,Gray Snapper (Recruit),0.037887
+Salinity,14.4065,Gray Snapper (Sub-adult),0.054506
+Salinity,14.4065,Gag Grouper (Sub-adult),0.011211
+Salinity,14.4065,Red Drum (Recruit),0.020641
+Salinity,14.4065,Red Drum (Sub-adult),0.194846
+Salinity,15.9615,Sheepshead (Adult),0.171698
+Salinity,15.9615,Sheepshead (Recruit),0.015239
+Salinity,15.9615,Blue Crab (Recruit),0.25405
+Salinity,15.9615,Common Snook (Adult),0.370416
+Salinity,15.9615,Common Snook (Sub-adult),0.006462
+Salinity,15.9615,Spotted Seatrout (Adult),0.073882
+Salinity,15.9615,Spotted Seatrout (Recruit),0.296849
+Salinity,15.9615,Gray Snapper (Recruit),0.036471
+Salinity,15.9615,Gray Snapper (Sub-adult),0.054532
+Salinity,15.9615,Gag Grouper (Sub-adult),0.011389
+Salinity,15.9615,Red Drum (Recruit),0.020768
+Salinity,15.9615,Red Drum (Sub-adult),0.194119
+Salinity,17.5165,Sheepshead (Adult),0.171195
+Salinity,17.5165,Sheepshead (Recruit),0.015442
+Salinity,17.5165,Blue Crab (Recruit),0.254142
+Salinity,17.5165,Common Snook (Adult),0.369311
+Salinity,17.5165,Common Snook (Sub-adult),0.006531
+Salinity,17.5165,Spotted Seatrout (Adult),0.073811
+Salinity,17.5165,Spotted Seatrout (Recruit),0.291341
+Salinity,17.5165,Gray Snapper (Recruit),0.035136
+Salinity,17.5165,Gray Snapper (Sub-adult),0.054595
+Salinity,17.5165,Gag Grouper (Sub-adult),0.011571
+Salinity,17.5165,Red Drum (Recruit),0.020943
+Salinity,17.5165,Red Drum (Sub-adult),0.193451
+Salinity,19.0715,Sheepshead (Adult),0.170675
+Salinity,19.0715,Sheepshead (Recruit),0.015633
+Salinity,19.0715,Blue Crab (Recruit),0.254226
+Salinity,19.0715,Common Snook (Adult),0.368183
+Salinity,19.0715,Common Snook (Sub-adult),0.006605
+Salinity,19.0715,Spotted Seatrout (Adult),0.073689
+Salinity,19.0715,Spotted Seatrout (Recruit),0.285907
+Salinity,19.0715,Gray Snapper (Recruit),0.033858
+Salinity,19.0715,Gray Snapper (Sub-adult),0.054636
+Salinity,19.0715,Gag Grouper (Sub-adult),0.011754
+Salinity,19.0715,Red Drum (Recruit),0.021087
+Salinity,19.0715,Red Drum (Sub-adult),0.192788
+Salinity,20.6265,Sheepshead (Adult),0.170167
+Salinity,20.6265,Sheepshead (Recruit),0.015806
+Salinity,20.6265,Blue Crab (Recruit),0.254241
+Salinity,20.6265,Common Snook (Adult),0.366999
+Salinity,20.6265,Common Snook (Sub-adult),0.006676
+Salinity,20.6265,Spotted Seatrout (Adult),0.073527
+Salinity,20.6265,Spotted Seatrout (Recruit),0.280534
+Salinity,20.6265,Gray Snapper (Recruit),0.03264
+Salinity,20.6265,Gray Snapper (Sub-adult),0.054656
+Salinity,20.6265,Gag Grouper (Sub-adult),0.011933
+Salinity,20.6265,Red Drum (Recruit),0.021206
+Salinity,20.6265,Red Drum (Sub-adult),0.192106
+Salinity,22.1814,Sheepshead (Adult),0.169641
+Salinity,22.1814,Sheepshead (Recruit),0.015971
+Salinity,22.1814,Blue Crab (Recruit),0.254233
+Salinity,22.1814,Common Snook (Adult),0.365853
+Salinity,22.1814,Common Snook (Sub-adult),0.006757
+Salinity,22.1814,Spotted Seatrout (Adult),0.073342
+Salinity,22.1814,Spotted Seatrout (Recruit),0.275403
+Salinity,22.1814,Gray Snapper (Recruit),0.03149
+Salinity,22.1814,Gray Snapper (Sub-adult),0.054692
+Salinity,22.1814,Gag Grouper (Sub-adult),0.012111
+Salinity,22.1814,Red Drum (Recruit),0.021319
+Salinity,22.1814,Red Drum (Sub-adult),0.19139
+Salinity,23.7364,Sheepshead (Adult),0.169156
+Salinity,23.7364,Sheepshead (Recruit),0.016114
+Salinity,23.7364,Blue Crab (Recruit),0.254189
+Salinity,23.7364,Common Snook (Adult),0.364683
+Salinity,23.7364,Common Snook (Sub-adult),0.006836
+Salinity,23.7364,Spotted Seatrout (Adult),0.073173
+Salinity,23.7364,Spotted Seatrout (Recruit),0.27034
+Salinity,23.7364,Gray Snapper (Recruit),0.030399
+Salinity,23.7364,Gray Snapper (Sub-adult),0.054734
+Salinity,23.7364,Gag Grouper (Sub-adult),0.012288
+Salinity,23.7364,Red Drum (Recruit),0.02144
+Salinity,23.7364,Red Drum (Sub-adult),0.190687
+Salinity,25.2914,Sheepshead (Adult),0.168747
+Salinity,25.2914,Sheepshead (Recruit),0.016249
+Salinity,25.2914,Blue Crab (Recruit),0.254159
+Salinity,25.2914,Common Snook (Adult),0.363473
+Salinity,25.2914,Common Snook (Sub-adult),0.00691
+Salinity,25.2914,Spotted Seatrout (Adult),0.072998
+Salinity,25.2914,Spotted Seatrout (Recruit),0.26532
+Salinity,25.2914,Gray Snapper (Recruit),0.029374
+Salinity,25.2914,Gray Snapper (Sub-adult),0.054803
+Salinity,25.2914,Gag Grouper (Sub-adult),0.012454
+Salinity,25.2914,Red Drum (Recruit),0.021559
+Salinity,25.2914,Red Drum (Sub-adult),0.189921
+Salinity,26.8464,Sheepshead (Adult),0.168322
+Salinity,26.8464,Sheepshead (Recruit),0.016358
+Salinity,26.8464,Blue Crab (Recruit),0.253987
+Salinity,26.8464,Common Snook (Adult),0.362232
+Salinity,26.8464,Common Snook (Sub-adult),0.006975
+Salinity,26.8464,Spotted Seatrout (Adult),0.07279
+Salinity,26.8464,Spotted Seatrout (Recruit),0.260437
+Salinity,26.8464,Gray Snapper (Recruit),0.028429
+Salinity,26.8464,Gray Snapper (Sub-adult),0.05488
+Salinity,26.8464,Gag Grouper (Sub-adult),0.012613
+Salinity,26.8464,Red Drum (Recruit),0.021663
+Salinity,26.8464,Red Drum (Sub-adult),0.189108
+Salinity,28.4014,Sheepshead (Adult),0.167963
+Salinity,28.4014,Sheepshead (Recruit),0.016467
+Salinity,28.4014,Blue Crab (Recruit),0.253855
+Salinity,28.4014,Common Snook (Adult),0.361078
+Salinity,28.4014,Common Snook (Sub-adult),0.007045
+Salinity,28.4014,Spotted Seatrout (Adult),0.072578
+Salinity,28.4014,Spotted Seatrout (Recruit),0.255552
+Salinity,28.4014,Gray Snapper (Recruit),0.027553
+Salinity,28.4014,Gray Snapper (Sub-adult),0.054972
+Salinity,28.4014,Gag Grouper (Sub-adult),0.012767
+Salinity,28.4014,Red Drum (Recruit),0.021767
+Salinity,28.4014,Red Drum (Sub-adult),0.188275
+Salinity,29.9564,Sheepshead (Adult),0.16761
+Salinity,29.9564,Sheepshead (Recruit),0.01659
+Salinity,29.9564,Blue Crab (Recruit),0.253733
+Salinity,29.9564,Common Snook (Adult),0.359967
+Salinity,29.9564,Common Snook (Sub-adult),0.007109
+Salinity,29.9564,Spotted Seatrout (Adult),0.072335
+Salinity,29.9564,Spotted Seatrout (Recruit),0.250948
+Salinity,29.9564,Gray Snapper (Recruit),0.026731
+Salinity,29.9564,Gray Snapper (Sub-adult),0.055082
+Salinity,29.9564,Gag Grouper (Sub-adult),0.012919
+Salinity,29.9564,Red Drum (Recruit),0.02188
+Salinity,29.9564,Red Drum (Sub-adult),0.187347
+Salinity,31.5113,Sheepshead (Adult),0.16725
+Salinity,31.5113,Sheepshead (Recruit),0.016705
+Salinity,31.5113,Blue Crab (Recruit),0.253639
+Salinity,31.5113,Common Snook (Adult),0.358804
+Salinity,31.5113,Common Snook (Sub-adult),0.007173
+Salinity,31.5113,Spotted Seatrout (Adult),0.072081
+Salinity,31.5113,Spotted Seatrout (Recruit),0.246407
+Salinity,31.5113,Gray Snapper (Recruit),0.025958
+Salinity,31.5113,Gray Snapper (Sub-adult),0.055154
+Salinity,31.5113,Gag Grouper (Sub-adult),0.013063
+Salinity,31.5113,Red Drum (Recruit),0.021998
+Salinity,31.5113,Red Drum (Sub-adult),0.186377
+Salinity,33.0663,Sheepshead (Adult),0.166936
+Salinity,33.0663,Sheepshead (Recruit),0.016826
+Salinity,33.0663,Blue Crab (Recruit),0.253422
+Salinity,33.0663,Common Snook (Adult),0.357699
+Salinity,33.0663,Common Snook (Sub-adult),0.007243
+Salinity,33.0663,Spotted Seatrout (Adult),0.071819
+Salinity,33.0663,Spotted Seatrout (Recruit),0.24196
+Salinity,33.0663,Gray Snapper (Recruit),0.025255
+Salinity,33.0663,Gray Snapper (Sub-adult),0.055193
+Salinity,33.0663,Gag Grouper (Sub-adult),0.013195
+Salinity,33.0663,Red Drum (Recruit),0.0221
+Salinity,33.0663,Red Drum (Sub-adult),0.185374
+DissolvedO2,4.6833,Sheepshead (Adult),0.154018
+DissolvedO2,4.6833,Sheepshead (Recruit),0.01604
+DissolvedO2,4.6833,Blue Crab (Recruit),0.273914
+DissolvedO2,4.6833,Common Snook (Adult),0.358285
+DissolvedO2,4.6833,Common Snook (Sub-adult),0.006542
+DissolvedO2,4.6833,Spotted Seatrout (Adult),0.062558
+DissolvedO2,4.6833,Spotted Seatrout (Recruit),0.263695
+DissolvedO2,4.6833,Gray Snapper (Recruit),0.026971
+DissolvedO2,4.6833,Gray Snapper (Sub-adult),0.046797
+DissolvedO2,4.6833,Gag Grouper (Sub-adult),0.012084
+DissolvedO2,4.6833,Red Drum (Recruit),0.020625
+DissolvedO2,4.6833,Red Drum (Sub-adult),0.184988
+DissolvedO2,4.9328,Sheepshead (Adult),0.155703
+DissolvedO2,4.9328,Sheepshead (Recruit),0.016032
+DissolvedO2,4.9328,Blue Crab (Recruit),0.272198
+DissolvedO2,4.9328,Common Snook (Adult),0.358573
+DissolvedO2,4.9328,Common Snook (Sub-adult),0.006541
+DissolvedO2,4.9328,Spotted Seatrout (Adult),0.063367
+DissolvedO2,4.9328,Spotted Seatrout (Recruit),0.264277
+DissolvedO2,4.9328,Gray Snapper (Recruit),0.027169
+DissolvedO2,4.9328,Gray Snapper (Sub-adult),0.047708
+DissolvedO2,4.9328,Gag Grouper (Sub-adult),0.012182
+DissolvedO2,4.9328,Red Drum (Recruit),0.020678
+DissolvedO2,4.9328,Red Drum (Sub-adult),0.18475
+DissolvedO2,5.1823,Sheepshead (Adult),0.157465
+DissolvedO2,5.1823,Sheepshead (Recruit),0.01604
+DissolvedO2,5.1823,Blue Crab (Recruit),0.270519
+DissolvedO2,5.1823,Common Snook (Adult),0.358928
+DissolvedO2,5.1823,Common Snook (Sub-adult),0.006544
+DissolvedO2,5.1823,Spotted Seatrout (Adult),0.064191
+DissolvedO2,5.1823,Spotted Seatrout (Recruit),0.264914
+DissolvedO2,5.1823,Gray Snapper (Recruit),0.027374
+DissolvedO2,5.1823,Gray Snapper (Sub-adult),0.048643
+DissolvedO2,5.1823,Gag Grouper (Sub-adult),0.012273
+DissolvedO2,5.1823,Red Drum (Recruit),0.020739
+DissolvedO2,5.1823,Red Drum (Sub-adult),0.184645
+DissolvedO2,5.4318,Sheepshead (Adult),0.159241
+DissolvedO2,5.4318,Sheepshead (Recruit),0.016051
+DissolvedO2,5.4318,Blue Crab (Recruit),0.268848
+DissolvedO2,5.4318,Common Snook (Adult),0.359337
+DissolvedO2,5.4318,Common Snook (Sub-adult),0.006559
+DissolvedO2,5.4318,Spotted Seatrout (Adult),0.064996
+DissolvedO2,5.4318,Spotted Seatrout (Recruit),0.265536
+DissolvedO2,5.4318,Gray Snapper (Recruit),0.027618
+DissolvedO2,5.4318,Gray Snapper (Sub-adult),0.049613
+DissolvedO2,5.4318,Gag Grouper (Sub-adult),0.012362
+DissolvedO2,5.4318,Red Drum (Recruit),0.020793
+DissolvedO2,5.4318,Red Drum (Sub-adult),0.184617
+DissolvedO2,5.6813,Sheepshead (Adult),0.161028
+DissolvedO2,5.6813,Sheepshead (Recruit),0.016051
+DissolvedO2,5.6813,Blue Crab (Recruit),0.267217
+DissolvedO2,5.6813,Common Snook (Adult),0.359697
+DissolvedO2,5.6813,Common Snook (Sub-adult),0.006591
+DissolvedO2,5.6813,Spotted Seatrout (Adult),0.065806
+DissolvedO2,5.6813,Spotted Seatrout (Recruit),0.266171
+DissolvedO2,5.6813,Gray Snapper (Recruit),0.027872
+DissolvedO2,5.6813,Gray Snapper (Sub-adult),0.050624
+DissolvedO2,5.6813,Gag Grouper (Sub-adult),0.012448
+DissolvedO2,5.6813,Red Drum (Recruit),0.020849
+DissolvedO2,5.6813,Red Drum (Sub-adult),0.184693
+DissolvedO2,5.9308,Sheepshead (Adult),0.162865
+DissolvedO2,5.9308,Sheepshead (Recruit),0.016069
+DissolvedO2,5.9308,Blue Crab (Recruit),0.265587
+DissolvedO2,5.9308,Common Snook (Adult),0.360021
+DissolvedO2,5.9308,Common Snook (Sub-adult),0.006619
+DissolvedO2,5.9308,Spotted Seatrout (Adult),0.066621
+DissolvedO2,5.9308,Spotted Seatrout (Recruit),0.266813
+DissolvedO2,5.9308,Gray Snapper (Recruit),0.028161
+DissolvedO2,5.9308,Gray Snapper (Sub-adult),0.051676
+DissolvedO2,5.9308,Gag Grouper (Sub-adult),0.012541
+DissolvedO2,5.9308,Red Drum (Recruit),0.020905
+DissolvedO2,5.9308,Red Drum (Sub-adult),0.184861
+DissolvedO2,6.1803,Sheepshead (Adult),0.164712
+DissolvedO2,6.1803,Sheepshead (Recruit),0.01609
+DissolvedO2,6.1803,Blue Crab (Recruit),0.263899
+DissolvedO2,6.1803,Common Snook (Adult),0.360418
+DissolvedO2,6.1803,Common Snook (Sub-adult),0.006652
+DissolvedO2,6.1803,Spotted Seatrout (Adult),0.067413
+DissolvedO2,6.1803,Spotted Seatrout (Recruit),0.267561
+DissolvedO2,6.1803,Gray Snapper (Recruit),0.028491
+DissolvedO2,6.1803,Gray Snapper (Sub-adult),0.052753
+DissolvedO2,6.1803,Gag Grouper (Sub-adult),0.012639
+DissolvedO2,6.1803,Red Drum (Recruit),0.02095
+DissolvedO2,6.1803,Red Drum (Sub-adult),0.185065
+DissolvedO2,6.4298,Sheepshead (Adult),0.166592
+DissolvedO2,6.4298,Sheepshead (Recruit),0.016108
+DissolvedO2,6.4298,Blue Crab (Recruit),0.262283
+DissolvedO2,6.4298,Common Snook (Adult),0.360779
+DissolvedO2,6.4298,Common Snook (Sub-adult),0.00668
+DissolvedO2,6.4298,Spotted Seatrout (Adult),0.068256
+DissolvedO2,6.4298,Spotted Seatrout (Recruit),0.268284
+DissolvedO2,6.4298,Gray Snapper (Recruit),0.028846
+DissolvedO2,6.4298,Gray Snapper (Sub-adult),0.053882
+DissolvedO2,6.4298,Gag Grouper (Sub-adult),0.012725
+DissolvedO2,6.4298,Red Drum (Recruit),0.020997
+DissolvedO2,6.4298,Red Drum (Sub-adult),0.185363
+DissolvedO2,6.6793,Sheepshead (Adult),0.168549
+DissolvedO2,6.6793,Sheepshead (Recruit),0.016134
+DissolvedO2,6.6793,Blue Crab (Recruit),0.260528
+DissolvedO2,6.6793,Common Snook (Adult),0.361284
+DissolvedO2,6.6793,Common Snook (Sub-adult),0.006702
+DissolvedO2,6.6793,Spotted Seatrout (Adult),0.069099
+DissolvedO2,6.6793,Spotted Seatrout (Recruit),0.269064
+DissolvedO2,6.6793,Gray Snapper (Recruit),0.029227
+DissolvedO2,6.6793,Gray Snapper (Sub-adult),0.055046
+DissolvedO2,6.6793,Gag Grouper (Sub-adult),0.012811
+DissolvedO2,6.6793,Red Drum (Recruit),0.021005
+DissolvedO2,6.6793,Red Drum (Sub-adult),0.185687
+DissolvedO2,6.9288,Sheepshead (Adult),0.170554
+DissolvedO2,6.9288,Sheepshead (Recruit),0.01616
+DissolvedO2,6.9288,Blue Crab (Recruit),0.258763
+DissolvedO2,6.9288,Common Snook (Adult),0.361776
+DissolvedO2,6.9288,Common Snook (Sub-adult),0.006734
+DissolvedO2,6.9288,Spotted Seatrout (Adult),0.069922
+DissolvedO2,6.9288,Spotted Seatrout (Recruit),0.269848
+DissolvedO2,6.9288,Gray Snapper (Recruit),0.029636
+DissolvedO2,6.9288,Gray Snapper (Sub-adult),0.056272
+DissolvedO2,6.9288,Gag Grouper (Sub-adult),0.012901
+DissolvedO2,6.9288,Red Drum (Recruit),0.020991
+DissolvedO2,6.9288,Red Drum (Sub-adult),0.186048
+DissolvedO2,7.1783,Sheepshead (Adult),0.172688
+DissolvedO2,7.1783,Sheepshead (Recruit),0.016191
+DissolvedO2,7.1783,Blue Crab (Recruit),0.256974
+DissolvedO2,7.1783,Common Snook (Adult),0.362322
+DissolvedO2,7.1783,Common Snook (Sub-adult),0.006754
+DissolvedO2,7.1783,Spotted Seatrout (Adult),0.070786
+DissolvedO2,7.1783,Spotted Seatrout (Recruit),0.27074
+DissolvedO2,7.1783,Gray Snapper (Recruit),0.030056
+DissolvedO2,7.1783,Gray Snapper (Sub-adult),0.057521
+DissolvedO2,7.1783,Gag Grouper (Sub-adult),0.012988
+DissolvedO2,7.1783,Red Drum (Recruit),0.020965
+DissolvedO2,7.1783,Red Drum (Sub-adult),0.186471
+DissolvedO2,7.4278,Sheepshead (Adult),0.174849
+DissolvedO2,7.4278,Sheepshead (Recruit),0.016221
+DissolvedO2,7.4278,Blue Crab (Recruit),0.255112
+DissolvedO2,7.4278,Common Snook (Adult),0.362916
+DissolvedO2,7.4278,Common Snook (Sub-adult),0.006779
+DissolvedO2,7.4278,Spotted Seatrout (Adult),0.071682
+DissolvedO2,7.4278,Spotted Seatrout (Recruit),0.271604
+DissolvedO2,7.4278,Gray Snapper (Recruit),0.030497
+DissolvedO2,7.4278,Gray Snapper (Sub-adult),0.058812
+DissolvedO2,7.4278,Gag Grouper (Sub-adult),0.013082
+DissolvedO2,7.4278,Red Drum (Recruit),0.020939
+DissolvedO2,7.4278,Red Drum (Sub-adult),0.186931
+DissolvedO2,7.6772,Sheepshead (Adult),0.177095
+DissolvedO2,7.6772,Sheepshead (Recruit),0.016258
+DissolvedO2,7.6772,Blue Crab (Recruit),0.253261
+DissolvedO2,7.6772,Common Snook (Adult),0.363578
+DissolvedO2,7.6772,Common Snook (Sub-adult),0.006788
+DissolvedO2,7.6772,Spotted Seatrout (Adult),0.072536
+DissolvedO2,7.6772,Spotted Seatrout (Recruit),0.272486
+DissolvedO2,7.6772,Gray Snapper (Recruit),0.030961
+DissolvedO2,7.6772,Gray Snapper (Sub-adult),0.060154
+DissolvedO2,7.6772,Gag Grouper (Sub-adult),0.013176
+DissolvedO2,7.6772,Red Drum (Recruit),0.020899
+DissolvedO2,7.6772,Red Drum (Sub-adult),0.187409
+DissolvedO2,7.9267,Sheepshead (Adult),0.179396
+DissolvedO2,7.9267,Sheepshead (Recruit),0.016283
+DissolvedO2,7.9267,Blue Crab (Recruit),0.251404
+DissolvedO2,7.9267,Common Snook (Adult),0.364284
+DissolvedO2,7.9267,Common Snook (Sub-adult),0.00679
+DissolvedO2,7.9267,Spotted Seatrout (Adult),0.073383
+DissolvedO2,7.9267,Spotted Seatrout (Recruit),0.273416
+DissolvedO2,7.9267,Gray Snapper (Recruit),0.031445
+DissolvedO2,7.9267,Gray Snapper (Sub-adult),0.061543
+DissolvedO2,7.9267,Gag Grouper (Sub-adult),0.01327
+DissolvedO2,7.9267,Red Drum (Recruit),0.020845
+DissolvedO2,7.9267,Red Drum (Sub-adult),0.1879
+DissolvedO2,8.1762,Sheepshead (Adult),0.181698
+DissolvedO2,8.1762,Sheepshead (Recruit),0.016302
+DissolvedO2,8.1762,Blue Crab (Recruit),0.249539
+DissolvedO2,8.1762,Common Snook (Adult),0.365115
+DissolvedO2,8.1762,Common Snook (Sub-adult),0.006791
+DissolvedO2,8.1762,Spotted Seatrout (Adult),0.074176
+DissolvedO2,8.1762,Spotted Seatrout (Recruit),0.2743
+DissolvedO2,8.1762,Gray Snapper (Recruit),0.031943
+DissolvedO2,8.1762,Gray Snapper (Sub-adult),0.062984
+DissolvedO2,8.1762,Gag Grouper (Sub-adult),0.013375
+DissolvedO2,8.1762,Red Drum (Recruit),0.020801
+DissolvedO2,8.1762,Red Drum (Sub-adult),0.188325
+DissolvedO2,8.4257,Sheepshead (Adult),0.184077
+DissolvedO2,8.4257,Sheepshead (Recruit),0.016324
+DissolvedO2,8.4257,Blue Crab (Recruit),0.247654
+DissolvedO2,8.4257,Common Snook (Adult),0.365967
+DissolvedO2,8.4257,Common Snook (Sub-adult),0.006793
+DissolvedO2,8.4257,Spotted Seatrout (Adult),0.074953
+DissolvedO2,8.4257,Spotted Seatrout (Recruit),0.275303
+DissolvedO2,8.4257,Gray Snapper (Recruit),0.032466
+DissolvedO2,8.4257,Gray Snapper (Sub-adult),0.064455
+DissolvedO2,8.4257,Gag Grouper (Sub-adult),0.013476
+DissolvedO2,8.4257,Red Drum (Recruit),0.020753
+DissolvedO2,8.4257,Red Drum (Sub-adult),0.188751
+DissolvedO2,8.6752,Sheepshead (Adult),0.186445
+DissolvedO2,8.6752,Sheepshead (Recruit),0.016353
+DissolvedO2,8.6752,Blue Crab (Recruit),0.245757
+DissolvedO2,8.6752,Common Snook (Adult),0.366759
+DissolvedO2,8.6752,Common Snook (Sub-adult),0.006789
+DissolvedO2,8.6752,Spotted Seatrout (Adult),0.075755
+DissolvedO2,8.6752,Spotted Seatrout (Recruit),0.276261
+DissolvedO2,8.6752,Gray Snapper (Recruit),0.033005
+DissolvedO2,8.6752,Gray Snapper (Sub-adult),0.065931
+DissolvedO2,8.6752,Gag Grouper (Sub-adult),0.013575
+DissolvedO2,8.6752,Red Drum (Recruit),0.020705
+DissolvedO2,8.6752,Red Drum (Sub-adult),0.189089
+DissolvedO2,8.9247,Sheepshead (Adult),0.188878
+DissolvedO2,8.9247,Sheepshead (Recruit),0.016374
+DissolvedO2,8.9247,Blue Crab (Recruit),0.243924
+DissolvedO2,8.9247,Common Snook (Adult),0.367551
+DissolvedO2,8.9247,Common Snook (Sub-adult),0.006788
+DissolvedO2,8.9247,Spotted Seatrout (Adult),0.076512
+DissolvedO2,8.9247,Spotted Seatrout (Recruit),0.277293
+DissolvedO2,8.9247,Gray Snapper (Recruit),0.033564
+DissolvedO2,8.9247,Gray Snapper (Sub-adult),0.067498
+DissolvedO2,8.9247,Gag Grouper (Sub-adult),0.01368
+DissolvedO2,8.9247,Red Drum (Recruit),0.02065
+DissolvedO2,8.9247,Red Drum (Sub-adult),0.189433
+DissolvedO2,9.1742,Sheepshead (Adult),0.191373
+DissolvedO2,9.1742,Sheepshead (Recruit),0.016391
+DissolvedO2,9.1742,Blue Crab (Recruit),0.242102
+DissolvedO2,9.1742,Common Snook (Adult),0.3683
+DissolvedO2,9.1742,Common Snook (Sub-adult),0.006789
+DissolvedO2,9.1742,Spotted Seatrout (Adult),0.077281
+DissolvedO2,9.1742,Spotted Seatrout (Recruit),0.278379
+DissolvedO2,9.1742,Gray Snapper (Recruit),0.034145
+DissolvedO2,9.1742,Gray Snapper (Sub-adult),0.069073
+DissolvedO2,9.1742,Gag Grouper (Sub-adult),0.013788
+DissolvedO2,9.1742,Red Drum (Recruit),0.020586
+DissolvedO2,9.1742,Red Drum (Sub-adult),0.189719
+DissolvedO2,9.4237,Sheepshead (Adult),0.193842
+DissolvedO2,9.4237,Sheepshead (Recruit),0.016409
+DissolvedO2,9.4237,Blue Crab (Recruit),0.24023
+DissolvedO2,9.4237,Common Snook (Adult),0.369025
+DissolvedO2,9.4237,Common Snook (Sub-adult),0.006785
+DissolvedO2,9.4237,Spotted Seatrout (Adult),0.078008
+DissolvedO2,9.4237,Spotted Seatrout (Recruit),0.279521
+DissolvedO2,9.4237,Gray Snapper (Recruit),0.034728
+DissolvedO2,9.4237,Gray Snapper (Sub-adult),0.070619
+DissolvedO2,9.4237,Gag Grouper (Sub-adult),0.013887
+DissolvedO2,9.4237,Red Drum (Recruit),0.020512
+DissolvedO2,9.4237,Red Drum (Sub-adult),0.189995
+StartDepth,0.5704,Sheepshead (Adult),0.166164
+StartDepth,0.5704,Sheepshead (Recruit),0.016508
+StartDepth,0.5704,Blue Crab (Recruit),0.251335
+StartDepth,0.5704,Common Snook (Adult),0.366253
+StartDepth,0.5704,Common Snook (Sub-adult),0.006383
+StartDepth,0.5704,Spotted Seatrout (Adult),0.060007
+StartDepth,0.5704,Spotted Seatrout (Recruit),0.257456
+StartDepth,0.5704,Gray Snapper (Recruit),0.028429
+StartDepth,0.5704,Gray Snapper (Sub-adult),0.045769
+StartDepth,0.5704,Gag Grouper (Sub-adult),0.009849
+StartDepth,0.5704,Red Drum (Recruit),0.020472
+StartDepth,0.5704,Red Drum (Sub-adult),0.196268
+StartDepth,0.6025,Sheepshead (Adult),0.167029
+StartDepth,0.6025,Sheepshead (Recruit),0.016479
+StartDepth,0.6025,Blue Crab (Recruit),0.251689
+StartDepth,0.6025,Common Snook (Adult),0.366184
+StartDepth,0.6025,Common Snook (Sub-adult),0.006428
+StartDepth,0.6025,Spotted Seatrout (Adult),0.061032
+StartDepth,0.6025,Spotted Seatrout (Recruit),0.25853
+StartDepth,0.6025,Gray Snapper (Recruit),0.028504
+StartDepth,0.6025,Gray Snapper (Sub-adult),0.04643
+StartDepth,0.6025,Gag Grouper (Sub-adult),0.010048
+StartDepth,0.6025,Red Drum (Recruit),0.020593
+StartDepth,0.6025,Red Drum (Sub-adult),0.195722
+StartDepth,0.6346,Sheepshead (Adult),0.167838
+StartDepth,0.6346,Sheepshead (Recruit),0.016446
+StartDepth,0.6346,Blue Crab (Recruit),0.252014
+StartDepth,0.6346,Common Snook (Adult),0.365977
+StartDepth,0.6346,Common Snook (Sub-adult),0.006472
+StartDepth,0.6346,Spotted Seatrout (Adult),0.062074
+StartDepth,0.6346,Spotted Seatrout (Recruit),0.25956
+StartDepth,0.6346,Gray Snapper (Recruit),0.02857
+StartDepth,0.6346,Gray Snapper (Sub-adult),0.0471
+StartDepth,0.6346,Gag Grouper (Sub-adult),0.010255
+StartDepth,0.6346,Red Drum (Recruit),0.020709
+StartDepth,0.6346,Red Drum (Sub-adult),0.195094
+StartDepth,0.6667,Sheepshead (Adult),0.168649
+StartDepth,0.6667,Sheepshead (Recruit),0.016419
+StartDepth,0.6667,Blue Crab (Recruit),0.252328
+StartDepth,0.6667,Common Snook (Adult),0.365763
+StartDepth,0.6667,Common Snook (Sub-adult),0.006515
+StartDepth,0.6667,Spotted Seatrout (Adult),0.063151
+StartDepth,0.6667,Spotted Seatrout (Recruit),0.260581
+StartDepth,0.6667,Gray Snapper (Recruit),0.028637
+StartDepth,0.6667,Gray Snapper (Sub-adult),0.047792
+StartDepth,0.6667,Gag Grouper (Sub-adult),0.010465
+StartDepth,0.6667,Red Drum (Recruit),0.020835
+StartDepth,0.6667,Red Drum (Sub-adult),0.194436
+StartDepth,0.6988,Sheepshead (Adult),0.16942
+StartDepth,0.6988,Sheepshead (Recruit),0.016387
+StartDepth,0.6988,Blue Crab (Recruit),0.252597
+StartDepth,0.6988,Common Snook (Adult),0.365524
+StartDepth,0.6988,Common Snook (Sub-adult),0.006557
+StartDepth,0.6988,Spotted Seatrout (Adult),0.064249
+StartDepth,0.6988,Spotted Seatrout (Recruit),0.261555
+StartDepth,0.6988,Gray Snapper (Recruit),0.028699
+StartDepth,0.6988,Gray Snapper (Sub-adult),0.048495
+StartDepth,0.6988,Gag Grouper (Sub-adult),0.010678
+StartDepth,0.6988,Red Drum (Recruit),0.020949
+StartDepth,0.6988,Red Drum (Sub-adult),0.19374
+StartDepth,0.731,Sheepshead (Adult),0.170157
+StartDepth,0.731,Sheepshead (Recruit),0.016368
+StartDepth,0.731,Blue Crab (Recruit),0.252778
+StartDepth,0.731,Common Snook (Adult),0.365216
+StartDepth,0.731,Common Snook (Sub-adult),0.006589
+StartDepth,0.731,Spotted Seatrout (Adult),0.065365
+StartDepth,0.731,Spotted Seatrout (Recruit),0.262478
+StartDepth,0.731,Gray Snapper (Recruit),0.028746
+StartDepth,0.731,Gray Snapper (Sub-adult),0.049191
+StartDepth,0.731,Gag Grouper (Sub-adult),0.010893
+StartDepth,0.731,Red Drum (Recruit),0.021068
+StartDepth,0.731,Red Drum (Sub-adult),0.192988
+StartDepth,0.7631,Sheepshead (Adult),0.170833
+StartDepth,0.7631,Sheepshead (Recruit),0.01633
+StartDepth,0.7631,Blue Crab (Recruit),0.252931
+StartDepth,0.7631,Common Snook (Adult),0.364849
+StartDepth,0.7631,Common Snook (Sub-adult),0.00663
+StartDepth,0.7631,Spotted Seatrout (Adult),0.066486
+StartDepth,0.7631,Spotted Seatrout (Recruit),0.263338
+StartDepth,0.7631,Gray Snapper (Recruit),0.028792
+StartDepth,0.7631,Gray Snapper (Sub-adult),0.0499
+StartDepth,0.7631,Gag Grouper (Sub-adult),0.011113
+StartDepth,0.7631,Red Drum (Recruit),0.021182
+StartDepth,0.7631,Red Drum (Sub-adult),0.192148
+StartDepth,0.7952,Sheepshead (Adult),0.171456
+StartDepth,0.7952,Sheepshead (Recruit),0.016296
+StartDepth,0.7952,Blue Crab (Recruit),0.253075
+StartDepth,0.7952,Common Snook (Adult),0.364479
+StartDepth,0.7952,Common Snook (Sub-adult),0.006661
+StartDepth,0.7952,Spotted Seatrout (Adult),0.06761
+StartDepth,0.7952,Spotted Seatrout (Recruit),0.264123
+StartDepth,0.7952,Gray Snapper (Recruit),0.028837
+StartDepth,0.7952,Gray Snapper (Sub-adult),0.05063
+StartDepth,0.7952,Gag Grouper (Sub-adult),0.011336
+StartDepth,0.7952,Red Drum (Recruit),0.021301
+StartDepth,0.7952,Red Drum (Sub-adult),0.191207
+StartDepth,0.8273,Sheepshead (Adult),0.172016
+StartDepth,0.8273,Sheepshead (Recruit),0.016255
+StartDepth,0.8273,Blue Crab (Recruit),0.253192
+StartDepth,0.8273,Common Snook (Adult),0.363982
+StartDepth,0.8273,Common Snook (Sub-adult),0.006694
+StartDepth,0.8273,Spotted Seatrout (Adult),0.068794
+StartDepth,0.8273,Spotted Seatrout (Recruit),0.264846
+StartDepth,0.8273,Gray Snapper (Recruit),0.028875
+StartDepth,0.8273,Gray Snapper (Sub-adult),0.051368
+StartDepth,0.8273,Gag Grouper (Sub-adult),0.011564
+StartDepth,0.8273,Red Drum (Recruit),0.021426
+StartDepth,0.8273,Red Drum (Sub-adult),0.190209
+StartDepth,0.8594,Sheepshead (Adult),0.172543
+StartDepth,0.8594,Sheepshead (Recruit),0.016207
+StartDepth,0.8594,Blue Crab (Recruit),0.253323
+StartDepth,0.8594,Common Snook (Adult),0.363441
+StartDepth,0.8594,Common Snook (Sub-adult),0.006727
+StartDepth,0.8594,Spotted Seatrout (Adult),0.069992
+StartDepth,0.8594,Spotted Seatrout (Recruit),0.265497
+StartDepth,0.8594,Gray Snapper (Recruit),0.02891
+StartDepth,0.8594,Gray Snapper (Sub-adult),0.052112
+StartDepth,0.8594,Gag Grouper (Sub-adult),0.011794
+StartDepth,0.8594,Red Drum (Recruit),0.021547
+StartDepth,0.8594,Red Drum (Sub-adult),0.189145
+StartDepth,0.8915,Sheepshead (Adult),0.172989
+StartDepth,0.8915,Sheepshead (Recruit),0.01617
+StartDepth,0.8915,Blue Crab (Recruit),0.253433
+StartDepth,0.8915,Common Snook (Adult),0.362756
+StartDepth,0.8915,Common Snook (Sub-adult),0.006754
+StartDepth,0.8915,Spotted Seatrout (Adult),0.071165
+StartDepth,0.8915,Spotted Seatrout (Recruit),0.266138
+StartDepth,0.8915,Gray Snapper (Recruit),0.028931
+StartDepth,0.8915,Gray Snapper (Sub-adult),0.052844
+StartDepth,0.8915,Gag Grouper (Sub-adult),0.012025
+StartDepth,0.8915,Red Drum (Recruit),0.021653
+StartDepth,0.8915,Red Drum (Sub-adult),0.188011
+StartDepth,0.9236,Sheepshead (Adult),0.173373
+StartDepth,0.9236,Sheepshead (Recruit),0.016123
+StartDepth,0.9236,Blue Crab (Recruit),0.253549
+StartDepth,0.9236,Common Snook (Adult),0.362023
+StartDepth,0.9236,Common Snook (Sub-adult),0.006777
+StartDepth,0.9236,Spotted Seatrout (Adult),0.072352
+StartDepth,0.9236,Spotted Seatrout (Recruit),0.266623
+StartDepth,0.9236,Gray Snapper (Recruit),0.028943
+StartDepth,0.9236,Gray Snapper (Sub-adult),0.053584
+StartDepth,0.9236,Gag Grouper (Sub-adult),0.012257
+StartDepth,0.9236,Red Drum (Recruit),0.021762
+StartDepth,0.9236,Red Drum (Sub-adult),0.186813
+StartDepth,0.9558,Sheepshead (Adult),0.173705
+StartDepth,0.9558,Sheepshead (Recruit),0.016073
+StartDepth,0.9558,Blue Crab (Recruit),0.253682
+StartDepth,0.9558,Common Snook (Adult),0.361195
+StartDepth,0.9558,Common Snook (Sub-adult),0.006799
+StartDepth,0.9558,Spotted Seatrout (Adult),0.073554
+StartDepth,0.9558,Spotted Seatrout (Recruit),0.267028
+StartDepth,0.9558,Gray Snapper (Recruit),0.028938
+StartDepth,0.9558,Gray Snapper (Sub-adult),0.054337
+StartDepth,0.9558,Gag Grouper (Sub-adult),0.012495
+StartDepth,0.9558,Red Drum (Recruit),0.021868
+StartDepth,0.9558,Red Drum (Sub-adult),0.185539
+StartDepth,0.9879,Sheepshead (Adult),0.173977
+StartDepth,0.9879,Sheepshead (Recruit),0.016033
+StartDepth,0.9879,Blue Crab (Recruit),0.253835
+StartDepth,0.9879,Common Snook (Adult),0.360335
+StartDepth,0.9879,Common Snook (Sub-adult),0.006813
+StartDepth,0.9879,Spotted Seatrout (Adult),0.074733
+StartDepth,0.9879,Spotted Seatrout (Recruit),0.267426
+StartDepth,0.9879,Gray Snapper (Recruit),0.028923
+StartDepth,0.9879,Gray Snapper (Sub-adult),0.055088
+StartDepth,0.9879,Gag Grouper (Sub-adult),0.012735
+StartDepth,0.9879,Red Drum (Recruit),0.021966
+StartDepth,0.9879,Red Drum (Sub-adult),0.184214
+StartDepth,1.02,Sheepshead (Adult),0.174167
+StartDepth,1.02,Sheepshead (Recruit),0.015991
+StartDepth,1.02,Blue Crab (Recruit),0.254005
+StartDepth,1.02,Common Snook (Adult),0.359376
+StartDepth,1.02,Common Snook (Sub-adult),0.006825
+StartDepth,1.02,Spotted Seatrout (Adult),0.07596
+StartDepth,1.02,Spotted Seatrout (Recruit),0.26781
+StartDepth,1.02,Gray Snapper (Recruit),0.028895
+StartDepth,1.02,Gray Snapper (Sub-adult),0.05583
+StartDepth,1.02,Gag Grouper (Sub-adult),0.012975
+StartDepth,1.02,Red Drum (Recruit),0.02207
+StartDepth,1.02,Red Drum (Sub-adult),0.182836
+StartDepth,1.0521,Sheepshead (Adult),0.174288
+StartDepth,1.0521,Sheepshead (Recruit),0.015945
+StartDepth,1.0521,Blue Crab (Recruit),0.254208
+StartDepth,1.0521,Common Snook (Adult),0.358324
+StartDepth,1.0521,Common Snook (Sub-adult),0.006834
+StartDepth,1.0521,Spotted Seatrout (Adult),0.077246
+StartDepth,1.0521,Spotted Seatrout (Recruit),0.268098
+StartDepth,1.0521,Gray Snapper (Recruit),0.028864
+StartDepth,1.0521,Gray Snapper (Sub-adult),0.056563
+StartDepth,1.0521,Gag Grouper (Sub-adult),0.013216
+StartDepth,1.0521,Red Drum (Recruit),0.022181
+StartDepth,1.0521,Red Drum (Sub-adult),0.181432
+StartDepth,1.0842,Sheepshead (Adult),0.174351
+StartDepth,1.0842,Sheepshead (Recruit),0.015897
+StartDepth,1.0842,Blue Crab (Recruit),0.254332
+StartDepth,1.0842,Common Snook (Adult),0.357306
+StartDepth,1.0842,Common Snook (Sub-adult),0.006846
+StartDepth,1.0842,Spotted Seatrout (Adult),0.078523
+StartDepth,1.0842,Spotted Seatrout (Recruit),0.268393
+StartDepth,1.0842,Gray Snapper (Recruit),0.028811
+StartDepth,1.0842,Gray Snapper (Sub-adult),0.057301
+StartDepth,1.0842,Gag Grouper (Sub-adult),0.013456
+StartDepth,1.0842,Red Drum (Recruit),0.022281
+StartDepth,1.0842,Red Drum (Sub-adult),0.179983
+StartDepth,1.1163,Sheepshead (Adult),0.174378
+StartDepth,1.1163,Sheepshead (Recruit),0.015842
+StartDepth,1.1163,Blue Crab (Recruit),0.254495
+StartDepth,1.1163,Common Snook (Adult),0.356361
+StartDepth,1.1163,Common Snook (Sub-adult),0.00686
+StartDepth,1.1163,Spotted Seatrout (Adult),0.079809
+StartDepth,1.1163,Spotted Seatrout (Recruit),0.26858
+StartDepth,1.1163,Gray Snapper (Recruit),0.028761
+StartDepth,1.1163,Gray Snapper (Sub-adult),0.058054
+StartDepth,1.1163,Gag Grouper (Sub-adult),0.013698
+StartDepth,1.1163,Red Drum (Recruit),0.022385
+StartDepth,1.1163,Red Drum (Sub-adult),0.178498
+StartDepth,1.1484,Sheepshead (Adult),0.174392
+StartDepth,1.1484,Sheepshead (Recruit),0.015792
+StartDepth,1.1484,Blue Crab (Recruit),0.254535
+StartDepth,1.1484,Common Snook (Adult),0.355348
+StartDepth,1.1484,Common Snook (Sub-adult),0.006863
+StartDepth,1.1484,Spotted Seatrout (Adult),0.081117
+StartDepth,1.1484,Spotted Seatrout (Recruit),0.268717
+StartDepth,1.1484,Gray Snapper (Recruit),0.028683
+StartDepth,1.1484,Gray Snapper (Sub-adult),0.058801
+StartDepth,1.1484,Gag Grouper (Sub-adult),0.013941
+StartDepth,1.1484,Red Drum (Recruit),0.022454
+StartDepth,1.1484,Red Drum (Sub-adult),0.177005
+StartDepth,1.1805,Sheepshead (Adult),0.174347
+StartDepth,1.1805,Sheepshead (Recruit),0.015738
+StartDepth,1.1805,Blue Crab (Recruit),0.254591
+StartDepth,1.1805,Common Snook (Adult),0.35432
+StartDepth,1.1805,Common Snook (Sub-adult),0.006859
+StartDepth,1.1805,Spotted Seatrout (Adult),0.082464
+StartDepth,1.1805,Spotted Seatrout (Recruit),0.268758
+StartDepth,1.1805,Gray Snapper (Recruit),0.028595
+StartDepth,1.1805,Gray Snapper (Sub-adult),0.059532
+StartDepth,1.1805,Gag Grouper (Sub-adult),0.014183
+StartDepth,1.1805,Red Drum (Recruit),0.022513
+StartDepth,1.1805,Red Drum (Sub-adult),0.175482
+Pinfish_A,-0.0,Sheepshead (Adult),0.145981
+Pinfish_A,-0.0,Sheepshead (Recruit),0.017178
+Pinfish_A,-0.0,Blue Crab (Recruit),0.260899
+Pinfish_A,-0.0,Common Snook (Adult),0.307454
+Pinfish_A,-0.0,Common Snook (Sub-adult),0.007023
+Pinfish_A,-0.0,Spotted Seatrout (Adult),0.068138
+Pinfish_A,-0.0,Spotted Seatrout (Recruit),0.277213
+Pinfish_A,-0.0,Gray Snapper (Recruit),0.028733
+Pinfish_A,-0.0,Gray Snapper (Sub-adult),0.042637
+Pinfish_A,-0.0,Gag Grouper (Sub-adult),0.011107
+Pinfish_A,-0.0,Red Drum (Recruit),0.021972
+Pinfish_A,-0.0,Red Drum (Sub-adult),0.166757
+Pinfish_A,0.1328,Sheepshead (Adult),0.148963
+Pinfish_A,0.1328,Sheepshead (Recruit),0.017166
+Pinfish_A,0.1328,Blue Crab (Recruit),0.26065
+Pinfish_A,0.1328,Common Snook (Adult),0.312773
+Pinfish_A,0.1328,Common Snook (Sub-adult),0.006977
+Pinfish_A,0.1328,Spotted Seatrout (Adult),0.068995
+Pinfish_A,0.1328,Spotted Seatrout (Recruit),0.275973
+Pinfish_A,0.1328,Gray Snapper (Recruit),0.028831
+Pinfish_A,0.1328,Gray Snapper (Sub-adult),0.043578
+Pinfish_A,0.1328,Gag Grouper (Sub-adult),0.011314
+Pinfish_A,0.1328,Red Drum (Recruit),0.021928
+Pinfish_A,0.1328,Red Drum (Sub-adult),0.170086
+Pinfish_A,0.2657,Sheepshead (Adult),0.151942
+Pinfish_A,0.2657,Sheepshead (Recruit),0.017157
+Pinfish_A,0.2657,Blue Crab (Recruit),0.260306
+Pinfish_A,0.2657,Common Snook (Adult),0.317957
+Pinfish_A,0.2657,Common Snook (Sub-adult),0.006927
+Pinfish_A,0.2657,Spotted Seatrout (Adult),0.069813
+Pinfish_A,0.2657,Spotted Seatrout (Recruit),0.274652
+Pinfish_A,0.2657,Gray Snapper (Recruit),0.028911
+Pinfish_A,0.2657,Gray Snapper (Sub-adult),0.044485
+Pinfish_A,0.2657,Gag Grouper (Sub-adult),0.011507
+Pinfish_A,0.2657,Red Drum (Recruit),0.021891
+Pinfish_A,0.2657,Red Drum (Sub-adult),0.17337
+Pinfish_A,0.3985,Sheepshead (Adult),0.154964
+Pinfish_A,0.3985,Sheepshead (Recruit),0.01711
+Pinfish_A,0.3985,Blue Crab (Recruit),0.259809
+Pinfish_A,0.3985,Common Snook (Adult),0.32307
+Pinfish_A,0.3985,Common Snook (Sub-adult),0.006873
+Pinfish_A,0.3985,Spotted Seatrout (Adult),0.070631
+Pinfish_A,0.3985,Spotted Seatrout (Recruit),0.273238
+Pinfish_A,0.3985,Gray Snapper (Recruit),0.028973
+Pinfish_A,0.3985,Gray Snapper (Sub-adult),0.045367
+Pinfish_A,0.3985,Gag Grouper (Sub-adult),0.011688
+Pinfish_A,0.3985,Red Drum (Recruit),0.021842
+Pinfish_A,0.3985,Red Drum (Sub-adult),0.176664
+Pinfish_A,0.5314,Sheepshead (Adult),0.15799
+Pinfish_A,0.5314,Sheepshead (Recruit),0.017052
+Pinfish_A,0.5314,Blue Crab (Recruit),0.259215
+Pinfish_A,0.5314,Common Snook (Adult),0.328132
+Pinfish_A,0.5314,Common Snook (Sub-adult),0.006809
+Pinfish_A,0.5314,Spotted Seatrout (Adult),0.0714
+Pinfish_A,0.5314,Spotted Seatrout (Recruit),0.271862
+Pinfish_A,0.5314,Gray Snapper (Recruit),0.029019
+Pinfish_A,0.5314,Gray Snapper (Sub-adult),0.046205
+Pinfish_A,0.5314,Gag Grouper (Sub-adult),0.011848
+Pinfish_A,0.5314,Red Drum (Recruit),0.021788
+Pinfish_A,0.5314,Red Drum (Sub-adult),0.179943
+Pinfish_A,0.6642,Sheepshead (Adult),0.160935
+Pinfish_A,0.6642,Sheepshead (Recruit),0.016957
+Pinfish_A,0.6642,Blue Crab (Recruit),0.258462
+Pinfish_A,0.6642,Common Snook (Adult),0.333046
+Pinfish_A,0.6642,Common Snook (Sub-adult),0.006746
+Pinfish_A,0.6642,Spotted Seatrout (Adult),0.072081
+Pinfish_A,0.6642,Spotted Seatrout (Recruit),0.270269
+Pinfish_A,0.6642,Gray Snapper (Recruit),0.029039
+Pinfish_A,0.6642,Gray Snapper (Sub-adult),0.047008
+Pinfish_A,0.6642,Gag Grouper (Sub-adult),0.011986
+Pinfish_A,0.6642,Red Drum (Recruit),0.021716
+Pinfish_A,0.6642,Red Drum (Sub-adult),0.183228
+Pinfish_A,0.797,Sheepshead (Adult),0.163863
+Pinfish_A,0.797,Sheepshead (Recruit),0.016851
+Pinfish_A,0.797,Blue Crab (Recruit),0.257559
+Pinfish_A,0.797,Common Snook (Adult),0.337893
+Pinfish_A,0.797,Common Snook (Sub-adult),0.006675
+Pinfish_A,0.797,Spotted Seatrout (Adult),0.072745
+Pinfish_A,0.797,Spotted Seatrout (Recruit),0.268653
+Pinfish_A,0.797,Gray Snapper (Recruit),0.029043
+Pinfish_A,0.797,Gray Snapper (Sub-adult),0.047787
+Pinfish_A,0.797,Gag Grouper (Sub-adult),0.012103
+Pinfish_A,0.797,Red Drum (Recruit),0.021657
+Pinfish_A,0.797,Red Drum (Sub-adult),0.186537
+Pinfish_A,0.9299,Sheepshead (Adult),0.166728
+Pinfish_A,0.9299,Sheepshead (Recruit),0.016736
+Pinfish_A,0.9299,Blue Crab (Recruit),0.256453
+Pinfish_A,0.9299,Common Snook (Adult),0.342809
+Pinfish_A,0.9299,Common Snook (Sub-adult),0.006598
+Pinfish_A,0.9299,Spotted Seatrout (Adult),0.073302
+Pinfish_A,0.9299,Spotted Seatrout (Recruit),0.266907
+Pinfish_A,0.9299,Gray Snapper (Recruit),0.029026
+Pinfish_A,0.9299,Gray Snapper (Sub-adult),0.048513
+Pinfish_A,0.9299,Gag Grouper (Sub-adult),0.012203
+Pinfish_A,0.9299,Red Drum (Recruit),0.021578
+Pinfish_A,0.9299,Red Drum (Sub-adult),0.189838
+Pinfish_A,1.0627,Sheepshead (Adult),0.16957
+Pinfish_A,1.0627,Sheepshead (Recruit),0.016613
+Pinfish_A,1.0627,Blue Crab (Recruit),0.255196
+Pinfish_A,1.0627,Common Snook (Adult),0.347669
+Pinfish_A,1.0627,Common Snook (Sub-adult),0.00652
+Pinfish_A,1.0627,Spotted Seatrout (Adult),0.073827
+Pinfish_A,1.0627,Spotted Seatrout (Recruit),0.264959
+Pinfish_A,1.0627,Gray Snapper (Recruit),0.028992
+Pinfish_A,1.0627,Gray Snapper (Sub-adult),0.049192
+Pinfish_A,1.0627,Gag Grouper (Sub-adult),0.012299
+Pinfish_A,1.0627,Red Drum (Recruit),0.021479
+Pinfish_A,1.0627,Red Drum (Sub-adult),0.19314
+Pinfish_A,1.1956,Sheepshead (Adult),0.172341
+Pinfish_A,1.1956,Sheepshead (Recruit),0.016479
+Pinfish_A,1.1956,Blue Crab (Recruit),0.253711
+Pinfish_A,1.1956,Common Snook (Adult),0.352433
+Pinfish_A,1.1956,Common Snook (Sub-adult),0.006435
+Pinfish_A,1.1956,Spotted Seatrout (Adult),0.074309
+Pinfish_A,1.1956,Spotted Seatrout (Recruit),0.263007
+Pinfish_A,1.1956,Gray Snapper (Recruit),0.028935
+Pinfish_A,1.1956,Gray Snapper (Sub-adult),0.049845
+Pinfish_A,1.1956,Gag Grouper (Sub-adult),0.012371
+Pinfish_A,1.1956,Red Drum (Recruit),0.021368
+Pinfish_A,1.1956,Red Drum (Sub-adult),0.196495
+Pinfish_A,1.3284,Sheepshead (Adult),0.175066
+Pinfish_A,1.3284,Sheepshead (Recruit),0.016333
+Pinfish_A,1.3284,Blue Crab (Recruit),0.251964
+Pinfish_A,1.3284,Common Snook (Adult),0.357174
+Pinfish_A,1.3284,Common Snook (Sub-adult),0.00636
+Pinfish_A,1.3284,Spotted Seatrout (Adult),0.074769
+Pinfish_A,1.3284,Spotted Seatrout (Recruit),0.260976
+Pinfish_A,1.3284,Gray Snapper (Recruit),0.028866
+Pinfish_A,1.3284,Gray Snapper (Sub-adult),0.050492
+Pinfish_A,1.3284,Gag Grouper (Sub-adult),0.012436
+Pinfish_A,1.3284,Red Drum (Recruit),0.021272
+Pinfish_A,1.3284,Red Drum (Sub-adult),0.199816
+Pinfish_A,1.4612,Sheepshead (Adult),0.177758
+Pinfish_A,1.4612,Sheepshead (Recruit),0.016165
+Pinfish_A,1.4612,Blue Crab (Recruit),0.25005
+Pinfish_A,1.4612,Common Snook (Adult),0.361937
+Pinfish_A,1.4612,Common Snook (Sub-adult),0.00628
+Pinfish_A,1.4612,Spotted Seatrout (Adult),0.075177
+Pinfish_A,1.4612,Spotted Seatrout (Recruit),0.258804
+Pinfish_A,1.4612,Gray Snapper (Recruit),0.028772
+Pinfish_A,1.4612,Gray Snapper (Sub-adult),0.051106
+Pinfish_A,1.4612,Gag Grouper (Sub-adult),0.012484
+Pinfish_A,1.4612,Red Drum (Recruit),0.021185
+Pinfish_A,1.4612,Red Drum (Sub-adult),0.203196
+Pinfish_A,1.5941,Sheepshead (Adult),0.180409
+Pinfish_A,1.5941,Sheepshead (Recruit),0.016007
+Pinfish_A,1.5941,Blue Crab (Recruit),0.248016
+Pinfish_A,1.5941,Common Snook (Adult),0.366581
+Pinfish_A,1.5941,Common Snook (Sub-adult),0.006197
+Pinfish_A,1.5941,Spotted Seatrout (Adult),0.075559
+Pinfish_A,1.5941,Spotted Seatrout (Recruit),0.256668
+Pinfish_A,1.5941,Gray Snapper (Recruit),0.028665
+Pinfish_A,1.5941,Gray Snapper (Sub-adult),0.051693
+Pinfish_A,1.5941,Gag Grouper (Sub-adult),0.012527
+Pinfish_A,1.5941,Red Drum (Recruit),0.02109
+Pinfish_A,1.5941,Red Drum (Sub-adult),0.206629
+Pinfish_A,1.7269,Sheepshead (Adult),0.183065
+Pinfish_A,1.7269,Sheepshead (Recruit),0.015826
+Pinfish_A,1.7269,Blue Crab (Recruit),0.245879
+Pinfish_A,1.7269,Common Snook (Adult),0.371282
+Pinfish_A,1.7269,Common Snook (Sub-adult),0.006118
+Pinfish_A,1.7269,Spotted Seatrout (Adult),0.07591
+Pinfish_A,1.7269,Spotted Seatrout (Recruit),0.254416
+Pinfish_A,1.7269,Gray Snapper (Recruit),0.028552
+Pinfish_A,1.7269,Gray Snapper (Sub-adult),0.05226
+Pinfish_A,1.7269,Gag Grouper (Sub-adult),0.012555
+Pinfish_A,1.7269,Red Drum (Recruit),0.021009
+Pinfish_A,1.7269,Red Drum (Sub-adult),0.210159
+Pinfish_A,1.8598,Sheepshead (Adult),0.185689
+Pinfish_A,1.8598,Sheepshead (Recruit),0.015637
+Pinfish_A,1.8598,Blue Crab (Recruit),0.243676
+Pinfish_A,1.8598,Common Snook (Adult),0.375958
+Pinfish_A,1.8598,Common Snook (Sub-adult),0.006036
+Pinfish_A,1.8598,Spotted Seatrout (Adult),0.076239
+Pinfish_A,1.8598,Spotted Seatrout (Recruit),0.252085
+Pinfish_A,1.8598,Gray Snapper (Recruit),0.028433
+Pinfish_A,1.8598,Gray Snapper (Sub-adult),0.052804
+Pinfish_A,1.8598,Gag Grouper (Sub-adult),0.012577
+Pinfish_A,1.8598,Red Drum (Recruit),0.020926
+Pinfish_A,1.8598,Red Drum (Sub-adult),0.213748
+Pinfish_A,1.9926,Sheepshead (Adult),0.188261
+Pinfish_A,1.9926,Sheepshead (Recruit),0.015449
+Pinfish_A,1.9926,Blue Crab (Recruit),0.241338
+Pinfish_A,1.9926,Common Snook (Adult),0.380632
+Pinfish_A,1.9926,Common Snook (Sub-adult),0.005954
+Pinfish_A,1.9926,Spotted Seatrout (Adult),0.076571
+Pinfish_A,1.9926,Spotted Seatrout (Recruit),0.249746
+Pinfish_A,1.9926,Gray Snapper (Recruit),0.028304
+Pinfish_A,1.9926,Gray Snapper (Sub-adult),0.053324
+Pinfish_A,1.9926,Gag Grouper (Sub-adult),0.012586
+Pinfish_A,1.9926,Red Drum (Recruit),0.020839
+Pinfish_A,1.9926,Red Drum (Sub-adult),0.217355
+Pinfish_A,2.1254,Sheepshead (Adult),0.19079
+Pinfish_A,2.1254,Sheepshead (Recruit),0.015267
+Pinfish_A,2.1254,Blue Crab (Recruit),0.238901
+Pinfish_A,2.1254,Common Snook (Adult),0.385235
+Pinfish_A,2.1254,Common Snook (Sub-adult),0.005875
+Pinfish_A,2.1254,Spotted Seatrout (Adult),0.07686
+Pinfish_A,2.1254,Spotted Seatrout (Recruit),0.247323
+Pinfish_A,2.1254,Gray Snapper (Recruit),0.028173
+Pinfish_A,2.1254,Gray Snapper (Sub-adult),0.053818
+Pinfish_A,2.1254,Gag Grouper (Sub-adult),0.012589
+Pinfish_A,2.1254,Red Drum (Recruit),0.020752
+Pinfish_A,2.1254,Red Drum (Sub-adult),0.221005
+Pinfish_A,2.2583,Sheepshead (Adult),0.193267
+Pinfish_A,2.2583,Sheepshead (Recruit),0.015064
+Pinfish_A,2.2583,Blue Crab (Recruit),0.23644
+Pinfish_A,2.2583,Common Snook (Adult),0.389752
+Pinfish_A,2.2583,Common Snook (Sub-adult),0.005808
+Pinfish_A,2.2583,Spotted Seatrout (Adult),0.07712
+Pinfish_A,2.2583,Spotted Seatrout (Recruit),0.244888
+Pinfish_A,2.2583,Gray Snapper (Recruit),0.028026
+Pinfish_A,2.2583,Gray Snapper (Sub-adult),0.054291
+Pinfish_A,2.2583,Gag Grouper (Sub-adult),0.012581
+Pinfish_A,2.2583,Red Drum (Recruit),0.020666
+Pinfish_A,2.2583,Red Drum (Sub-adult),0.224757
+Pinfish_A,2.3911,Sheepshead (Adult),0.195696
+Pinfish_A,2.3911,Sheepshead (Recruit),0.014866
+Pinfish_A,2.3911,Blue Crab (Recruit),0.233934
+Pinfish_A,2.3911,Common Snook (Adult),0.394272
+Pinfish_A,2.3911,Common Snook (Sub-adult),0.005724
+Pinfish_A,2.3911,Spotted Seatrout (Adult),0.077378
+Pinfish_A,2.3911,Spotted Seatrout (Recruit),0.242387
+Pinfish_A,2.3911,Gray Snapper (Recruit),0.027863
+Pinfish_A,2.3911,Gray Snapper (Sub-adult),0.054737
+Pinfish_A,2.3911,Gag Grouper (Sub-adult),0.012552
+Pinfish_A,2.3911,Red Drum (Recruit),0.020577
+Pinfish_A,2.3911,Red Drum (Sub-adult),0.228628
+Pinfish_A,2.5239,Sheepshead (Adult),0.198044
+Pinfish_A,2.5239,Sheepshead (Recruit),0.014658
+Pinfish_A,2.5239,Blue Crab (Recruit),0.231468
+Pinfish_A,2.5239,Common Snook (Adult),0.398696
+Pinfish_A,2.5239,Common Snook (Sub-adult),0.005655
+Pinfish_A,2.5239,Spotted Seatrout (Adult),0.077618
+Pinfish_A,2.5239,Spotted Seatrout (Recruit),0.239794
+Pinfish_A,2.5239,Gray Snapper (Recruit),0.027703
+Pinfish_A,2.5239,Gray Snapper (Sub-adult),0.055168
+Pinfish_A,2.5239,Gag Grouper (Sub-adult),0.012523
+Pinfish_A,2.5239,Red Drum (Recruit),0.020512
+Pinfish_A,2.5239,Red Drum (Sub-adult),0.232577
+Pinfish_R,-0.0,Sheepshead (Adult),0.167129
+Pinfish_R,-0.0,Sheepshead (Recruit),0.012689
+Pinfish_R,-0.0,Blue Crab (Recruit),0.261933
+Pinfish_R,-0.0,Common Snook (Adult),0.350833
+Pinfish_R,-0.0,Common Snook (Sub-adult),0.006668
+Pinfish_R,-0.0,Spotted Seatrout (Adult),0.073775
+Pinfish_R,-0.0,Spotted Seatrout (Recruit),0.266686
+Pinfish_R,-0.0,Gray Snapper (Recruit),0.028204
+Pinfish_R,-0.0,Gray Snapper (Sub-adult),0.05197
+Pinfish_R,-0.0,Gag Grouper (Sub-adult),0.01264
+Pinfish_R,-0.0,Red Drum (Recruit),0.021356
+Pinfish_R,-0.0,Red Drum (Sub-adult),0.189214
+Pinfish_R,0.1449,Sheepshead (Adult),0.167971
+Pinfish_R,0.1449,Sheepshead (Recruit),0.012952
+Pinfish_R,0.1449,Blue Crab (Recruit),0.260473
+Pinfish_R,0.1449,Common Snook (Adult),0.353327
+Pinfish_R,0.1449,Common Snook (Sub-adult),0.006743
+Pinfish_R,0.1449,Spotted Seatrout (Adult),0.073102
+Pinfish_R,0.1449,Spotted Seatrout (Recruit),0.266733
+Pinfish_R,0.1449,Gray Snapper (Recruit),0.028714
+Pinfish_R,0.1449,Gray Snapper (Sub-adult),0.052463
+Pinfish_R,0.1449,Gag Grouper (Sub-adult),0.012647
+Pinfish_R,0.1449,Red Drum (Recruit),0.021395
+Pinfish_R,0.1449,Red Drum (Sub-adult),0.189329
+Pinfish_R,0.2898,Sheepshead (Adult),0.168778
+Pinfish_R,0.2898,Sheepshead (Recruit),0.013224
+Pinfish_R,0.2898,Blue Crab (Recruit),0.259034
+Pinfish_R,0.2898,Common Snook (Adult),0.355735
+Pinfish_R,0.2898,Common Snook (Sub-adult),0.006805
+Pinfish_R,0.2898,Spotted Seatrout (Adult),0.072451
+Pinfish_R,0.2898,Spotted Seatrout (Recruit),0.266862
+Pinfish_R,0.2898,Gray Snapper (Recruit),0.029217
+Pinfish_R,0.2898,Gray Snapper (Sub-adult),0.052936
+Pinfish_R,0.2898,Gag Grouper (Sub-adult),0.012649
+Pinfish_R,0.2898,Red Drum (Recruit),0.021443
+Pinfish_R,0.2898,Red Drum (Sub-adult),0.189408
+Pinfish_R,0.4347,Sheepshead (Adult),0.169559
+Pinfish_R,0.4347,Sheepshead (Recruit),0.013501
+Pinfish_R,0.4347,Blue Crab (Recruit),0.257574
+Pinfish_R,0.4347,Common Snook (Adult),0.358098
+Pinfish_R,0.4347,Common Snook (Sub-adult),0.006862
+Pinfish_R,0.4347,Spotted Seatrout (Adult),0.071863
+Pinfish_R,0.4347,Spotted Seatrout (Recruit),0.266954
+Pinfish_R,0.4347,Gray Snapper (Recruit),0.0297
+Pinfish_R,0.4347,Gray Snapper (Sub-adult),0.053374
+Pinfish_R,0.4347,Gag Grouper (Sub-adult),0.012649
+Pinfish_R,0.4347,Red Drum (Recruit),0.02148
+Pinfish_R,0.4347,Red Drum (Sub-adult),0.18944
+Pinfish_R,0.5795,Sheepshead (Adult),0.170361
+Pinfish_R,0.5795,Sheepshead (Recruit),0.01379
+Pinfish_R,0.5795,Blue Crab (Recruit),0.256224
+Pinfish_R,0.5795,Common Snook (Adult),0.360434
+Pinfish_R,0.5795,Common Snook (Sub-adult),0.006911
+Pinfish_R,0.5795,Spotted Seatrout (Adult),0.071319
+Pinfish_R,0.5795,Spotted Seatrout (Recruit),0.267115
+Pinfish_R,0.5795,Gray Snapper (Recruit),0.030168
+Pinfish_R,0.5795,Gray Snapper (Sub-adult),0.053785
+Pinfish_R,0.5795,Gag Grouper (Sub-adult),0.012651
+Pinfish_R,0.5795,Red Drum (Recruit),0.021503
+Pinfish_R,0.5795,Red Drum (Sub-adult),0.189487
+Pinfish_R,0.7244,Sheepshead (Adult),0.171138
+Pinfish_R,0.7244,Sheepshead (Recruit),0.014083
+Pinfish_R,0.7244,Blue Crab (Recruit),0.25482
+Pinfish_R,0.7244,Common Snook (Adult),0.362695
+Pinfish_R,0.7244,Common Snook (Sub-adult),0.006954
+Pinfish_R,0.7244,Spotted Seatrout (Adult),0.070811
+Pinfish_R,0.7244,Spotted Seatrout (Recruit),0.26723
+Pinfish_R,0.7244,Gray Snapper (Recruit),0.030635
+Pinfish_R,0.7244,Gray Snapper (Sub-adult),0.054172
+Pinfish_R,0.7244,Gag Grouper (Sub-adult),0.012647
+Pinfish_R,0.7244,Red Drum (Recruit),0.021528
+Pinfish_R,0.7244,Red Drum (Sub-adult),0.189528
+Pinfish_R,0.8693,Sheepshead (Adult),0.171893
+Pinfish_R,0.8693,Sheepshead (Recruit),0.014382
+Pinfish_R,0.8693,Blue Crab (Recruit),0.253446
+Pinfish_R,0.8693,Common Snook (Adult),0.365021
+Pinfish_R,0.8693,Common Snook (Sub-adult),0.007005
+Pinfish_R,0.8693,Spotted Seatrout (Adult),0.07031
+Pinfish_R,0.8693,Spotted Seatrout (Recruit),0.267325
+Pinfish_R,0.8693,Gray Snapper (Recruit),0.031092
+Pinfish_R,0.8693,Gray Snapper (Sub-adult),0.05455
+Pinfish_R,0.8693,Gag Grouper (Sub-adult),0.012651
+Pinfish_R,0.8693,Red Drum (Recruit),0.02155
+Pinfish_R,0.8693,Red Drum (Sub-adult),0.189516
+Pinfish_R,1.0142,Sheepshead (Adult),0.172585
+Pinfish_R,1.0142,Sheepshead (Recruit),0.014697
+Pinfish_R,1.0142,Blue Crab (Recruit),0.252057
+Pinfish_R,1.0142,Common Snook (Adult),0.367243
+Pinfish_R,1.0142,Common Snook (Sub-adult),0.007043
+Pinfish_R,1.0142,Spotted Seatrout (Adult),0.069814
+Pinfish_R,1.0142,Spotted Seatrout (Recruit),0.267402
+Pinfish_R,1.0142,Gray Snapper (Recruit),0.031528
+Pinfish_R,1.0142,Gray Snapper (Sub-adult),0.054869
+Pinfish_R,1.0142,Gag Grouper (Sub-adult),0.012652
+Pinfish_R,1.0142,Red Drum (Recruit),0.021559
+Pinfish_R,1.0142,Red Drum (Sub-adult),0.189407
+Pinfish_R,1.1591,Sheepshead (Adult),0.173217
+Pinfish_R,1.1591,Sheepshead (Recruit),0.015021
+Pinfish_R,1.1591,Blue Crab (Recruit),0.250658
+Pinfish_R,1.1591,Common Snook (Adult),0.369476
+Pinfish_R,1.1591,Common Snook (Sub-adult),0.007075
+Pinfish_R,1.1591,Spotted Seatrout (Adult),0.069327
+Pinfish_R,1.1591,Spotted Seatrout (Recruit),0.267427
+Pinfish_R,1.1591,Gray Snapper (Recruit),0.031955
+Pinfish_R,1.1591,Gray Snapper (Sub-adult),0.055138
+Pinfish_R,1.1591,Gag Grouper (Sub-adult),0.012647
+Pinfish_R,1.1591,Red Drum (Recruit),0.02156
+Pinfish_R,1.1591,Red Drum (Sub-adult),0.189249
+Pinfish_R,1.304,Sheepshead (Adult),0.173789
+Pinfish_R,1.304,Sheepshead (Recruit),0.015366
+Pinfish_R,1.304,Blue Crab (Recruit),0.24922
+Pinfish_R,1.304,Common Snook (Adult),0.371668
+Pinfish_R,1.304,Common Snook (Sub-adult),0.007104
+Pinfish_R,1.304,Spotted Seatrout (Adult),0.068825
+Pinfish_R,1.304,Spotted Seatrout (Recruit),0.267559
+Pinfish_R,1.304,Gray Snapper (Recruit),0.032369
+Pinfish_R,1.304,Gray Snapper (Sub-adult),0.055372
+Pinfish_R,1.304,Gag Grouper (Sub-adult),0.012641
+Pinfish_R,1.304,Red Drum (Recruit),0.021519
+Pinfish_R,1.304,Red Drum (Sub-adult),0.189064
+Pinfish_R,1.4489,Sheepshead (Adult),0.174338
+Pinfish_R,1.4489,Sheepshead (Recruit),0.015713
+Pinfish_R,1.4489,Blue Crab (Recruit),0.247728
+Pinfish_R,1.4489,Common Snook (Adult),0.373751
+Pinfish_R,1.4489,Common Snook (Sub-adult),0.007124
+Pinfish_R,1.4489,Spotted Seatrout (Adult),0.068317
+Pinfish_R,1.4489,Spotted Seatrout (Recruit),0.267655
+Pinfish_R,1.4489,Gray Snapper (Recruit),0.032769
+Pinfish_R,1.4489,Gray Snapper (Sub-adult),0.055557
+Pinfish_R,1.4489,Gag Grouper (Sub-adult),0.012629
+Pinfish_R,1.4489,Red Drum (Recruit),0.021452
+Pinfish_R,1.4489,Red Drum (Sub-adult),0.188878
+Pinfish_R,1.5937,Sheepshead (Adult),0.174828
+Pinfish_R,1.5937,Sheepshead (Recruit),0.016075
+Pinfish_R,1.5937,Blue Crab (Recruit),0.246368
+Pinfish_R,1.5937,Common Snook (Adult),0.375745
+Pinfish_R,1.5937,Common Snook (Sub-adult),0.007135
+Pinfish_R,1.5937,Spotted Seatrout (Adult),0.067809
+Pinfish_R,1.5937,Spotted Seatrout (Recruit),0.267705
+Pinfish_R,1.5937,Gray Snapper (Recruit),0.03314
+Pinfish_R,1.5937,Gray Snapper (Sub-adult),0.055709
+Pinfish_R,1.5937,Gag Grouper (Sub-adult),0.012616
+Pinfish_R,1.5937,Red Drum (Recruit),0.021376
+Pinfish_R,1.5937,Red Drum (Sub-adult),0.188625
+Pinfish_R,1.7386,Sheepshead (Adult),0.175202
+Pinfish_R,1.7386,Sheepshead (Recruit),0.016433
+Pinfish_R,1.7386,Blue Crab (Recruit),0.244971
+Pinfish_R,1.7386,Common Snook (Adult),0.377726
+Pinfish_R,1.7386,Common Snook (Sub-adult),0.007136
+Pinfish_R,1.7386,Spotted Seatrout (Adult),0.067259
+Pinfish_R,1.7386,Spotted Seatrout (Recruit),0.267704
+Pinfish_R,1.7386,Gray Snapper (Recruit),0.033493
+Pinfish_R,1.7386,Gray Snapper (Sub-adult),0.055805
+Pinfish_R,1.7386,Gag Grouper (Sub-adult),0.012589
+Pinfish_R,1.7386,Red Drum (Recruit),0.021266
+Pinfish_R,1.7386,Red Drum (Sub-adult),0.18831
+Pinfish_R,1.8835,Sheepshead (Adult),0.17551
+Pinfish_R,1.8835,Sheepshead (Recruit),0.016803
+Pinfish_R,1.8835,Blue Crab (Recruit),0.243655
+Pinfish_R,1.8835,Common Snook (Adult),0.379641
+Pinfish_R,1.8835,Common Snook (Sub-adult),0.007128
+Pinfish_R,1.8835,Spotted Seatrout (Adult),0.066715
+Pinfish_R,1.8835,Spotted Seatrout (Recruit),0.267748
+Pinfish_R,1.8835,Gray Snapper (Recruit),0.033826
+Pinfish_R,1.8835,Gray Snapper (Sub-adult),0.055861
+Pinfish_R,1.8835,Gag Grouper (Sub-adult),0.012562
+Pinfish_R,1.8835,Red Drum (Recruit),0.02115
+Pinfish_R,1.8835,Red Drum (Sub-adult),0.187924
+Pinfish_R,2.0284,Sheepshead (Adult),0.175842
+Pinfish_R,2.0284,Sheepshead (Recruit),0.01717
+Pinfish_R,2.0284,Blue Crab (Recruit),0.242319
+Pinfish_R,2.0284,Common Snook (Adult),0.38163
+Pinfish_R,2.0284,Common Snook (Sub-adult),0.007111
+Pinfish_R,2.0284,Spotted Seatrout (Adult),0.066211
+Pinfish_R,2.0284,Spotted Seatrout (Recruit),0.267818
+Pinfish_R,2.0284,Gray Snapper (Recruit),0.034142
+Pinfish_R,2.0284,Gray Snapper (Sub-adult),0.055922
+Pinfish_R,2.0284,Gag Grouper (Sub-adult),0.012536
+Pinfish_R,2.0284,Red Drum (Recruit),0.021032
+Pinfish_R,2.0284,Red Drum (Sub-adult),0.187534
+Pinfish_R,2.1733,Sheepshead (Adult),0.176107
+Pinfish_R,2.1733,Sheepshead (Recruit),0.017546
+Pinfish_R,2.1733,Blue Crab (Recruit),0.241027
+Pinfish_R,2.1733,Common Snook (Adult),0.383536
+Pinfish_R,2.1733,Common Snook (Sub-adult),0.007088
+Pinfish_R,2.1733,Spotted Seatrout (Adult),0.065699
+Pinfish_R,2.1733,Spotted Seatrout (Recruit),0.267917
+Pinfish_R,2.1733,Gray Snapper (Recruit),0.034441
+Pinfish_R,2.1733,Gray Snapper (Sub-adult),0.055947
+Pinfish_R,2.1733,Gag Grouper (Sub-adult),0.01251
+Pinfish_R,2.1733,Red Drum (Recruit),0.020898
+Pinfish_R,2.1733,Red Drum (Sub-adult),0.187104
+Pinfish_R,2.3182,Sheepshead (Adult),0.176314
+Pinfish_R,2.3182,Sheepshead (Recruit),0.017905
+Pinfish_R,2.3182,Blue Crab (Recruit),0.239732
+Pinfish_R,2.3182,Common Snook (Adult),0.385402
+Pinfish_R,2.3182,Common Snook (Sub-adult),0.007067
+Pinfish_R,2.3182,Spotted Seatrout (Adult),0.065183
+Pinfish_R,2.3182,Spotted Seatrout (Recruit),0.26797
+Pinfish_R,2.3182,Gray Snapper (Recruit),0.034708
+Pinfish_R,2.3182,Gray Snapper (Sub-adult),0.055931
+Pinfish_R,2.3182,Gag Grouper (Sub-adult),0.012477
+Pinfish_R,2.3182,Red Drum (Recruit),0.02076
+Pinfish_R,2.3182,Red Drum (Sub-adult),0.186655
+Pinfish_R,2.4631,Sheepshead (Adult),0.176464
+Pinfish_R,2.4631,Sheepshead (Recruit),0.018275
+Pinfish_R,2.4631,Blue Crab (Recruit),0.238597
+Pinfish_R,2.4631,Common Snook (Adult),0.387157
+Pinfish_R,2.4631,Common Snook (Sub-adult),0.007042
+Pinfish_R,2.4631,Spotted Seatrout (Adult),0.064708
+Pinfish_R,2.4631,Spotted Seatrout (Recruit),0.268001
+Pinfish_R,2.4631,Gray Snapper (Recruit),0.034957
+Pinfish_R,2.4631,Gray Snapper (Sub-adult),0.055893
+Pinfish_R,2.4631,Gag Grouper (Sub-adult),0.01244
+Pinfish_R,2.4631,Red Drum (Recruit),0.020631
+Pinfish_R,2.4631,Red Drum (Sub-adult),0.186217
+Pinfish_R,2.6079,Sheepshead (Adult),0.176552
+Pinfish_R,2.6079,Sheepshead (Recruit),0.018649
+Pinfish_R,2.6079,Blue Crab (Recruit),0.237489
+Pinfish_R,2.6079,Common Snook (Adult),0.388877
+Pinfish_R,2.6079,Common Snook (Sub-adult),0.007021
+Pinfish_R,2.6079,Spotted Seatrout (Adult),0.064222
+Pinfish_R,2.6079,Spotted Seatrout (Recruit),0.268067
+Pinfish_R,2.6079,Gray Snapper (Recruit),0.035179
+Pinfish_R,2.6079,Gray Snapper (Sub-adult),0.05582
+Pinfish_R,2.6079,Gag Grouper (Sub-adult),0.012401
+Pinfish_R,2.6079,Red Drum (Recruit),0.020507
+Pinfish_R,2.6079,Red Drum (Sub-adult),0.185728
+Pinfish_R,2.7528,Sheepshead (Adult),0.176583
+Pinfish_R,2.7528,Sheepshead (Recruit),0.019016
+Pinfish_R,2.7528,Blue Crab (Recruit),0.23646
+Pinfish_R,2.7528,Common Snook (Adult),0.390564
+Pinfish_R,2.7528,Common Snook (Sub-adult),0.006989
+Pinfish_R,2.7528,Spotted Seatrout (Adult),0.063761
+Pinfish_R,2.7528,Spotted Seatrout (Recruit),0.267996
+Pinfish_R,2.7528,Gray Snapper (Recruit),0.035387
+Pinfish_R,2.7528,Gray Snapper (Sub-adult),0.055715
+Pinfish_R,2.7528,Gag Grouper (Sub-adult),0.01236
+Pinfish_R,2.7528,Red Drum (Recruit),0.020387
+Pinfish_R,2.7528,Red Drum (Sub-adult),0.185264
+n_projects,-0.0,Sheepshead (Adult),298.79239
+n_projects,-0.0,Sheepshead (Recruit),28.645926
+n_projects,-0.0,Blue Crab (Recruit),457.446476
+n_projects,-0.0,Common Snook (Adult),626.171083
+n_projects,-0.0,Common Snook (Sub-adult),12.124351
+n_projects,-0.0,Spotted Seatrout (Adult),125.898108
+n_projects,-0.0,Spotted Seatrout (Recruit),463.623108
+n_projects,-0.0,Gray Snapper (Recruit),52.165802
+n_projects,-0.0,Gray Snapper (Sub-adult),94.387272
+n_projects,-0.0,Gag Grouper (Sub-adult),22.779649
+n_projects,-0.0,Red Drum (Recruit),37.86923
+n_projects,-0.0,Red Drum (Sub-adult),340.029175
+n_projects,0.0994,Sheepshead (Adult),299.464214
+n_projects,0.0994,Sheepshead (Recruit),28.70176
+n_projects,0.0994,Blue Crab (Recruit),457.022854
+n_projects,0.0994,Common Snook (Adult),626.003531
+n_projects,0.0994,Common Snook (Sub-adult),12.085412
+n_projects,0.0994,Spotted Seatrout (Adult),126.318869
+n_projects,0.0994,Spotted Seatrout (Recruit),465.969309
+n_projects,0.0994,Gray Snapper (Recruit),52.106767
+n_projects,0.0994,Gray Snapper (Sub-adult),94.608394
+n_projects,0.0994,Gag Grouper (Sub-adult),23.002465
+n_projects,0.0994,Red Drum (Recruit),37.858382
+n_projects,0.0994,Red Drum (Sub-adult),340.03022
+n_projects,0.1988,Sheepshead (Adult),300.153983
+n_projects,0.1988,Sheepshead (Recruit),28.751984
+n_projects,0.1988,Blue Crab (Recruit),456.611826
+n_projects,0.1988,Common Snook (Adult),625.904253
+n_projects,0.1988,Common Snook (Sub-adult),12.022586
+n_projects,0.1988,Spotted Seatrout (Adult),126.74526
+n_projects,0.1988,Spotted Seatrout (Recruit),468.154909
+n_projects,0.1988,Gray Snapper (Recruit),52.040779
+n_projects,0.1988,Gray Snapper (Sub-adult),94.826357
+n_projects,0.1988,Gag Grouper (Sub-adult),23.220323
+n_projects,0.1988,Red Drum (Recruit),37.869521
+n_projects,0.1988,Red Drum (Sub-adult),339.979641
+n_projects,0.2982,Sheepshead (Adult),300.879068
+n_projects,0.2982,Sheepshead (Recruit),28.790766
+n_projects,0.2982,Blue Crab (Recruit),456.119024
+n_projects,0.2982,Common Snook (Adult),625.84234
+n_projects,0.2982,Common Snook (Sub-adult),11.960214
+n_projects,0.2982,Spotted Seatrout (Adult),127.172045
+n_projects,0.2982,Spotted Seatrout (Recruit),470.285513
+n_projects,0.2982,Gray Snapper (Recruit),51.979518
+n_projects,0.2982,Gray Snapper (Sub-adult),95.015957
+n_projects,0.2982,Gag Grouper (Sub-adult),23.428984
+n_projects,0.2982,Red Drum (Recruit),37.835206
+n_projects,0.2982,Red Drum (Sub-adult),339.992168
+n_projects,0.3977,Sheepshead (Adult),301.697057
+n_projects,0.3977,Sheepshead (Recruit),28.817355
+n_projects,0.3977,Blue Crab (Recruit),455.730831
+n_projects,0.3977,Common Snook (Adult),625.887163
+n_projects,0.3977,Common Snook (Sub-adult),11.918285
+n_projects,0.3977,Spotted Seatrout (Adult),127.643009
+n_projects,0.3977,Spotted Seatrout (Recruit),472.334089
+n_projects,0.3977,Gray Snapper (Recruit),51.924139
+n_projects,0.3977,Gray Snapper (Sub-adult),95.220346
+n_projects,0.3977,Gag Grouper (Sub-adult),23.641628
+n_projects,0.3977,Red Drum (Recruit),37.816086
+n_projects,0.3977,Red Drum (Sub-adult),340.013664
+n_projects,0.4971,Sheepshead (Adult),302.58339
+n_projects,0.4971,Sheepshead (Recruit),28.85627
+n_projects,0.4971,Blue Crab (Recruit),455.252464
+n_projects,0.4971,Common Snook (Adult),625.970337
+n_projects,0.4971,Common Snook (Sub-adult),11.871546
+n_projects,0.4971,Spotted Seatrout (Adult),128.154387
+n_projects,0.4971,Spotted Seatrout (Recruit),474.215919
+n_projects,0.4971,Gray Snapper (Recruit),51.870604
+n_projects,0.4971,Gray Snapper (Sub-adult),95.415946
+n_projects,0.4971,Gag Grouper (Sub-adult),23.845514
+n_projects,0.4971,Red Drum (Recruit),37.835343
+n_projects,0.4971,Red Drum (Sub-adult),340.127674
+n_projects,0.5965,Sheepshead (Adult),303.519578
+n_projects,0.5965,Sheepshead (Recruit),28.877347
+n_projects,0.5965,Blue Crab (Recruit),454.725136
+n_projects,0.5965,Common Snook (Adult),626.132027
+n_projects,0.5965,Common Snook (Sub-adult),11.813392
+n_projects,0.5965,Spotted Seatrout (Adult),128.731359
+n_projects,0.5965,Spotted Seatrout (Recruit),476.063963
+n_projects,0.5965,Gray Snapper (Recruit),51.801919
+n_projects,0.5965,Gray Snapper (Sub-adult),95.622044
+n_projects,0.5965,Gag Grouper (Sub-adult),24.054473
+n_projects,0.5965,Red Drum (Recruit),37.829927
+n_projects,0.5965,Red Drum (Sub-adult),340.251419
+n_projects,0.6959,Sheepshead (Adult),304.501592
+n_projects,0.6959,Sheepshead (Recruit),28.904664
+n_projects,0.6959,Blue Crab (Recruit),454.183971
+n_projects,0.6959,Common Snook (Adult),626.297859
+n_projects,0.6959,Common Snook (Sub-adult),11.762504
+n_projects,0.6959,Spotted Seatrout (Adult),129.318022
+n_projects,0.6959,Spotted Seatrout (Recruit),477.788609
+n_projects,0.6959,Gray Snapper (Recruit),51.741244
+n_projects,0.6959,Gray Snapper (Sub-adult),95.846731
+n_projects,0.6959,Gag Grouper (Sub-adult),24.259466
+n_projects,0.6959,Red Drum (Recruit),37.817297
+n_projects,0.6959,Red Drum (Sub-adult),340.348015
+n_projects,0.7953,Sheepshead (Adult),305.496139
+n_projects,0.7953,Sheepshead (Recruit),28.923207
+n_projects,0.7953,Blue Crab (Recruit),453.587364
+n_projects,0.7953,Common Snook (Adult),626.474665
+n_projects,0.7953,Common Snook (Sub-adult),11.700144
+n_projects,0.7953,Spotted Seatrout (Adult),129.871124
+n_projects,0.7953,Spotted Seatrout (Recruit),479.355076
+n_projects,0.7953,Gray Snapper (Recruit),51.666524
+n_projects,0.7953,Gray Snapper (Sub-adult),96.073687
+n_projects,0.7953,Gag Grouper (Sub-adult),24.453834
+n_projects,0.7953,Red Drum (Recruit),37.795651
+n_projects,0.7953,Red Drum (Sub-adult),340.508492
+n_projects,0.8947,Sheepshead (Adult),306.590708
+n_projects,0.8947,Sheepshead (Recruit),28.948859
+n_projects,0.8947,Blue Crab (Recruit),453.01696
+n_projects,0.8947,Common Snook (Adult),626.837362
+n_projects,0.8947,Common Snook (Sub-adult),11.640088
+n_projects,0.8947,Spotted Seatrout (Adult),130.422825
+n_projects,0.8947,Spotted Seatrout (Recruit),480.838367
+n_projects,0.8947,Gray Snapper (Recruit),51.607602
+n_projects,0.8947,Gray Snapper (Sub-adult),96.335615
+n_projects,0.8947,Gag Grouper (Sub-adult),24.64332
+n_projects,0.8947,Red Drum (Recruit),37.76268
+n_projects,0.8947,Red Drum (Sub-adult),340.685509
+n_projects,0.9942,Sheepshead (Adult),307.719604
+n_projects,0.9942,Sheepshead (Recruit),28.962
+n_projects,0.9942,Blue Crab (Recruit),452.457024
+n_projects,0.9942,Common Snook (Adult),627.18891
+n_projects,0.9942,Common Snook (Sub-adult),11.587551
+n_projects,0.9942,Spotted Seatrout (Adult),130.9804
+n_projects,0.9942,Spotted Seatrout (Recruit),482.315542
+n_projects,0.9942,Gray Snapper (Recruit),51.552799
+n_projects,0.9942,Gray Snapper (Sub-adult),96.600096
+n_projects,0.9942,Gag Grouper (Sub-adult),24.828102
+n_projects,0.9942,Red Drum (Recruit),37.722602
+n_projects,0.9942,Red Drum (Sub-adult),340.881374
+n_projects,1.0936,Sheepshead (Adult),308.890188
+n_projects,1.0936,Sheepshead (Recruit),28.973517
+n_projects,1.0936,Blue Crab (Recruit),451.966827
+n_projects,1.0936,Common Snook (Adult),627.453979
+n_projects,1.0936,Common Snook (Sub-adult),11.522952
+n_projects,1.0936,Spotted Seatrout (Adult),131.532839
+n_projects,1.0936,Spotted Seatrout (Recruit),483.575226
+n_projects,1.0936,Gray Snapper (Recruit),51.481239
+n_projects,1.0936,Gray Snapper (Sub-adult),96.858038
+n_projects,1.0936,Gag Grouper (Sub-adult),25.00621
+n_projects,1.0936,Red Drum (Recruit),37.695602
+n_projects,1.0936,Red Drum (Sub-adult),341.102451
+n_projects,1.193,Sheepshead (Adult),310.077666
+n_projects,1.193,Sheepshead (Recruit),28.976616
+n_projects,1.193,Blue Crab (Recruit),451.52776
+n_projects,1.193,Common Snook (Adult),627.796736
+n_projects,1.193,Common Snook (Sub-adult),11.476166
+n_projects,1.193,Spotted Seatrout (Adult),132.093828
+n_projects,1.193,Spotted Seatrout (Recruit),484.741819
+n_projects,1.193,Gray Snapper (Recruit),51.416483
+n_projects,1.193,Gray Snapper (Sub-adult),97.134933
+n_projects,1.193,Gag Grouper (Sub-adult),25.188303
+n_projects,1.193,Red Drum (Recruit),37.682006
+n_projects,1.193,Red Drum (Sub-adult),341.349667
+n_projects,1.2924,Sheepshead (Adult),311.252747
+n_projects,1.2924,Sheepshead (Recruit),28.980617
+n_projects,1.2924,Blue Crab (Recruit),451.113113
+n_projects,1.2924,Common Snook (Adult),628.144577
+n_projects,1.2924,Common Snook (Sub-adult),11.416681
+n_projects,1.2924,Spotted Seatrout (Adult),132.622433
+n_projects,1.2924,Spotted Seatrout (Recruit),485.809288
+n_projects,1.2924,Gray Snapper (Recruit),51.357113
+n_projects,1.2924,Gray Snapper (Sub-adult),97.410438
+n_projects,1.2924,Gag Grouper (Sub-adult),25.355893
+n_projects,1.2924,Red Drum (Recruit),37.692873
+n_projects,1.2924,Red Drum (Sub-adult),341.592037
+n_projects,1.3918,Sheepshead (Adult),312.426645
+n_projects,1.3918,Sheepshead (Recruit),28.99172
+n_projects,1.3918,Blue Crab (Recruit),450.709217
+n_projects,1.3918,Common Snook (Adult),628.386124
+n_projects,1.3918,Common Snook (Sub-adult),11.359004
+n_projects,1.3918,Spotted Seatrout (Adult),133.168087
+n_projects,1.3918,Spotted Seatrout (Recruit),486.858492
+n_projects,1.3918,Gray Snapper (Recruit),51.297952
+n_projects,1.3918,Gray Snapper (Sub-adult),97.693059
+n_projects,1.3918,Gag Grouper (Sub-adult),25.526928
+n_projects,1.3918,Red Drum (Recruit),37.70167
+n_projects,1.3918,Red Drum (Sub-adult),341.865158
+n_projects,1.4912,Sheepshead (Adult),313.604247
+n_projects,1.4912,Sheepshead (Recruit),28.991849
+n_projects,1.4912,Blue Crab (Recruit),450.355488
+n_projects,1.4912,Common Snook (Adult),628.680311
+n_projects,1.4912,Common Snook (Sub-adult),11.307072
+n_projects,1.4912,Spotted Seatrout (Adult),133.700855
+n_projects,1.4912,Spotted Seatrout (Recruit),487.725203
+n_projects,1.4912,Gray Snapper (Recruit),51.259178
+n_projects,1.4912,Gray Snapper (Sub-adult),97.974839
+n_projects,1.4912,Gag Grouper (Sub-adult),25.695135
+n_projects,1.4912,Red Drum (Recruit),37.707249
+n_projects,1.4912,Red Drum (Sub-adult),342.180603
+n_projects,1.5906,Sheepshead (Adult),314.795482
+n_projects,1.5906,Sheepshead (Recruit),29.002258
+n_projects,1.5906,Blue Crab (Recruit),450.050018
+n_projects,1.5906,Common Snook (Adult),629.018785
+n_projects,1.5906,Common Snook (Sub-adult),11.25701
+n_projects,1.5906,Spotted Seatrout (Adult),134.231707
+n_projects,1.5906,Spotted Seatrout (Recruit),488.530138
+n_projects,1.5906,Gray Snapper (Recruit),51.228347
+n_projects,1.5906,Gray Snapper (Sub-adult),98.25331
+n_projects,1.5906,Gag Grouper (Sub-adult),25.856289
+n_projects,1.5906,Red Drum (Recruit),37.696175
+n_projects,1.5906,Red Drum (Sub-adult),342.513828
+n_projects,1.6901,Sheepshead (Adult),316.005733
+n_projects,1.6901,Sheepshead (Recruit),29.014789
+n_projects,1.6901,Blue Crab (Recruit),449.713669
+n_projects,1.6901,Common Snook (Adult),629.378374
+n_projects,1.6901,Common Snook (Sub-adult),11.209092
+n_projects,1.6901,Spotted Seatrout (Adult),134.741993
+n_projects,1.6901,Spotted Seatrout (Recruit),489.221956
+n_projects,1.6901,Gray Snapper (Recruit),51.180038
+n_projects,1.6901,Gray Snapper (Sub-adult),98.512352
+n_projects,1.6901,Gag Grouper (Sub-adult),26.008433
+n_projects,1.6901,Red Drum (Recruit),37.699064
+n_projects,1.6901,Red Drum (Sub-adult),342.888542
+n_projects,1.7895,Sheepshead (Adult),317.207798
+n_projects,1.7895,Sheepshead (Recruit),29.00788
+n_projects,1.7895,Blue Crab (Recruit),449.361294
+n_projects,1.7895,Common Snook (Adult),629.646563
+n_projects,1.7895,Common Snook (Sub-adult),11.152463
+n_projects,1.7895,Spotted Seatrout (Adult),135.272156
+n_projects,1.7895,Spotted Seatrout (Recruit),489.831318
+n_projects,1.7895,Gray Snapper (Recruit),51.127504
+n_projects,1.7895,Gray Snapper (Sub-adult),98.777102
+n_projects,1.7895,Gag Grouper (Sub-adult),26.160013
+n_projects,1.7895,Red Drum (Recruit),37.712517
+n_projects,1.7895,Red Drum (Sub-adult),343.296703
+n_projects,1.8889,Sheepshead (Adult),318.496894
+n_projects,1.8889,Sheepshead (Recruit),29.013565
+n_projects,1.8889,Blue Crab (Recruit),449.103458
+n_projects,1.8889,Common Snook (Adult),629.921768
+n_projects,1.8889,Common Snook (Sub-adult),11.111031
+n_projects,1.8889,Spotted Seatrout (Adult),135.824411
+n_projects,1.8889,Spotted Seatrout (Recruit),490.404238
+n_projects,1.8889,Gray Snapper (Recruit),51.07222
+n_projects,1.8889,Gray Snapper (Sub-adult),99.071054
+n_projects,1.8889,Gag Grouper (Sub-adult),26.30032
+n_projects,1.8889,Red Drum (Recruit),37.721995
+n_projects,1.8889,Red Drum (Sub-adult),343.795193
+Acres_Restored,0.0,Sheepshead (Adult),303.157366
+Acres_Restored,0.0,Sheepshead (Recruit),28.956417
+Acres_Restored,0.0,Blue Crab (Recruit),460.219883
+Acres_Restored,0.0,Common Snook (Adult),668.8759
+Acres_Restored,0.0,Common Snook (Sub-adult),12.067942
+Acres_Restored,0.0,Spotted Seatrout (Adult),128.115112
+Acres_Restored,0.0,Spotted Seatrout (Recruit),475.864664
+Acres_Restored,0.0,Gray Snapper (Recruit),52.016894
+Acres_Restored,0.0,Gray Snapper (Sub-adult),96.449983
+Acres_Restored,0.0,Gag Grouper (Sub-adult),23.142714
+Acres_Restored,0.0,Red Drum (Recruit),38.126051
+Acres_Restored,0.0,Red Drum (Sub-adult),342.838272
+Acres_Restored,10.9957,Sheepshead (Adult),303.351497
+Acres_Restored,10.9957,Sheepshead (Recruit),28.921263
+Acres_Restored,10.9957,Blue Crab (Recruit),459.980167
+Acres_Restored,10.9957,Common Snook (Adult),666.979256
+Acres_Restored,10.9957,Common Snook (Sub-adult),12.043339
+Acres_Restored,10.9957,Spotted Seatrout (Adult),128.18659
+Acres_Restored,10.9957,Spotted Seatrout (Recruit),476.071447
+Acres_Restored,10.9957,Gray Snapper (Recruit),51.95112
+Acres_Restored,10.9957,Gray Snapper (Sub-adult),96.498313
+Acres_Restored,10.9957,Gag Grouper (Sub-adult),23.143913
+Acres_Restored,10.9957,Red Drum (Recruit),38.153345
+Acres_Restored,10.9957,Red Drum (Sub-adult),342.347466
+Acres_Restored,21.9914,Sheepshead (Adult),303.527032
+Acres_Restored,21.9914,Sheepshead (Recruit),28.876603
+Acres_Restored,21.9914,Blue Crab (Recruit),459.687481
+Acres_Restored,21.9914,Common Snook (Adult),665.016426
+Acres_Restored,21.9914,Common Snook (Sub-adult),12.005096
+Acres_Restored,21.9914,Spotted Seatrout (Adult),128.308399
+Acres_Restored,21.9914,Spotted Seatrout (Recruit),476.239183
+Acres_Restored,21.9914,Gray Snapper (Recruit),51.883025
+Acres_Restored,21.9914,Gray Snapper (Sub-adult),96.535131
+Acres_Restored,21.9914,Gag Grouper (Sub-adult),23.14176
+Acres_Restored,21.9914,Red Drum (Recruit),38.18
+Acres_Restored,21.9914,Red Drum (Sub-adult),341.847343
+Acres_Restored,32.9871,Sheepshead (Adult),303.713767
+Acres_Restored,32.9871,Sheepshead (Recruit),28.830198
+Acres_Restored,32.9871,Blue Crab (Recruit),459.423733
+Acres_Restored,32.9871,Common Snook (Adult),663.089621
+Acres_Restored,32.9871,Common Snook (Sub-adult),11.982501
+Acres_Restored,32.9871,Spotted Seatrout (Adult),128.388407
+Acres_Restored,32.9871,Spotted Seatrout (Recruit),476.413969
+Acres_Restored,32.9871,Gray Snapper (Recruit),51.829102
+Acres_Restored,32.9871,Gray Snapper (Sub-adult),96.585836
+Acres_Restored,32.9871,Gag Grouper (Sub-adult),23.141259
+Acres_Restored,32.9871,Red Drum (Recruit),38.2102
+Acres_Restored,32.9871,Red Drum (Sub-adult),341.344475
+Acres_Restored,43.9828,Sheepshead (Adult),303.889503
+Acres_Restored,43.9828,Sheepshead (Recruit),28.782622
+Acres_Restored,43.9828,Blue Crab (Recruit),459.116409
+Acres_Restored,43.9828,Common Snook (Adult),661.226822
+Acres_Restored,43.9828,Common Snook (Sub-adult),11.949782
+Acres_Restored,43.9828,Spotted Seatrout (Adult),128.483282
+Acres_Restored,43.9828,Spotted Seatrout (Recruit),476.601534
+Acres_Restored,43.9828,Gray Snapper (Recruit),51.763228
+Acres_Restored,43.9828,Gray Snapper (Sub-adult),96.629261
+Acres_Restored,43.9828,Gag Grouper (Sub-adult),23.138964
+Acres_Restored,43.9828,Red Drum (Recruit),38.258533
+Acres_Restored,43.9828,Red Drum (Sub-adult),340.832741
+Acres_Restored,54.9786,Sheepshead (Adult),304.093635
+Acres_Restored,54.9786,Sheepshead (Recruit),28.75376
+Acres_Restored,54.9786,Blue Crab (Recruit),458.819614
+Acres_Restored,54.9786,Common Snook (Adult),659.360527
+Acres_Restored,54.9786,Common Snook (Sub-adult),11.920382
+Acres_Restored,54.9786,Spotted Seatrout (Adult),128.584414
+Acres_Restored,54.9786,Spotted Seatrout (Recruit),476.867701
+Acres_Restored,54.9786,Gray Snapper (Recruit),51.699402
+Acres_Restored,54.9786,Gray Snapper (Sub-adult),96.673444
+Acres_Restored,54.9786,Gag Grouper (Sub-adult),23.137598
+Acres_Restored,54.9786,Red Drum (Recruit),38.277824
+Acres_Restored,54.9786,Red Drum (Sub-adult),340.332012
+Acres_Restored,65.9743,Sheepshead (Adult),304.276809
+Acres_Restored,65.9743,Sheepshead (Recruit),28.710976
+Acres_Restored,65.9743,Blue Crab (Recruit),458.567501
+Acres_Restored,65.9743,Common Snook (Adult),657.478361
+Acres_Restored,65.9743,Common Snook (Sub-adult),11.891336
+Acres_Restored,65.9743,Spotted Seatrout (Adult),128.686127
+Acres_Restored,65.9743,Spotted Seatrout (Recruit),477.040705
+Acres_Restored,65.9743,Gray Snapper (Recruit),51.637746
+Acres_Restored,65.9743,Gray Snapper (Sub-adult),96.717118
+Acres_Restored,65.9743,Gag Grouper (Sub-adult),23.132338
+Acres_Restored,65.9743,Red Drum (Recruit),38.300484
+Acres_Restored,65.9743,Red Drum (Sub-adult),339.837543
+Acres_Restored,76.97,Sheepshead (Adult),304.477799
+Acres_Restored,76.97,Sheepshead (Recruit),28.654482
+Acres_Restored,76.97,Blue Crab (Recruit),458.280994
+Acres_Restored,76.97,Common Snook (Adult),655.647575
+Acres_Restored,76.97,Common Snook (Sub-adult),11.86872
+Acres_Restored,76.97,Spotted Seatrout (Adult),128.772488
+Acres_Restored,76.97,Spotted Seatrout (Recruit),477.194624
+Acres_Restored,76.97,Gray Snapper (Recruit),51.570198
+Acres_Restored,76.97,Gray Snapper (Sub-adult),96.761175
+Acres_Restored,76.97,Gag Grouper (Sub-adult),23.126288
+Acres_Restored,76.97,Red Drum (Recruit),38.328946
+Acres_Restored,76.97,Red Drum (Sub-adult),339.351398
+Acres_Restored,87.9657,Sheepshead (Adult),304.681037
+Acres_Restored,87.9657,Sheepshead (Recruit),28.633765
+Acres_Restored,87.9657,Blue Crab (Recruit),457.918873
+Acres_Restored,87.9657,Common Snook (Adult),653.866886
+Acres_Restored,87.9657,Common Snook (Sub-adult),11.836958
+Acres_Restored,87.9657,Spotted Seatrout (Adult),128.880831
+Acres_Restored,87.9657,Spotted Seatrout (Recruit),477.350548
+Acres_Restored,87.9657,Gray Snapper (Recruit),51.504711
+Acres_Restored,87.9657,Gray Snapper (Sub-adult),96.814125
+Acres_Restored,87.9657,Gag Grouper (Sub-adult),23.122352
+Acres_Restored,87.9657,Red Drum (Recruit),38.370111
+Acres_Restored,87.9657,Red Drum (Sub-adult),338.869686
+Acres_Restored,98.9614,Sheepshead (Adult),304.874987
+Acres_Restored,98.9614,Sheepshead (Recruit),28.57839
+Acres_Restored,98.9614,Blue Crab (Recruit),457.664623
+Acres_Restored,98.9614,Common Snook (Adult),652.001728
+Acres_Restored,98.9614,Common Snook (Sub-adult),11.803481
+Acres_Restored,98.9614,Spotted Seatrout (Adult),128.996296
+Acres_Restored,98.9614,Spotted Seatrout (Recruit),477.46809
+Acres_Restored,98.9614,Gray Snapper (Recruit),51.432401
+Acres_Restored,98.9614,Gray Snapper (Sub-adult),96.850491
+Acres_Restored,98.9614,Gag Grouper (Sub-adult),23.112101
+Acres_Restored,98.9614,Red Drum (Recruit),38.410875
+Acres_Restored,98.9614,Red Drum (Sub-adult),338.374096
+Acres_Restored,109.9571,Sheepshead (Adult),305.053828
+Acres_Restored,109.9571,Sheepshead (Recruit),28.535397
+Acres_Restored,109.9571,Blue Crab (Recruit),457.274643
+Acres_Restored,109.9571,Common Snook (Adult),650.206055
+Acres_Restored,109.9571,Common Snook (Sub-adult),11.773855
+Acres_Restored,109.9571,Spotted Seatrout (Adult),129.073923
+Acres_Restored,109.9571,Spotted Seatrout (Recruit),477.684195
+Acres_Restored,109.9571,Gray Snapper (Recruit),51.360414
+Acres_Restored,109.9571,Gray Snapper (Sub-adult),96.890355
+Acres_Restored,109.9571,Gag Grouper (Sub-adult),23.106218
+Acres_Restored,109.9571,Red Drum (Recruit),38.422157
+Acres_Restored,109.9571,Red Drum (Sub-adult),337.89151
+Acres_Restored,120.9528,Sheepshead (Adult),305.276772
+Acres_Restored,120.9528,Sheepshead (Recruit),28.497433
+Acres_Restored,120.9528,Blue Crab (Recruit),457.025131
+Acres_Restored,120.9528,Common Snook (Adult),648.444969
+Acres_Restored,120.9528,Common Snook (Sub-adult),11.747088
+Acres_Restored,120.9528,Spotted Seatrout (Adult),129.169239
+Acres_Restored,120.9528,Spotted Seatrout (Recruit),477.904518
+Acres_Restored,120.9528,Gray Snapper (Recruit),51.288585
+Acres_Restored,120.9528,Gray Snapper (Sub-adult),96.933602
+Acres_Restored,120.9528,Gag Grouper (Sub-adult),23.09668
+Acres_Restored,120.9528,Red Drum (Recruit),38.454155
+Acres_Restored,120.9528,Red Drum (Sub-adult),337.431419
+Acres_Restored,131.9485,Sheepshead (Adult),305.457411
+Acres_Restored,131.9485,Sheepshead (Recruit),28.463086
+Acres_Restored,131.9485,Blue Crab (Recruit),456.616489
+Acres_Restored,131.9485,Common Snook (Adult),646.644148
+Acres_Restored,131.9485,Common Snook (Sub-adult),11.716335
+Acres_Restored,131.9485,Spotted Seatrout (Adult),129.285036
+Acres_Restored,131.9485,Spotted Seatrout (Recruit),478.103123
+Acres_Restored,131.9485,Gray Snapper (Recruit),51.216192
+Acres_Restored,131.9485,Gray Snapper (Sub-adult),96.972581
+Acres_Restored,131.9485,Gag Grouper (Sub-adult),23.087472
+Acres_Restored,131.9485,Red Drum (Recruit),38.495289
+Acres_Restored,131.9485,Red Drum (Sub-adult),336.966606
+Acres_Restored,142.9443,Sheepshead (Adult),305.645852
+Acres_Restored,142.9443,Sheepshead (Recruit),28.419293
+Acres_Restored,142.9443,Blue Crab (Recruit),456.343475
+Acres_Restored,142.9443,Common Snook (Adult),644.86183
+Acres_Restored,142.9443,Common Snook (Sub-adult),11.6792
+Acres_Restored,142.9443,Spotted Seatrout (Adult),129.386806
+Acres_Restored,142.9443,Spotted Seatrout (Recruit),478.337118
+Acres_Restored,142.9443,Gray Snapper (Recruit),51.148459
+Acres_Restored,142.9443,Gray Snapper (Sub-adult),97.013082
+Acres_Restored,142.9443,Gag Grouper (Sub-adult),23.07727
+Acres_Restored,142.9443,Red Drum (Recruit),38.5203
+Acres_Restored,142.9443,Red Drum (Sub-adult),336.498055
+Acres_Restored,153.94,Sheepshead (Adult),305.880405
+Acres_Restored,153.94,Sheepshead (Recruit),28.37327
+Acres_Restored,153.94,Blue Crab (Recruit),455.980534
+Acres_Restored,153.94,Common Snook (Adult),643.155003
+Acres_Restored,153.94,Common Snook (Sub-adult),11.658087
+Acres_Restored,153.94,Spotted Seatrout (Adult),129.492586
+Acres_Restored,153.94,Spotted Seatrout (Recruit),478.458563
+Acres_Restored,153.94,Gray Snapper (Recruit),51.084784
+Acres_Restored,153.94,Gray Snapper (Sub-adult),97.063935
+Acres_Restored,153.94,Gag Grouper (Sub-adult),23.067578
+Acres_Restored,153.94,Red Drum (Recruit),38.562742
+Acres_Restored,153.94,Red Drum (Sub-adult),336.034931
+Acres_Restored,164.9357,Sheepshead (Adult),306.071173
+Acres_Restored,164.9357,Sheepshead (Recruit),28.342436
+Acres_Restored,164.9357,Blue Crab (Recruit),455.65118
+Acres_Restored,164.9357,Common Snook (Adult),641.371325
+Acres_Restored,164.9357,Common Snook (Sub-adult),11.623753
+Acres_Restored,164.9357,Spotted Seatrout (Adult),129.590996
+Acres_Restored,164.9357,Spotted Seatrout (Recruit),478.675272
+Acres_Restored,164.9357,Gray Snapper (Recruit),51.012947
+Acres_Restored,164.9357,Gray Snapper (Sub-adult),97.108076
+Acres_Restored,164.9357,Gag Grouper (Sub-adult),23.058063
+Acres_Restored,164.9357,Red Drum (Recruit),38.592277
+Acres_Restored,164.9357,Red Drum (Sub-adult),335.562347
+Acres_Restored,175.9314,Sheepshead (Adult),306.25385
+Acres_Restored,175.9314,Sheepshead (Recruit),28.29685
+Acres_Restored,175.9314,Blue Crab (Recruit),455.24844
+Acres_Restored,175.9314,Common Snook (Adult),639.630796
+Acres_Restored,175.9314,Common Snook (Sub-adult),11.594561
+Acres_Restored,175.9314,Spotted Seatrout (Adult),129.693405
+Acres_Restored,175.9314,Spotted Seatrout (Recruit),478.975357
+Acres_Restored,175.9314,Gray Snapper (Recruit),50.945551
+Acres_Restored,175.9314,Gray Snapper (Sub-adult),97.156502
+Acres_Restored,175.9314,Gag Grouper (Sub-adult),23.050054
+Acres_Restored,175.9314,Red Drum (Recruit),38.612446
+Acres_Restored,175.9314,Red Drum (Sub-adult),335.090466
+Acres_Restored,186.9271,Sheepshead (Adult),306.454212
+Acres_Restored,186.9271,Sheepshead (Recruit),28.256418
+Acres_Restored,186.9271,Blue Crab (Recruit),454.909668
+Acres_Restored,186.9271,Common Snook (Adult),637.899563
+Acres_Restored,186.9271,Common Snook (Sub-adult),11.56155
+Acres_Restored,186.9271,Spotted Seatrout (Adult),129.794903
+Acres_Restored,186.9271,Spotted Seatrout (Recruit),479.175323
+Acres_Restored,186.9271,Gray Snapper (Recruit),50.873151
+Acres_Restored,186.9271,Gray Snapper (Sub-adult),97.206241
+Acres_Restored,186.9271,Gag Grouper (Sub-adult),23.03789
+Acres_Restored,186.9271,Red Drum (Recruit),38.642316
+Acres_Restored,186.9271,Red Drum (Sub-adult),334.630058
+Acres_Restored,197.9228,Sheepshead (Adult),306.684342
+Acres_Restored,197.9228,Sheepshead (Recruit),28.227598
+Acres_Restored,197.9228,Blue Crab (Recruit),454.528976
+Acres_Restored,197.9228,Common Snook (Adult),636.221436
+Acres_Restored,197.9228,Common Snook (Sub-adult),11.536088
+Acres_Restored,197.9228,Spotted Seatrout (Adult),129.890247
+Acres_Restored,197.9228,Spotted Seatrout (Recruit),479.302443
+Acres_Restored,197.9228,Gray Snapper (Recruit),50.804423
+Acres_Restored,197.9228,Gray Snapper (Sub-adult),97.256079
+Acres_Restored,197.9228,Gag Grouper (Sub-adult),23.025991
+Acres_Restored,197.9228,Red Drum (Recruit),38.686266
+Acres_Restored,197.9228,Red Drum (Sub-adult),334.190922
+Acres_Restored,208.9185,Sheepshead (Adult),306.850523
+Acres_Restored,208.9185,Sheepshead (Recruit),28.198177
+Acres_Restored,208.9185,Blue Crab (Recruit),454.135983
+Acres_Restored,208.9185,Common Snook (Adult),634.484209
+Acres_Restored,208.9185,Common Snook (Sub-adult),11.50631
+Acres_Restored,208.9185,Spotted Seatrout (Adult),129.965536
+Acres_Restored,208.9185,Spotted Seatrout (Recruit),479.565723
+Acres_Restored,208.9185,Gray Snapper (Recruit),50.726391
+Acres_Restored,208.9185,Gray Snapper (Sub-adult),97.312019
+Acres_Restored,208.9185,Gag Grouper (Sub-adult),23.014982
+Acres_Restored,208.9185,Red Drum (Recruit),38.725596
+Acres_Restored,208.9185,Red Drum (Sub-adult),333.728539
+targeted_habitat_num,0.0,Sheepshead (Adult),311.108377
+targeted_habitat_num,0.0,Sheepshead (Recruit),29.972419
+targeted_habitat_num,0.0,Blue Crab (Recruit),461.872139
+targeted_habitat_num,0.0,Common Snook (Adult),631.955572
+targeted_habitat_num,0.0,Common Snook (Sub-adult),12.145923
+targeted_habitat_num,0.0,Spotted Seatrout (Adult),134.984774
+targeted_habitat_num,0.0,Spotted Seatrout (Recruit),487.511084
+targeted_habitat_num,0.0,Gray Snapper (Recruit),52.194395
+targeted_habitat_num,0.0,Gray Snapper (Sub-adult),95.015731
+targeted_habitat_num,0.0,Gag Grouper (Sub-adult),23.026672
+targeted_habitat_num,0.0,Red Drum (Recruit),37.957768
+targeted_habitat_num,0.0,Red Drum (Sub-adult),343.657436
+targeted_habitat_num,0.0382,Sheepshead (Adult),310.441475
+targeted_habitat_num,0.0382,Sheepshead (Recruit),29.711613
+targeted_habitat_num,0.0382,Blue Crab (Recruit),459.512558
+targeted_habitat_num,0.0382,Common Snook (Adult),632.277168
+targeted_habitat_num,0.0382,Common Snook (Sub-adult),12.142456
+targeted_habitat_num,0.0382,Spotted Seatrout (Adult),133.981482
+targeted_habitat_num,0.0382,Spotted Seatrout (Recruit),485.668257
+targeted_habitat_num,0.0382,Gray Snapper (Recruit),52.115738
+targeted_habitat_num,0.0382,Gray Snapper (Sub-adult),95.504345
+targeted_habitat_num,0.0382,Gag Grouper (Sub-adult),23.154163
+targeted_habitat_num,0.0382,Red Drum (Recruit),38.011611
+targeted_habitat_num,0.0382,Red Drum (Sub-adult),341.782566
+targeted_habitat_num,0.0763,Sheepshead (Adult),309.784854
+targeted_habitat_num,0.0763,Sheepshead (Recruit),29.459456
+targeted_habitat_num,0.0763,Blue Crab (Recruit),457.174389
+targeted_habitat_num,0.0763,Common Snook (Adult),632.603594
+targeted_habitat_num,0.0763,Common Snook (Sub-adult),12.126062
+targeted_habitat_num,0.0763,Spotted Seatrout (Adult),132.953234
+targeted_habitat_num,0.0763,Spotted Seatrout (Recruit),484.008617
+targeted_habitat_num,0.0763,Gray Snapper (Recruit),52.012979
+targeted_habitat_num,0.0763,Gray Snapper (Sub-adult),95.986411
+targeted_habitat_num,0.0763,Gag Grouper (Sub-adult),23.274036
+targeted_habitat_num,0.0763,Red Drum (Recruit),38.051991
+targeted_habitat_num,0.0763,Red Drum (Sub-adult),339.946571
+targeted_habitat_num,0.1145,Sheepshead (Adult),309.13908
+targeted_habitat_num,0.1145,Sheepshead (Recruit),29.19611
+targeted_habitat_num,0.1145,Blue Crab (Recruit),454.810448
+targeted_habitat_num,0.1145,Common Snook (Adult),632.973312
+targeted_habitat_num,0.1145,Common Snook (Sub-adult),12.112625
+targeted_habitat_num,0.1145,Spotted Seatrout (Adult),131.988552
+targeted_habitat_num,0.1145,Spotted Seatrout (Recruit),482.138029
+targeted_habitat_num,0.1145,Gray Snapper (Recruit),51.897757
+targeted_habitat_num,0.1145,Gray Snapper (Sub-adult),96.467431
+targeted_habitat_num,0.1145,Gag Grouper (Sub-adult),23.387878
+targeted_habitat_num,0.1145,Red Drum (Recruit),38.105886
+targeted_habitat_num,0.1145,Red Drum (Sub-adult),338.144131
+targeted_habitat_num,0.1527,Sheepshead (Adult),308.501001
+targeted_habitat_num,0.1527,Sheepshead (Recruit),28.922764
+targeted_habitat_num,0.1527,Blue Crab (Recruit),452.423832
+targeted_habitat_num,0.1527,Common Snook (Adult),633.438139
+targeted_habitat_num,0.1527,Common Snook (Sub-adult),12.096378
+targeted_habitat_num,0.1527,Spotted Seatrout (Adult),131.029856
+targeted_habitat_num,0.1527,Spotted Seatrout (Recruit),480.238253
+targeted_habitat_num,0.1527,Gray Snapper (Recruit),51.770615
+targeted_habitat_num,0.1527,Gray Snapper (Sub-adult),96.945921
+targeted_habitat_num,0.1527,Gag Grouper (Sub-adult),23.492749
+targeted_habitat_num,0.1527,Red Drum (Recruit),38.148332
+targeted_habitat_num,0.1527,Red Drum (Sub-adult),336.42461
+targeted_habitat_num,0.1909,Sheepshead (Adult),307.909011
+targeted_habitat_num,0.1909,Sheepshead (Recruit),28.653474
+targeted_habitat_num,0.1909,Blue Crab (Recruit),450.090034
+targeted_habitat_num,0.1909,Common Snook (Adult),633.835096
+targeted_habitat_num,0.1909,Common Snook (Sub-adult),12.075997
+targeted_habitat_num,0.1909,Spotted Seatrout (Adult),130.130138
+targeted_habitat_num,0.1909,Spotted Seatrout (Recruit),478.314497
+targeted_habitat_num,0.1909,Gray Snapper (Recruit),51.617804
+targeted_habitat_num,0.1909,Gray Snapper (Sub-adult),97.448939
+targeted_habitat_num,0.1909,Gag Grouper (Sub-adult),23.594575
+targeted_habitat_num,0.1909,Red Drum (Recruit),38.202955
+targeted_habitat_num,0.1909,Red Drum (Sub-adult),334.772526
+targeted_habitat_num,0.229,Sheepshead (Adult),307.322612
+targeted_habitat_num,0.229,Sheepshead (Recruit),28.373551
+targeted_habitat_num,0.229,Blue Crab (Recruit),447.763546
+targeted_habitat_num,0.229,Common Snook (Adult),634.357395
+targeted_habitat_num,0.229,Common Snook (Sub-adult),12.066
+targeted_habitat_num,0.229,Spotted Seatrout (Adult),129.253237
+targeted_habitat_num,0.229,Spotted Seatrout (Recruit),476.347805
+targeted_habitat_num,0.229,Gray Snapper (Recruit),51.470374
+targeted_habitat_num,0.229,Gray Snapper (Sub-adult),97.969564
+targeted_habitat_num,0.229,Gag Grouper (Sub-adult),23.695012
+targeted_habitat_num,0.229,Red Drum (Recruit),38.249487
+targeted_habitat_num,0.229,Red Drum (Sub-adult),333.19408
+targeted_habitat_num,0.2672,Sheepshead (Adult),306.722341
+targeted_habitat_num,0.2672,Sheepshead (Recruit),28.095727
+targeted_habitat_num,0.2672,Blue Crab (Recruit),445.453262
+targeted_habitat_num,0.2672,Common Snook (Adult),634.840199
+targeted_habitat_num,0.2672,Common Snook (Sub-adult),12.050334
+targeted_habitat_num,0.2672,Spotted Seatrout (Adult),128.455605
+targeted_habitat_num,0.2672,Spotted Seatrout (Recruit),474.297766
+targeted_habitat_num,0.2672,Gray Snapper (Recruit),51.298484
+targeted_habitat_num,0.2672,Gray Snapper (Sub-adult),98.49283
+targeted_habitat_num,0.2672,Gag Grouper (Sub-adult),23.78374
+targeted_habitat_num,0.2672,Red Drum (Recruit),38.313719
+targeted_habitat_num,0.2672,Red Drum (Sub-adult),331.673298
+targeted_habitat_num,0.3054,Sheepshead (Adult),306.116214
+targeted_habitat_num,0.3054,Sheepshead (Recruit),27.806712
+targeted_habitat_num,0.3054,Blue Crab (Recruit),443.028793
+targeted_habitat_num,0.3054,Common Snook (Adult),635.359753
+targeted_habitat_num,0.3054,Common Snook (Sub-adult),12.032471
+targeted_habitat_num,0.3054,Spotted Seatrout (Adult),127.624378
+targeted_habitat_num,0.3054,Spotted Seatrout (Recruit),472.146439
+targeted_habitat_num,0.3054,Gray Snapper (Recruit),51.123417
+targeted_habitat_num,0.3054,Gray Snapper (Sub-adult),99.012552
+targeted_habitat_num,0.3054,Gag Grouper (Sub-adult),23.864414
+targeted_habitat_num,0.3054,Red Drum (Recruit),38.388514
+targeted_habitat_num,0.3054,Red Drum (Sub-adult),330.20705
+targeted_habitat_num,0.3436,Sheepshead (Adult),305.528687
+targeted_habitat_num,0.3436,Sheepshead (Recruit),27.509322
+targeted_habitat_num,0.3436,Blue Crab (Recruit),440.717777
+targeted_habitat_num,0.3436,Common Snook (Adult),635.834827
+targeted_habitat_num,0.3436,Common Snook (Sub-adult),11.999424
+targeted_habitat_num,0.3436,Spotted Seatrout (Adult),126.881983
+targeted_habitat_num,0.3436,Spotted Seatrout (Recruit),469.90304
+targeted_habitat_num,0.3436,Gray Snapper (Recruit),50.927949
+targeted_habitat_num,0.3436,Gray Snapper (Sub-adult),99.530178
+targeted_habitat_num,0.3436,Gag Grouper (Sub-adult),23.935252
+targeted_habitat_num,0.3436,Red Drum (Recruit),38.427036
+targeted_habitat_num,0.3436,Red Drum (Sub-adult),328.775345
+targeted_habitat_num,0.3817,Sheepshead (Adult),304.96276
+targeted_habitat_num,0.3817,Sheepshead (Recruit),27.21478
+targeted_habitat_num,0.3817,Blue Crab (Recruit),438.44445
+targeted_habitat_num,0.3817,Common Snook (Adult),636.426481
+targeted_habitat_num,0.3817,Common Snook (Sub-adult),11.972738
+targeted_habitat_num,0.3817,Spotted Seatrout (Adult),126.189425
+targeted_habitat_num,0.3817,Spotted Seatrout (Recruit),467.627949
+targeted_habitat_num,0.3817,Gray Snapper (Recruit),50.729036
+targeted_habitat_num,0.3817,Gray Snapper (Sub-adult),100.08232
+targeted_habitat_num,0.3817,Gag Grouper (Sub-adult),24.005043
+targeted_habitat_num,0.3817,Red Drum (Recruit),38.495585
+targeted_habitat_num,0.3817,Red Drum (Sub-adult),327.324097
+targeted_habitat_num,0.4199,Sheepshead (Adult),304.356323
+targeted_habitat_num,0.4199,Sheepshead (Recruit),26.910975
+targeted_habitat_num,0.4199,Blue Crab (Recruit),436.13253
+targeted_habitat_num,0.4199,Common Snook (Adult),637.0207
+targeted_habitat_num,0.4199,Common Snook (Sub-adult),11.940478
+targeted_habitat_num,0.4199,Spotted Seatrout (Adult),125.491119
+targeted_habitat_num,0.4199,Spotted Seatrout (Recruit),465.251457
+targeted_habitat_num,0.4199,Gray Snapper (Recruit),50.525204
+targeted_habitat_num,0.4199,Gray Snapper (Sub-adult),100.625731
+targeted_habitat_num,0.4199,Gag Grouper (Sub-adult),24.070379
+targeted_habitat_num,0.4199,Red Drum (Recruit),38.569041
+targeted_habitat_num,0.4199,Red Drum (Sub-adult),325.891064
+targeted_habitat_num,0.4581,Sheepshead (Adult),303.762086
+targeted_habitat_num,0.4581,Sheepshead (Recruit),26.59821
+targeted_habitat_num,0.4581,Blue Crab (Recruit),433.918217
+targeted_habitat_num,0.4581,Common Snook (Adult),637.660433
+targeted_habitat_num,0.4581,Common Snook (Sub-adult),11.919717
+targeted_habitat_num,0.4581,Spotted Seatrout (Adult),124.757496
+targeted_habitat_num,0.4581,Spotted Seatrout (Recruit),462.82292
+targeted_habitat_num,0.4581,Gray Snapper (Recruit),50.311779
+targeted_habitat_num,0.4581,Gray Snapper (Sub-adult),101.185339
+targeted_habitat_num,0.4581,Gag Grouper (Sub-adult),24.139098
+targeted_habitat_num,0.4581,Red Drum (Recruit),38.607959
+targeted_habitat_num,0.4581,Red Drum (Sub-adult),324.439529
+targeted_habitat_num,0.4963,Sheepshead (Adult),303.181807
+targeted_habitat_num,0.4963,Sheepshead (Recruit),26.285273
+targeted_habitat_num,0.4963,Blue Crab (Recruit),431.580536
+targeted_habitat_num,0.4963,Common Snook (Adult),638.275898
+targeted_habitat_num,0.4963,Common Snook (Sub-adult),11.868684
+targeted_habitat_num,0.4963,Spotted Seatrout (Adult),124.086155
+targeted_habitat_num,0.4963,Spotted Seatrout (Recruit),460.435751
+targeted_habitat_num,0.4963,Gray Snapper (Recruit),50.078057
+targeted_habitat_num,0.4963,Gray Snapper (Sub-adult),101.732968
+targeted_habitat_num,0.4963,Gag Grouper (Sub-adult),24.191066
+targeted_habitat_num,0.4963,Red Drum (Recruit),38.670035
+targeted_habitat_num,0.4963,Red Drum (Sub-adult),323.045242
+targeted_habitat_num,0.5344,Sheepshead (Adult),302.600655
+targeted_habitat_num,0.5344,Sheepshead (Recruit),25.961841
+targeted_habitat_num,0.5344,Blue Crab (Recruit),429.36916
+targeted_habitat_num,0.5344,Common Snook (Adult),638.935032
+targeted_habitat_num,0.5344,Common Snook (Sub-adult),11.835694
+targeted_habitat_num,0.5344,Spotted Seatrout (Adult),123.431099
+targeted_habitat_num,0.5344,Spotted Seatrout (Recruit),457.942434
+targeted_habitat_num,0.5344,Gray Snapper (Recruit),49.841163
+targeted_habitat_num,0.5344,Gray Snapper (Sub-adult),102.30459
+targeted_habitat_num,0.5344,Gag Grouper (Sub-adult),24.243359
+targeted_habitat_num,0.5344,Red Drum (Recruit),38.720487
+targeted_habitat_num,0.5344,Red Drum (Sub-adult),321.655323
+targeted_habitat_num,0.5726,Sheepshead (Adult),302.014939
+targeted_habitat_num,0.5726,Sheepshead (Recruit),25.652181
+targeted_habitat_num,0.5726,Blue Crab (Recruit),427.156723
+targeted_habitat_num,0.5726,Common Snook (Adult),639.601387
+targeted_habitat_num,0.5726,Common Snook (Sub-adult),11.807552
+targeted_habitat_num,0.5726,Spotted Seatrout (Adult),122.776089
+targeted_habitat_num,0.5726,Spotted Seatrout (Recruit),455.49353
+targeted_habitat_num,0.5726,Gray Snapper (Recruit),49.601498
+targeted_habitat_num,0.5726,Gray Snapper (Sub-adult),102.864038
+targeted_habitat_num,0.5726,Gag Grouper (Sub-adult),24.292388
+targeted_habitat_num,0.5726,Red Drum (Recruit),38.790664
+targeted_habitat_num,0.5726,Red Drum (Sub-adult),320.345009
+targeted_habitat_num,0.6108,Sheepshead (Adult),301.452971
+targeted_habitat_num,0.6108,Sheepshead (Recruit),25.339322
+targeted_habitat_num,0.6108,Blue Crab (Recruit),425.01461
+targeted_habitat_num,0.6108,Common Snook (Adult),640.343367
+targeted_habitat_num,0.6108,Common Snook (Sub-adult),11.776004
+targeted_habitat_num,0.6108,Spotted Seatrout (Adult),122.112188
+targeted_habitat_num,0.6108,Spotted Seatrout (Recruit),452.989824
+targeted_habitat_num,0.6108,Gray Snapper (Recruit),49.364293
+targeted_habitat_num,0.6108,Gray Snapper (Sub-adult),103.444104
+targeted_habitat_num,0.6108,Gag Grouper (Sub-adult),24.33837
+targeted_habitat_num,0.6108,Red Drum (Recruit),38.830131
+targeted_habitat_num,0.6108,Red Drum (Sub-adult),319.040318
+targeted_habitat_num,0.649,Sheepshead (Adult),300.851656
+targeted_habitat_num,0.649,Sheepshead (Recruit),25.011902
+targeted_habitat_num,0.649,Blue Crab (Recruit),422.796207
+targeted_habitat_num,0.649,Common Snook (Adult),641.050085
+targeted_habitat_num,0.649,Common Snook (Sub-adult),11.738534
+targeted_habitat_num,0.649,Spotted Seatrout (Adult),121.460695
+targeted_habitat_num,0.649,Spotted Seatrout (Recruit),450.470003
+targeted_habitat_num,0.649,Gray Snapper (Recruit),49.109988
+targeted_habitat_num,0.649,Gray Snapper (Sub-adult),104.009535
+targeted_habitat_num,0.649,Gag Grouper (Sub-adult),24.378552
+targeted_habitat_num,0.649,Red Drum (Recruit),38.857154
+targeted_habitat_num,0.649,Red Drum (Sub-adult),317.740276
+targeted_habitat_num,0.6871,Sheepshead (Adult),300.284244
+targeted_habitat_num,0.6871,Sheepshead (Recruit),24.708578
+targeted_habitat_num,0.6871,Blue Crab (Recruit),420.670979
+targeted_habitat_num,0.6871,Common Snook (Adult),641.706919
+targeted_habitat_num,0.6871,Common Snook (Sub-adult),11.713123
+targeted_habitat_num,0.6871,Spotted Seatrout (Adult),120.86174
+targeted_habitat_num,0.6871,Spotted Seatrout (Recruit),447.946875
+targeted_habitat_num,0.6871,Gray Snapper (Recruit),48.862762
+targeted_habitat_num,0.6871,Gray Snapper (Sub-adult),104.613528
+targeted_habitat_num,0.6871,Gag Grouper (Sub-adult),24.423296
+targeted_habitat_num,0.6871,Red Drum (Recruit),38.913188
+targeted_habitat_num,0.6871,Red Drum (Sub-adult),316.443245
+targeted_habitat_num,0.7253,Sheepshead (Adult),299.719545
+targeted_habitat_num,0.7253,Sheepshead (Recruit),24.403209
+targeted_habitat_num,0.7253,Blue Crab (Recruit),418.487232
+targeted_habitat_num,0.7253,Common Snook (Adult),642.442633
+targeted_habitat_num,0.7253,Common Snook (Sub-adult),11.688765
+targeted_habitat_num,0.7253,Spotted Seatrout (Adult),120.238651
+targeted_habitat_num,0.7253,Spotted Seatrout (Recruit),445.372078
+targeted_habitat_num,0.7253,Gray Snapper (Recruit),48.610603
+targeted_habitat_num,0.7253,Gray Snapper (Sub-adult),105.230954
+targeted_habitat_num,0.7253,Gag Grouper (Sub-adult),24.462078
+targeted_habitat_num,0.7253,Red Drum (Recruit),38.969506
+targeted_habitat_num,0.7253,Red Drum (Sub-adult),315.197716
+Restoration_technique,-0.0,Sheepshead (Adult),307.906758
+Restoration_technique,-0.0,Sheepshead (Recruit),28.746252
+Restoration_technique,-0.0,Blue Crab (Recruit),458.047256
+Restoration_technique,-0.0,Common Snook (Adult),657.199835
+Restoration_technique,-0.0,Common Snook (Sub-adult),11.284791
+Restoration_technique,-0.0,Spotted Seatrout (Adult),127.702364
+Restoration_technique,-0.0,Spotted Seatrout (Recruit),472.994625
+Restoration_technique,-0.0,Gray Snapper (Recruit),51.678739
+Restoration_technique,-0.0,Gray Snapper (Sub-adult),99.13285
+Restoration_technique,-0.0,Gag Grouper (Sub-adult),23.423197
+Restoration_technique,-0.0,Red Drum (Recruit),38.020392
+Restoration_technique,-0.0,Red Drum (Sub-adult),333.762405
+Restoration_technique,0.0385,Sheepshead (Adult),307.210422
+Restoration_technique,0.0385,Sheepshead (Recruit),28.874271
+Restoration_technique,0.0385,Blue Crab (Recruit),459.279938
+Restoration_technique,0.0385,Common Snook (Adult),654.875319
+Restoration_technique,0.0385,Common Snook (Sub-adult),11.445023
+Restoration_technique,0.0385,Spotted Seatrout (Adult),127.826002
+Restoration_technique,0.0385,Spotted Seatrout (Recruit),474.188271
+Restoration_technique,0.0385,Gray Snapper (Recruit),51.792257
+Restoration_technique,0.0385,Gray Snapper (Sub-adult),98.927754
+Restoration_technique,0.0385,Gag Grouper (Sub-adult),23.339012
+Restoration_technique,0.0385,Red Drum (Recruit),38.103883
+Restoration_technique,0.0385,Red Drum (Sub-adult),335.239906
+Restoration_technique,0.077,Sheepshead (Adult),306.550981
+Restoration_technique,0.077,Sheepshead (Recruit),29.033302
+Restoration_technique,0.077,Blue Crab (Recruit),460.523163
+Restoration_technique,0.077,Common Snook (Adult),652.698767
+Restoration_technique,0.077,Common Snook (Sub-adult),11.590703
+Restoration_technique,0.077,Spotted Seatrout (Adult),127.907711
+Restoration_technique,0.077,Spotted Seatrout (Recruit),475.197941
+Restoration_technique,0.077,Gray Snapper (Recruit),51.885145
+Restoration_technique,0.077,Gray Snapper (Sub-adult),98.725205
+Restoration_technique,0.077,Gag Grouper (Sub-adult),23.2537
+Restoration_technique,0.077,Red Drum (Recruit),38.187576
+Restoration_technique,0.077,Red Drum (Sub-adult),336.613773
+Restoration_technique,0.1155,Sheepshead (Adult),305.928447
+Restoration_technique,0.1155,Sheepshead (Recruit),29.160259
+Restoration_technique,0.1155,Blue Crab (Recruit),461.795406
+Restoration_technique,0.1155,Common Snook (Adult),650.578123
+Restoration_technique,0.1155,Common Snook (Sub-adult),11.745881
+Restoration_technique,0.1155,Spotted Seatrout (Adult),128.000032
+Restoration_technique,0.1155,Spotted Seatrout (Recruit),476.179644
+Restoration_technique,0.1155,Gray Snapper (Recruit),51.978755
+Restoration_technique,0.1155,Gray Snapper (Sub-adult),98.54477
+Restoration_technique,0.1155,Gag Grouper (Sub-adult),23.170774
+Restoration_technique,0.1155,Red Drum (Recruit),38.260628
+Restoration_technique,0.1155,Red Drum (Sub-adult),338.019802
+Restoration_technique,0.154,Sheepshead (Adult),305.300472
+Restoration_technique,0.154,Sheepshead (Recruit),29.289837
+Restoration_technique,0.154,Blue Crab (Recruit),462.963394
+Restoration_technique,0.154,Common Snook (Adult),648.509909
+Restoration_technique,0.154,Common Snook (Sub-adult),11.901642
+Restoration_technique,0.154,Spotted Seatrout (Adult),128.103868
+Restoration_technique,0.154,Spotted Seatrout (Recruit),477.214115
+Restoration_technique,0.154,Gray Snapper (Recruit),52.069619
+Restoration_technique,0.154,Gray Snapper (Sub-adult),98.352327
+Restoration_technique,0.154,Gag Grouper (Sub-adult),23.085399
+Restoration_technique,0.154,Red Drum (Recruit),38.29916
+Restoration_technique,0.154,Red Drum (Sub-adult),339.402122
+Restoration_technique,0.1926,Sheepshead (Adult),304.669109
+Restoration_technique,0.1926,Sheepshead (Recruit),29.429505
+Restoration_technique,0.1926,Blue Crab (Recruit),464.239117
+Restoration_technique,0.1926,Common Snook (Adult),646.430208
+Restoration_technique,0.1926,Common Snook (Sub-adult),12.059756
+Restoration_technique,0.1926,Spotted Seatrout (Adult),128.203144
+Restoration_technique,0.1926,Spotted Seatrout (Recruit),478.235531
+Restoration_technique,0.1926,Gray Snapper (Recruit),52.167547
+Restoration_technique,0.1926,Gray Snapper (Sub-adult),98.161825
+Restoration_technique,0.1926,Gag Grouper (Sub-adult),22.998952
+Restoration_technique,0.1926,Red Drum (Recruit),38.351391
+Restoration_technique,0.1926,Red Drum (Sub-adult),340.753006
+Restoration_technique,0.2311,Sheepshead (Adult),304.065992
+Restoration_technique,0.2311,Sheepshead (Recruit),29.558956
+Restoration_technique,0.2311,Blue Crab (Recruit),465.442551
+Restoration_technique,0.2311,Common Snook (Adult),644.498335
+Restoration_technique,0.2311,Common Snook (Sub-adult),12.224594
+Restoration_technique,0.2311,Spotted Seatrout (Adult),128.320383
+Restoration_technique,0.2311,Spotted Seatrout (Recruit),479.183268
+Restoration_technique,0.2311,Gray Snapper (Recruit),52.262657
+Restoration_technique,0.2311,Gray Snapper (Sub-adult),97.994064
+Restoration_technique,0.2311,Gag Grouper (Sub-adult),22.916764
+Restoration_technique,0.2311,Red Drum (Recruit),38.406847
+Restoration_technique,0.2311,Red Drum (Sub-adult),342.129772
+Restoration_technique,0.2696,Sheepshead (Adult),303.461027
+Restoration_technique,0.2696,Sheepshead (Recruit),29.711826
+Restoration_technique,0.2696,Blue Crab (Recruit),466.671654
+Restoration_technique,0.2696,Common Snook (Adult),642.573368
+Restoration_technique,0.2696,Common Snook (Sub-adult),12.381396
+Restoration_technique,0.2696,Spotted Seatrout (Adult),128.423544
+Restoration_technique,0.2696,Spotted Seatrout (Recruit),480.156805
+Restoration_technique,0.2696,Gray Snapper (Recruit),52.342364
+Restoration_technique,0.2696,Gray Snapper (Sub-adult),97.817656
+Restoration_technique,0.2696,Gag Grouper (Sub-adult),22.83565
+Restoration_technique,0.2696,Red Drum (Recruit),38.45523
+Restoration_technique,0.2696,Red Drum (Sub-adult),343.439949
+Restoration_technique,0.3081,Sheepshead (Adult),302.85169
+Restoration_technique,0.3081,Sheepshead (Recruit),29.840669
+Restoration_technique,0.3081,Blue Crab (Recruit),467.819622
+Restoration_technique,0.3081,Common Snook (Adult),640.830009
+Restoration_technique,0.3081,Common Snook (Sub-adult),12.550683
+Restoration_technique,0.3081,Spotted Seatrout (Adult),128.515335
+Restoration_technique,0.3081,Spotted Seatrout (Recruit),481.06118
+Restoration_technique,0.3081,Gray Snapper (Recruit),52.420437
+Restoration_technique,0.3081,Gray Snapper (Sub-adult),97.663609
+Restoration_technique,0.3081,Gag Grouper (Sub-adult),22.75301
+Restoration_technique,0.3081,Red Drum (Recruit),38.485191
+Restoration_technique,0.3081,Red Drum (Sub-adult),344.801388
+Restoration_technique,0.3466,Sheepshead (Adult),302.260468
+Restoration_technique,0.3466,Sheepshead (Recruit),29.981822
+Restoration_technique,0.3466,Blue Crab (Recruit),468.892452
+Restoration_technique,0.3466,Common Snook (Adult),639.069782
+Restoration_technique,0.3466,Common Snook (Sub-adult),12.714359
+Restoration_technique,0.3466,Spotted Seatrout (Adult),128.629084
+Restoration_technique,0.3466,Spotted Seatrout (Recruit),481.855463
+Restoration_technique,0.3466,Gray Snapper (Recruit),52.482399
+Restoration_technique,0.3466,Gray Snapper (Sub-adult),97.491884
+Restoration_technique,0.3466,Gag Grouper (Sub-adult),22.665067
+Restoration_technique,0.3466,Red Drum (Recruit),38.512553
+Restoration_technique,0.3466,Red Drum (Sub-adult),346.124519
+Restoration_technique,0.3851,Sheepshead (Adult),301.663863
+Restoration_technique,0.3851,Sheepshead (Recruit),30.115542
+Restoration_technique,0.3851,Blue Crab (Recruit),470.017929
+Restoration_technique,0.3851,Common Snook (Adult),637.364626
+Restoration_technique,0.3851,Common Snook (Sub-adult),12.882623
+Restoration_technique,0.3851,Spotted Seatrout (Adult),128.686512
+Restoration_technique,0.3851,Spotted Seatrout (Recruit),482.668547
+Restoration_technique,0.3851,Gray Snapper (Recruit),52.549656
+Restoration_technique,0.3851,Gray Snapper (Sub-adult),97.336651
+Restoration_technique,0.3851,Gag Grouper (Sub-adult),22.581239
+Restoration_technique,0.3851,Red Drum (Recruit),38.522523
+Restoration_technique,0.3851,Red Drum (Sub-adult),347.383011
+Restoration_technique,0.4236,Sheepshead (Adult),301.082226
+Restoration_technique,0.4236,Sheepshead (Recruit),30.251502
+Restoration_technique,0.4236,Blue Crab (Recruit),471.046669
+Restoration_technique,0.4236,Common Snook (Adult),635.701097
+Restoration_technique,0.4236,Common Snook (Sub-adult),13.043916
+Restoration_technique,0.4236,Spotted Seatrout (Adult),128.779022
+Restoration_technique,0.4236,Spotted Seatrout (Recruit),483.400839
+Restoration_technique,0.4236,Gray Snapper (Recruit),52.605409
+Restoration_technique,0.4236,Gray Snapper (Sub-adult),97.159378
+Restoration_technique,0.4236,Gag Grouper (Sub-adult),22.492576
+Restoration_technique,0.4236,Red Drum (Recruit),38.531775
+Restoration_technique,0.4236,Red Drum (Sub-adult),348.626392
+Restoration_technique,0.4621,Sheepshead (Adult),300.481967
+Restoration_technique,0.4621,Sheepshead (Recruit),30.370679
+Restoration_technique,0.4621,Blue Crab (Recruit),472.003632
+Restoration_technique,0.4621,Common Snook (Adult),634.052082
+Restoration_technique,0.4621,Common Snook (Sub-adult),13.2042
+Restoration_technique,0.4621,Spotted Seatrout (Adult),128.907209
+Restoration_technique,0.4621,Spotted Seatrout (Recruit),484.090546
+Restoration_technique,0.4621,Gray Snapper (Recruit),52.665778
+Restoration_technique,0.4621,Gray Snapper (Sub-adult),96.977232
+Restoration_technique,0.4621,Gag Grouper (Sub-adult),22.401458
+Restoration_technique,0.4621,Red Drum (Recruit),38.529462
+Restoration_technique,0.4621,Red Drum (Sub-adult),349.831326
+Restoration_technique,0.5007,Sheepshead (Adult),299.90429
+Restoration_technique,0.5007,Sheepshead (Recruit),30.497537
+Restoration_technique,0.5007,Blue Crab (Recruit),472.99025
+Restoration_technique,0.5007,Common Snook (Adult),632.555454
+Restoration_technique,0.5007,Common Snook (Sub-adult),13.367761
+Restoration_technique,0.5007,Spotted Seatrout (Adult),129.055916
+Restoration_technique,0.5007,Spotted Seatrout (Recruit),484.818817
+Restoration_technique,0.5007,Gray Snapper (Recruit),52.743695
+Restoration_technique,0.5007,Gray Snapper (Sub-adult),96.820303
+Restoration_technique,0.5007,Gag Grouper (Sub-adult),22.316055
+Restoration_technique,0.5007,Red Drum (Recruit),38.522314
+Restoration_technique,0.5007,Red Drum (Sub-adult),350.989063
+Restoration_technique,0.5392,Sheepshead (Adult),299.304011
+Restoration_technique,0.5392,Sheepshead (Recruit),30.625216
+Restoration_technique,0.5392,Blue Crab (Recruit),473.911594
+Restoration_technique,0.5392,Common Snook (Adult),631.05019
+Restoration_technique,0.5392,Common Snook (Sub-adult),13.529159
+Restoration_technique,0.5392,Spotted Seatrout (Adult),129.19726
+Restoration_technique,0.5392,Spotted Seatrout (Recruit),485.413383
+Restoration_technique,0.5392,Gray Snapper (Recruit),52.799031
+Restoration_technique,0.5392,Gray Snapper (Sub-adult),96.641962
+Restoration_technique,0.5392,Gag Grouper (Sub-adult),22.229368
+Restoration_technique,0.5392,Red Drum (Recruit),38.517891
+Restoration_technique,0.5392,Red Drum (Sub-adult),352.065868
+Restoration_technique,0.5777,Sheepshead (Adult),298.699359
+Restoration_technique,0.5777,Sheepshead (Recruit),30.754261
+Restoration_technique,0.5777,Blue Crab (Recruit),474.896027
+Restoration_technique,0.5777,Common Snook (Adult),629.538565
+Restoration_technique,0.5777,Common Snook (Sub-adult),13.705058
+Restoration_technique,0.5777,Spotted Seatrout (Adult),129.311506
+Restoration_technique,0.5777,Spotted Seatrout (Recruit),485.980686
+Restoration_technique,0.5777,Gray Snapper (Recruit),52.864296
+Restoration_technique,0.5777,Gray Snapper (Sub-adult),96.47737
+Restoration_technique,0.5777,Gag Grouper (Sub-adult),22.145332
+Restoration_technique,0.5777,Red Drum (Recruit),38.520755
+Restoration_technique,0.5777,Red Drum (Sub-adult),353.106869
+Restoration_technique,0.6162,Sheepshead (Adult),298.06654
+Restoration_technique,0.6162,Sheepshead (Recruit),30.874081
+Restoration_technique,0.6162,Blue Crab (Recruit),475.791828
+Restoration_technique,0.6162,Common Snook (Adult),628.057327
+Restoration_technique,0.6162,Common Snook (Sub-adult),13.866081
+Restoration_technique,0.6162,Spotted Seatrout (Adult),129.403217
+Restoration_technique,0.6162,Spotted Seatrout (Recruit),486.53454
+Restoration_technique,0.6162,Gray Snapper (Recruit),52.91571
+Restoration_technique,0.6162,Gray Snapper (Sub-adult),96.302948
+Restoration_technique,0.6162,Gag Grouper (Sub-adult),22.062606
+Restoration_technique,0.6162,Red Drum (Recruit),38.492792
+Restoration_technique,0.6162,Red Drum (Sub-adult),354.07098
+Restoration_technique,0.6547,Sheepshead (Adult),297.443493
+Restoration_technique,0.6547,Sheepshead (Recruit),30.984937
+Restoration_technique,0.6547,Blue Crab (Recruit),476.683605
+Restoration_technique,0.6547,Common Snook (Adult),626.650002
+Restoration_technique,0.6547,Common Snook (Sub-adult),14.032046
+Restoration_technique,0.6547,Spotted Seatrout (Adult),129.54236
+Restoration_technique,0.6547,Spotted Seatrout (Recruit),487.025694
+Restoration_technique,0.6547,Gray Snapper (Recruit),52.976367
+Restoration_technique,0.6547,Gray Snapper (Sub-adult),96.134828
+Restoration_technique,0.6547,Gag Grouper (Sub-adult),21.981254
+Restoration_technique,0.6547,Red Drum (Recruit),38.479438
+Restoration_technique,0.6547,Red Drum (Sub-adult),355.042007
+Restoration_technique,0.6932,Sheepshead (Adult),296.830275
+Restoration_technique,0.6932,Sheepshead (Recruit),31.106808
+Restoration_technique,0.6932,Blue Crab (Recruit),477.50214
+Restoration_technique,0.6932,Common Snook (Adult),625.28067
+Restoration_technique,0.6932,Common Snook (Sub-adult),14.194826
+Restoration_technique,0.6932,Spotted Seatrout (Adult),129.644794
+Restoration_technique,0.6932,Spotted Seatrout (Recruit),487.433645
+Restoration_technique,0.6932,Gray Snapper (Recruit),53.020568
+Restoration_technique,0.6932,Gray Snapper (Sub-adult),95.952387
+Restoration_technique,0.6932,Gag Grouper (Sub-adult),21.9041
+Restoration_technique,0.6932,Red Drum (Recruit),38.465996
+Restoration_technique,0.6932,Red Drum (Sub-adult),355.972626
+Restoration_technique,0.7317,Sheepshead (Adult),296.219649
+Restoration_technique,0.7317,Sheepshead (Recruit),31.213091
+Restoration_technique,0.7317,Blue Crab (Recruit),478.288422
+Restoration_technique,0.7317,Common Snook (Adult),623.999535
+Restoration_technique,0.7317,Common Snook (Sub-adult),14.360781
+Restoration_technique,0.7317,Spotted Seatrout (Adult),129.766155
+Restoration_technique,0.7317,Spotted Seatrout (Recruit),487.844305
+Restoration_technique,0.7317,Gray Snapper (Recruit),53.081435
+Restoration_technique,0.7317,Gray Snapper (Sub-adult),95.78036
+Restoration_technique,0.7317,Gag Grouper (Sub-adult),21.825041
+Restoration_technique,0.7317,Red Drum (Recruit),38.425355
+Restoration_technique,0.7317,Red Drum (Sub-adult),356.860733
+primary_habitat,-0.0,Sheepshead (Adult),304.090051
+primary_habitat,-0.0,Sheepshead (Recruit),29.106659
+primary_habitat,-0.0,Blue Crab (Recruit),460.271049
+primary_habitat,-0.0,Common Snook (Adult),641.594753
+primary_habitat,-0.0,Common Snook (Sub-adult),12.001781
+primary_habitat,-0.0,Spotted Seatrout (Adult),128.016005
+primary_habitat,-0.0,Spotted Seatrout (Recruit),460.617237
+primary_habitat,-0.0,Gray Snapper (Recruit),51.954973
+primary_habitat,-0.0,Gray Snapper (Sub-adult),98.947265
+primary_habitat,-0.0,Gag Grouper (Sub-adult),23.135457
+primary_habitat,-0.0,Red Drum (Recruit),38.257197
+primary_habitat,-0.0,Red Drum (Sub-adult),340.613342
+primary_habitat,0.286,Sheepshead (Adult),305.279879
+primary_habitat,0.286,Sheepshead (Recruit),29.249754
+primary_habitat,0.286,Blue Crab (Recruit),458.180462
+primary_habitat,0.286,Common Snook (Adult),641.859604
+primary_habitat,0.286,Common Snook (Sub-adult),12.012979
+primary_habitat,0.286,Spotted Seatrout (Adult),128.717571
+primary_habitat,0.286,Spotted Seatrout (Recruit),463.975428
+primary_habitat,0.286,Gray Snapper (Recruit),52.318813
+primary_habitat,0.286,Gray Snapper (Sub-adult),98.82301
+primary_habitat,0.286,Gag Grouper (Sub-adult),23.299641
+primary_habitat,0.286,Red Drum (Recruit),38.265605
+primary_habitat,0.286,Red Drum (Sub-adult),340.145954
+primary_habitat,0.5721,Sheepshead (Adult),306.455379
+primary_habitat,0.5721,Sheepshead (Recruit),29.384965
+primary_habitat,0.5721,Blue Crab (Recruit),456.14933
+primary_habitat,0.5721,Common Snook (Adult),642.100702
+primary_habitat,0.5721,Common Snook (Sub-adult),12.024301
+primary_habitat,0.5721,Spotted Seatrout (Adult),129.417007
+primary_habitat,0.5721,Spotted Seatrout (Recruit),467.222744
+primary_habitat,0.5721,Gray Snapper (Recruit),52.678311
+primary_habitat,0.5721,Gray Snapper (Sub-adult),98.67046
+primary_habitat,0.5721,Gag Grouper (Sub-adult),23.456821
+primary_habitat,0.5721,Red Drum (Recruit),38.278265
+primary_habitat,0.5721,Red Drum (Sub-adult),339.655674
+primary_habitat,0.8581,Sheepshead (Adult),307.603232
+primary_habitat,0.8581,Sheepshead (Recruit),29.52678
+primary_habitat,0.8581,Blue Crab (Recruit),454.04483
+primary_habitat,0.8581,Common Snook (Adult),642.328108
+primary_habitat,0.8581,Common Snook (Sub-adult),12.035237
+primary_habitat,0.8581,Spotted Seatrout (Adult),130.191113
+primary_habitat,0.8581,Spotted Seatrout (Recruit),470.613108
+primary_habitat,0.8581,Gray Snapper (Recruit),53.030568
+primary_habitat,0.8581,Gray Snapper (Sub-adult),98.502365
+primary_habitat,0.8581,Gag Grouper (Sub-adult),23.60988
+primary_habitat,0.8581,Red Drum (Recruit),38.284304
+primary_habitat,0.8581,Red Drum (Sub-adult),339.192879
+primary_habitat,1.1442,Sheepshead (Adult),308.737947
+primary_habitat,1.1442,Sheepshead (Recruit),29.64228
+primary_habitat,1.1442,Blue Crab (Recruit),452.002792
+primary_habitat,1.1442,Common Snook (Adult),642.539352
+primary_habitat,1.1442,Common Snook (Sub-adult),12.053572
+primary_habitat,1.1442,Spotted Seatrout (Adult),130.917542
+primary_habitat,1.1442,Spotted Seatrout (Recruit),473.854513
+primary_habitat,1.1442,Gray Snapper (Recruit),53.372932
+primary_habitat,1.1442,Gray Snapper (Sub-adult),98.320932
+primary_habitat,1.1442,Gag Grouper (Sub-adult),23.753308
+primary_habitat,1.1442,Red Drum (Recruit),38.314005
+primary_habitat,1.1442,Red Drum (Sub-adult),338.7369
+primary_habitat,1.4302,Sheepshead (Adult),309.908102
+primary_habitat,1.4302,Sheepshead (Recruit),29.762166
+primary_habitat,1.4302,Blue Crab (Recruit),450.071342
+primary_habitat,1.4302,Common Snook (Adult),642.783344
+primary_habitat,1.4302,Common Snook (Sub-adult),12.069887
+primary_habitat,1.4302,Spotted Seatrout (Adult),131.74547
+primary_habitat,1.4302,Spotted Seatrout (Recruit),477.259241
+primary_habitat,1.4302,Gray Snapper (Recruit),53.721431
+primary_habitat,1.4302,Gray Snapper (Sub-adult),98.111719
+primary_habitat,1.4302,Gag Grouper (Sub-adult),23.88164
+primary_habitat,1.4302,Red Drum (Recruit),38.316519
+primary_habitat,1.4302,Red Drum (Sub-adult),338.392857
+primary_habitat,1.7162,Sheepshead (Adult),311.025624
+primary_habitat,1.7162,Sheepshead (Recruit),29.864533
+primary_habitat,1.7162,Blue Crab (Recruit),448.04771
+primary_habitat,1.7162,Common Snook (Adult),643.006758
+primary_habitat,1.7162,Common Snook (Sub-adult),12.072402
+primary_habitat,1.7162,Spotted Seatrout (Adult),132.558804
+primary_habitat,1.7162,Spotted Seatrout (Recruit),480.57094
+primary_habitat,1.7162,Gray Snapper (Recruit),54.064307
+primary_habitat,1.7162,Gray Snapper (Sub-adult),97.88482
+primary_habitat,1.7162,Gag Grouper (Sub-adult),23.996435
+primary_habitat,1.7162,Red Drum (Recruit),38.330138
+primary_habitat,1.7162,Red Drum (Sub-adult),337.967014
+primary_habitat,2.0023,Sheepshead (Adult),312.101741
+primary_habitat,2.0023,Sheepshead (Recruit),29.964658
+primary_habitat,2.0023,Blue Crab (Recruit),446.076649
+primary_habitat,2.0023,Common Snook (Adult),643.291344
+primary_habitat,2.0023,Common Snook (Sub-adult),12.08602
+primary_habitat,2.0023,Spotted Seatrout (Adult),133.386496
+primary_habitat,2.0023,Spotted Seatrout (Recruit),483.827311
+primary_habitat,2.0023,Gray Snapper (Recruit),54.389647
+primary_habitat,2.0023,Gray Snapper (Sub-adult),97.630982
+primary_habitat,2.0023,Gag Grouper (Sub-adult),24.1056
+primary_habitat,2.0023,Red Drum (Recruit),38.303925
+primary_habitat,2.0023,Red Drum (Sub-adult),337.533234
+primary_habitat,2.2883,Sheepshead (Adult),313.213999
+primary_habitat,2.2883,Sheepshead (Recruit),30.068012
+primary_habitat,2.2883,Blue Crab (Recruit),444.120171
+primary_habitat,2.2883,Common Snook (Adult),643.581226
+primary_habitat,2.2883,Common Snook (Sub-adult),12.097336
+primary_habitat,2.2883,Spotted Seatrout (Adult),134.273438
+primary_habitat,2.2883,Spotted Seatrout (Recruit),487.115423
+primary_habitat,2.2883,Gray Snapper (Recruit),54.710079
+primary_habitat,2.2883,Gray Snapper (Sub-adult),97.369376
+primary_habitat,2.2883,Gag Grouper (Sub-adult),24.207067
+primary_habitat,2.2883,Red Drum (Recruit),38.295087
+primary_habitat,2.2883,Red Drum (Sub-adult),337.1054
+primary_habitat,2.5743,Sheepshead (Adult),314.281131
+primary_habitat,2.5743,Sheepshead (Recruit),30.138127
+primary_habitat,2.5743,Blue Crab (Recruit),442.139629
+primary_habitat,2.5743,Common Snook (Adult),643.796669
+primary_habitat,2.5743,Common Snook (Sub-adult),12.114734
+primary_habitat,2.5743,Spotted Seatrout (Adult),135.162775
+primary_habitat,2.5743,Spotted Seatrout (Recruit),490.450224
+primary_habitat,2.5743,Gray Snapper (Recruit),55.036767
+primary_habitat,2.5743,Gray Snapper (Sub-adult),97.091666
+primary_habitat,2.5743,Gag Grouper (Sub-adult),24.30669
+primary_habitat,2.5743,Red Drum (Recruit),38.282158
+primary_habitat,2.5743,Red Drum (Sub-adult),336.680855
+primary_habitat,2.8604,Sheepshead (Adult),315.34963
+primary_habitat,2.8604,Sheepshead (Recruit),30.214693
+primary_habitat,2.8604,Blue Crab (Recruit),440.336788
+primary_habitat,2.8604,Common Snook (Adult),644.042023
+primary_habitat,2.8604,Common Snook (Sub-adult),12.11071
+primary_habitat,2.8604,Spotted Seatrout (Adult),136.057095
+primary_habitat,2.8604,Spotted Seatrout (Recruit),493.769117
+primary_habitat,2.8604,Gray Snapper (Recruit),55.352304
+primary_habitat,2.8604,Gray Snapper (Sub-adult),96.795181
+primary_habitat,2.8604,Gag Grouper (Sub-adult),24.398037
+primary_habitat,2.8604,Red Drum (Recruit),38.26361
+primary_habitat,2.8604,Red Drum (Sub-adult),336.17094
+primary_habitat,3.1464,Sheepshead (Adult),316.371455
+primary_habitat,3.1464,Sheepshead (Recruit),30.273004
+primary_habitat,3.1464,Blue Crab (Recruit),438.459675
+primary_habitat,3.1464,Common Snook (Adult),644.364618
+primary_habitat,3.1464,Common Snook (Sub-adult),12.121216
+primary_habitat,3.1464,Spotted Seatrout (Adult),136.942167
+primary_habitat,3.1464,Spotted Seatrout (Recruit),497.045412
+primary_habitat,3.1464,Gray Snapper (Recruit),55.674111
+primary_habitat,3.1464,Gray Snapper (Sub-adult),96.497772
+primary_habitat,3.1464,Gag Grouper (Sub-adult),24.492324
+primary_habitat,3.1464,Red Drum (Recruit),38.261102
+primary_habitat,3.1464,Red Drum (Sub-adult),335.597759
+primary_habitat,3.4325,Sheepshead (Adult),317.408969
+primary_habitat,3.4325,Sheepshead (Recruit),30.317476
+primary_habitat,3.4325,Blue Crab (Recruit),436.688438
+primary_habitat,3.4325,Common Snook (Adult),644.617613
+primary_habitat,3.4325,Common Snook (Sub-adult),12.109005
+primary_habitat,3.4325,Spotted Seatrout (Adult),137.853992
+primary_habitat,3.4325,Spotted Seatrout (Recruit),500.30835
+primary_habitat,3.4325,Gray Snapper (Recruit),55.980641
+primary_habitat,3.4325,Gray Snapper (Sub-adult),96.17957
+primary_habitat,3.4325,Gag Grouper (Sub-adult),24.575734
+primary_habitat,3.4325,Red Drum (Recruit),38.245911
+primary_habitat,3.4325,Red Drum (Sub-adult),335.014854
+primary_habitat,3.7185,Sheepshead (Adult),318.43995
+primary_habitat,3.7185,Sheepshead (Recruit),30.376241
+primary_habitat,3.7185,Blue Crab (Recruit),434.840443
+primary_habitat,3.7185,Common Snook (Adult),644.884142
+primary_habitat,3.7185,Common Snook (Sub-adult),12.091789
+primary_habitat,3.7185,Spotted Seatrout (Adult),138.770557
+primary_habitat,3.7185,Spotted Seatrout (Recruit),503.479591
+primary_habitat,3.7185,Gray Snapper (Recruit),56.287044
+primary_habitat,3.7185,Gray Snapper (Sub-adult),95.826881
+primary_habitat,3.7185,Gag Grouper (Sub-adult),24.647829
+primary_habitat,3.7185,Red Drum (Recruit),38.243769
+primary_habitat,3.7185,Red Drum (Sub-adult),334.437611
+primary_habitat,4.0045,Sheepshead (Adult),319.47824
+primary_habitat,4.0045,Sheepshead (Recruit),30.41284
+primary_habitat,4.0045,Blue Crab (Recruit),433.027767
+primary_habitat,4.0045,Common Snook (Adult),645.153185
+primary_habitat,4.0045,Common Snook (Sub-adult),12.07568
+primary_habitat,4.0045,Spotted Seatrout (Adult),139.780012
+primary_habitat,4.0045,Spotted Seatrout (Recruit),506.64953
+primary_habitat,4.0045,Gray Snapper (Recruit),56.570886
+primary_habitat,4.0045,Gray Snapper (Sub-adult),95.470196
+primary_habitat,4.0045,Gag Grouper (Sub-adult),24.709074
+primary_habitat,4.0045,Red Drum (Recruit),38.217908
+primary_habitat,4.0045,Red Drum (Sub-adult),333.886391
+primary_habitat,4.2906,Sheepshead (Adult),320.488333
+primary_habitat,4.2906,Sheepshead (Recruit),30.437569
+primary_habitat,4.2906,Blue Crab (Recruit),431.220886
+primary_habitat,4.2906,Common Snook (Adult),645.34095
+primary_habitat,4.2906,Common Snook (Sub-adult),12.058964
+primary_habitat,4.2906,Spotted Seatrout (Adult),140.780132
+primary_habitat,4.2906,Spotted Seatrout (Recruit),509.832329
+primary_habitat,4.2906,Gray Snapper (Recruit),56.871678
+primary_habitat,4.2906,Gray Snapper (Sub-adult),95.108627
+primary_habitat,4.2906,Gag Grouper (Sub-adult),24.768062
+primary_habitat,4.2906,Red Drum (Recruit),38.207191
+primary_habitat,4.2906,Red Drum (Sub-adult),333.291435
+primary_habitat,4.5766,Sheepshead (Adult),321.465208
+primary_habitat,4.5766,Sheepshead (Recruit),30.451528
+primary_habitat,4.5766,Blue Crab (Recruit),429.4519
+primary_habitat,4.5766,Common Snook (Adult),645.654781
+primary_habitat,4.5766,Common Snook (Sub-adult),12.043289
+primary_habitat,4.5766,Spotted Seatrout (Adult),141.821781
+primary_habitat,4.5766,Spotted Seatrout (Recruit),512.9151
+primary_habitat,4.5766,Gray Snapper (Recruit),57.154662
+primary_habitat,4.5766,Gray Snapper (Sub-adult),94.724662
+primary_habitat,4.5766,Gag Grouper (Sub-adult),24.823272
+primary_habitat,4.5766,Red Drum (Recruit),38.18887
+primary_habitat,4.5766,Red Drum (Sub-adult),332.694321
+primary_habitat,4.8626,Sheepshead (Adult),322.479738
+primary_habitat,4.8626,Sheepshead (Recruit),30.474617
+primary_habitat,4.8626,Blue Crab (Recruit),427.691929
+primary_habitat,4.8626,Common Snook (Adult),645.903652
+primary_habitat,4.8626,Common Snook (Sub-adult),12.037497
+primary_habitat,4.8626,Spotted Seatrout (Adult),142.935923
+primary_habitat,4.8626,Spotted Seatrout (Recruit),516.198679
+primary_habitat,4.8626,Gray Snapper (Recruit),57.489758
+primary_habitat,4.8626,Gray Snapper (Sub-adult),94.31341
+primary_habitat,4.8626,Gag Grouper (Sub-adult),24.86322
+primary_habitat,4.8626,Red Drum (Recruit),38.167491
+primary_habitat,4.8626,Red Drum (Sub-adult),332.18182
+primary_habitat,5.1487,Sheepshead (Adult),323.481557
+primary_habitat,5.1487,Sheepshead (Recruit),30.486143
+primary_habitat,5.1487,Blue Crab (Recruit),426.041561
+primary_habitat,5.1487,Common Snook (Adult),646.058155
+primary_habitat,5.1487,Common Snook (Sub-adult),12.032172
+primary_habitat,5.1487,Spotted Seatrout (Adult),144.068943
+primary_habitat,5.1487,Spotted Seatrout (Recruit),519.334808
+primary_habitat,5.1487,Gray Snapper (Recruit),57.854278
+primary_habitat,5.1487,Gray Snapper (Sub-adult),93.872344
+primary_habitat,5.1487,Gag Grouper (Sub-adult),24.900555
+primary_habitat,5.1487,Red Drum (Recruit),38.159576
+primary_habitat,5.1487,Red Drum (Sub-adult),331.62656
+primary_habitat,5.4347,Sheepshead (Adult),324.437922
+primary_habitat,5.4347,Sheepshead (Recruit),30.461573
+primary_habitat,5.4347,Blue Crab (Recruit),424.36948
+primary_habitat,5.4347,Common Snook (Adult),646.290089
+primary_habitat,5.4347,Common Snook (Sub-adult),12.03911
+primary_habitat,5.4347,Spotted Seatrout (Adult),145.224058
+primary_habitat,5.4347,Spotted Seatrout (Recruit),522.491896
+primary_habitat,5.4347,Gray Snapper (Recruit),58.210923
+primary_habitat,5.4347,Gray Snapper (Sub-adult),93.415441
+primary_habitat,5.4347,Gag Grouper (Sub-adult),24.922589
+primary_habitat,5.4347,Red Drum (Recruit),38.129137
+primary_habitat,5.4347,Red Drum (Sub-adult),331.107327
+secondary_habitat,-0.0,Sheepshead (Adult),313.73041
+secondary_habitat,-0.0,Sheepshead (Recruit),28.038548
+secondary_habitat,-0.0,Blue Crab (Recruit),460.196785
+secondary_habitat,-0.0,Common Snook (Adult),656.937439
+secondary_habitat,-0.0,Common Snook (Sub-adult),11.714354
+secondary_habitat,-0.0,Spotted Seatrout (Adult),130.19006
+secondary_habitat,-0.0,Spotted Seatrout (Recruit),460.980909
+secondary_habitat,-0.0,Gray Snapper (Recruit),51.234128
+secondary_habitat,-0.0,Gray Snapper (Sub-adult),99.933783
+secondary_habitat,-0.0,Gag Grouper (Sub-adult),23.226852
+secondary_habitat,-0.0,Red Drum (Recruit),37.954697
+secondary_habitat,-0.0,Red Drum (Sub-adult),340.737755
+secondary_habitat,0.2851,Sheepshead (Adult),313.076933
+secondary_habitat,0.2851,Sheepshead (Recruit),28.388584
+secondary_habitat,0.2851,Blue Crab (Recruit),457.325081
+secondary_habitat,0.2851,Common Snook (Adult),655.04896
+secondary_habitat,0.2851,Common Snook (Sub-adult),11.819361
+secondary_habitat,0.2851,Spotted Seatrout (Adult),129.856462
+secondary_habitat,0.2851,Spotted Seatrout (Recruit),463.568497
+secondary_habitat,0.2851,Gray Snapper (Recruit),51.889253
+secondary_habitat,0.2851,Gray Snapper (Sub-adult),99.435095
+secondary_habitat,0.2851,Gag Grouper (Sub-adult),23.273797
+secondary_habitat,0.2851,Red Drum (Recruit),38.0441
+secondary_habitat,0.2851,Red Drum (Sub-adult),340.151089
+secondary_habitat,0.5703,Sheepshead (Adult),312.369315
+secondary_habitat,0.5703,Sheepshead (Recruit),28.733274
+secondary_habitat,0.5703,Blue Crab (Recruit),454.407879
+secondary_habitat,0.5703,Common Snook (Adult),653.186296
+secondary_habitat,0.5703,Common Snook (Sub-adult),11.921511
+secondary_habitat,0.5703,Spotted Seatrout (Adult),129.532511
+secondary_habitat,0.5703,Spotted Seatrout (Recruit),466.207777
+secondary_habitat,0.5703,Gray Snapper (Recruit),52.562546
+secondary_habitat,0.5703,Gray Snapper (Sub-adult),98.945513
+secondary_habitat,0.5703,Gag Grouper (Sub-adult),23.3265
+secondary_habitat,0.5703,Red Drum (Recruit),38.139974
+secondary_habitat,0.5703,Red Drum (Sub-adult),339.51054
+secondary_habitat,0.8554,Sheepshead (Adult),311.68856
+secondary_habitat,0.8554,Sheepshead (Recruit),29.070402
+secondary_habitat,0.8554,Blue Crab (Recruit),451.636417
+secondary_habitat,0.8554,Common Snook (Adult),651.236492
+secondary_habitat,0.8554,Common Snook (Sub-adult),12.025607
+secondary_habitat,0.8554,Spotted Seatrout (Adult),129.234135
+secondary_habitat,0.8554,Spotted Seatrout (Recruit),468.657478
+secondary_habitat,0.8554,Gray Snapper (Recruit),53.220775
+secondary_habitat,0.8554,Gray Snapper (Sub-adult),98.450063
+secondary_habitat,0.8554,Gag Grouper (Sub-adult),23.365527
+secondary_habitat,0.8554,Red Drum (Recruit),38.255819
+secondary_habitat,0.8554,Red Drum (Sub-adult),338.885036
+secondary_habitat,1.1406,Sheepshead (Adult),311.041294
+secondary_habitat,1.1406,Sheepshead (Recruit),29.410221
+secondary_habitat,1.1406,Blue Crab (Recruit),448.817211
+secondary_habitat,1.1406,Common Snook (Adult),649.372803
+secondary_habitat,1.1406,Common Snook (Sub-adult),12.119721
+secondary_habitat,1.1406,Spotted Seatrout (Adult),128.93322
+secondary_habitat,1.1406,Spotted Seatrout (Recruit),471.277788
+secondary_habitat,1.1406,Gray Snapper (Recruit),53.88954
+secondary_habitat,1.1406,Gray Snapper (Sub-adult),97.99511
+secondary_habitat,1.1406,Gag Grouper (Sub-adult),23.410195
+secondary_habitat,1.1406,Red Drum (Recruit),38.356476
+secondary_habitat,1.1406,Red Drum (Sub-adult),338.269527
+secondary_habitat,1.4257,Sheepshead (Adult),310.373229
+secondary_habitat,1.4257,Sheepshead (Recruit),29.737947
+secondary_habitat,1.4257,Blue Crab (Recruit),446.132896
+secondary_habitat,1.4257,Common Snook (Adult),647.459673
+secondary_habitat,1.4257,Common Snook (Sub-adult),12.213557
+secondary_habitat,1.4257,Spotted Seatrout (Adult),128.661232
+secondary_habitat,1.4257,Spotted Seatrout (Recruit),473.722191
+secondary_habitat,1.4257,Gray Snapper (Recruit),54.548311
+secondary_habitat,1.4257,Gray Snapper (Sub-adult),97.536674
+secondary_habitat,1.4257,Gag Grouper (Sub-adult),23.443034
+secondary_habitat,1.4257,Red Drum (Recruit),38.477806
+secondary_habitat,1.4257,Red Drum (Sub-adult),337.675797
+secondary_habitat,1.7109,Sheepshead (Adult),309.712481
+secondary_habitat,1.7109,Sheepshead (Recruit),30.069382
+secondary_habitat,1.7109,Blue Crab (Recruit),443.456402
+secondary_habitat,1.7109,Common Snook (Adult),645.593014
+secondary_habitat,1.7109,Common Snook (Sub-adult),12.309985
+secondary_habitat,1.7109,Spotted Seatrout (Adult),128.392309
+secondary_habitat,1.7109,Spotted Seatrout (Recruit),476.047415
+secondary_habitat,1.7109,Gray Snapper (Recruit),55.20874
+secondary_habitat,1.7109,Gray Snapper (Sub-adult),97.091056
+secondary_habitat,1.7109,Gag Grouper (Sub-adult),23.475454
+secondary_habitat,1.7109,Red Drum (Recruit),38.598191
+secondary_habitat,1.7109,Red Drum (Sub-adult),337.116051
+secondary_habitat,1.996,Sheepshead (Adult),309.012705
+secondary_habitat,1.996,Sheepshead (Recruit),30.397875
+secondary_habitat,1.996,Blue Crab (Recruit),440.767673
+secondary_habitat,1.996,Common Snook (Adult),643.688801
+secondary_habitat,1.996,Common Snook (Sub-adult),12.395517
+secondary_habitat,1.996,Spotted Seatrout (Adult),128.133625
+secondary_habitat,1.996,Spotted Seatrout (Recruit),478.378759
+secondary_habitat,1.996,Gray Snapper (Recruit),55.870223
+secondary_habitat,1.996,Gray Snapper (Sub-adult),96.654513
+secondary_habitat,1.996,Gag Grouper (Sub-adult),23.502746
+secondary_habitat,1.996,Red Drum (Recruit),38.713366
+secondary_habitat,1.996,Red Drum (Sub-adult),336.526917
+secondary_habitat,2.2812,Sheepshead (Adult),308.319583
+secondary_habitat,2.2812,Sheepshead (Recruit),30.739776
+secondary_habitat,2.2812,Blue Crab (Recruit),438.152294
+secondary_habitat,2.2812,Common Snook (Adult),641.906364
+secondary_habitat,2.2812,Common Snook (Sub-adult),12.470432
+secondary_habitat,2.2812,Spotted Seatrout (Adult),127.855145
+secondary_habitat,2.2812,Spotted Seatrout (Recruit),480.657093
+secondary_habitat,2.2812,Gray Snapper (Recruit),56.524414
+secondary_habitat,2.2812,Gray Snapper (Sub-adult),96.214615
+secondary_habitat,2.2812,Gag Grouper (Sub-adult),23.525652
+secondary_habitat,2.2812,Red Drum (Recruit),38.820753
+secondary_habitat,2.2812,Red Drum (Sub-adult),335.942039
+secondary_habitat,2.5663,Sheepshead (Adult),307.594733
+secondary_habitat,2.5663,Sheepshead (Recruit),31.074461
+secondary_habitat,2.5663,Blue Crab (Recruit),435.635586
+secondary_habitat,2.5663,Common Snook (Adult),640.04464
+secondary_habitat,2.5663,Common Snook (Sub-adult),12.558817
+secondary_habitat,2.5663,Spotted Seatrout (Adult),127.63349
+secondary_habitat,2.5663,Spotted Seatrout (Recruit),482.874651
+secondary_habitat,2.5663,Gray Snapper (Recruit),57.187543
+secondary_habitat,2.5663,Gray Snapper (Sub-adult),95.790511
+secondary_habitat,2.5663,Gag Grouper (Sub-adult),23.555852
+secondary_habitat,2.5663,Red Drum (Recruit),38.934518
+secondary_habitat,2.5663,Red Drum (Sub-adult),335.365555
+secondary_habitat,2.8515,Sheepshead (Adult),306.835598
+secondary_habitat,2.8515,Sheepshead (Recruit),31.401982
+secondary_habitat,2.8515,Blue Crab (Recruit),433.253662
+secondary_habitat,2.8515,Common Snook (Adult),638.149441
+secondary_habitat,2.8515,Common Snook (Sub-adult),12.640881
+secondary_habitat,2.8515,Spotted Seatrout (Adult),127.383566
+secondary_habitat,2.8515,Spotted Seatrout (Recruit),484.988325
+secondary_habitat,2.8515,Gray Snapper (Recruit),57.831302
+secondary_habitat,2.8515,Gray Snapper (Sub-adult),95.373011
+secondary_habitat,2.8515,Gag Grouper (Sub-adult),23.567562
+secondary_habitat,2.8515,Red Drum (Recruit),39.066927
+secondary_habitat,2.8515,Red Drum (Sub-adult),334.71106
+secondary_habitat,3.1366,Sheepshead (Adult),306.03884
+secondary_habitat,3.1366,Sheepshead (Recruit),31.742707
+secondary_habitat,3.1366,Blue Crab (Recruit),430.964214
+secondary_habitat,3.1366,Common Snook (Adult),636.226635
+secondary_habitat,3.1366,Common Snook (Sub-adult),12.725461
+secondary_habitat,3.1366,Spotted Seatrout (Adult),127.179344
+secondary_habitat,3.1366,Spotted Seatrout (Recruit),487.025085
+secondary_habitat,3.1366,Gray Snapper (Recruit),58.482122
+secondary_habitat,3.1366,Gray Snapper (Sub-adult),94.953698
+secondary_habitat,3.1366,Gag Grouper (Sub-adult),23.582715
+secondary_habitat,3.1366,Red Drum (Recruit),39.178975
+secondary_habitat,3.1366,Red Drum (Sub-adult),334.041096
+secondary_habitat,3.4218,Sheepshead (Adult),305.251717
+secondary_habitat,3.4218,Sheepshead (Recruit),32.054002
+secondary_habitat,3.4218,Blue Crab (Recruit),428.731617
+secondary_habitat,3.4218,Common Snook (Adult),634.236912
+secondary_habitat,3.4218,Common Snook (Sub-adult),12.800081
+secondary_habitat,3.4218,Spotted Seatrout (Adult),126.966427
+secondary_habitat,3.4218,Spotted Seatrout (Recruit),488.978466
+secondary_habitat,3.4218,Gray Snapper (Recruit),59.148013
+secondary_habitat,3.4218,Gray Snapper (Sub-adult),94.516986
+secondary_habitat,3.4218,Gag Grouper (Sub-adult),23.590047
+secondary_habitat,3.4218,Red Drum (Recruit),39.324512
+secondary_habitat,3.4218,Red Drum (Sub-adult),333.346523
+secondary_habitat,3.7069,Sheepshead (Adult),304.402448
+secondary_habitat,3.7069,Sheepshead (Recruit),32.375609
+secondary_habitat,3.7069,Blue Crab (Recruit),426.527687
+secondary_habitat,3.7069,Common Snook (Adult),632.259569
+secondary_habitat,3.7069,Common Snook (Sub-adult),12.88228
+secondary_habitat,3.7069,Spotted Seatrout (Adult),126.703417
+secondary_habitat,3.7069,Spotted Seatrout (Recruit),490.937695
+secondary_habitat,3.7069,Gray Snapper (Recruit),59.809543
+secondary_habitat,3.7069,Gray Snapper (Sub-adult),94.0517
+secondary_habitat,3.7069,Gag Grouper (Sub-adult),23.605924
+secondary_habitat,3.7069,Red Drum (Recruit),39.4622
+secondary_habitat,3.7069,Red Drum (Sub-adult),332.576782
+secondary_habitat,3.9921,Sheepshead (Adult),303.550552
+secondary_habitat,3.9921,Sheepshead (Recruit),32.712475
+secondary_habitat,3.9921,Blue Crab (Recruit),424.341404
+secondary_habitat,3.9921,Common Snook (Adult),630.245872
+secondary_habitat,3.9921,Common Snook (Sub-adult),12.948374
+secondary_habitat,3.9921,Spotted Seatrout (Adult),126.448372
+secondary_habitat,3.9921,Spotted Seatrout (Recruit),492.898758
+secondary_habitat,3.9921,Gray Snapper (Recruit),60.474257
+secondary_habitat,3.9921,Gray Snapper (Sub-adult),93.588299
+secondary_habitat,3.9921,Gag Grouper (Sub-adult),23.622668
+secondary_habitat,3.9921,Red Drum (Recruit),39.579926
+secondary_habitat,3.9921,Red Drum (Sub-adult),331.818508
+secondary_habitat,4.2772,Sheepshead (Adult),302.682186
+secondary_habitat,4.2772,Sheepshead (Recruit),33.020495
+secondary_habitat,4.2772,Blue Crab (Recruit),422.397163
+secondary_habitat,4.2772,Common Snook (Adult),628.161272
+secondary_habitat,4.2772,Common Snook (Sub-adult),13.036107
+secondary_habitat,4.2772,Spotted Seatrout (Adult),126.250048
+secondary_habitat,4.2772,Spotted Seatrout (Recruit),494.780842
+secondary_habitat,4.2772,Gray Snapper (Recruit),61.144699
+secondary_habitat,4.2772,Gray Snapper (Sub-adult),93.14478
+secondary_habitat,4.2772,Gag Grouper (Sub-adult),23.640146
+secondary_habitat,4.2772,Red Drum (Recruit),39.744622
+secondary_habitat,4.2772,Red Drum (Sub-adult),331.055214
+secondary_habitat,4.5624,Sheepshead (Adult),301.829596
+secondary_habitat,4.5624,Sheepshead (Recruit),33.353187
+secondary_habitat,4.5624,Blue Crab (Recruit),420.442852
+secondary_habitat,4.5624,Common Snook (Adult),626.209669
+secondary_habitat,4.5624,Common Snook (Sub-adult),13.112967
+secondary_habitat,4.5624,Spotted Seatrout (Adult),126.038046
+secondary_habitat,4.5624,Spotted Seatrout (Recruit),496.579945
+secondary_habitat,4.5624,Gray Snapper (Recruit),61.821317
+secondary_habitat,4.5624,Gray Snapper (Sub-adult),92.685576
+secondary_habitat,4.5624,Gag Grouper (Sub-adult),23.658316
+secondary_habitat,4.5624,Red Drum (Recruit),39.890852
+secondary_habitat,4.5624,Red Drum (Sub-adult),330.341862
+secondary_habitat,4.8475,Sheepshead (Adult),300.965867
+secondary_habitat,4.8475,Sheepshead (Recruit),33.65372
+secondary_habitat,4.8475,Blue Crab (Recruit),418.534317
+secondary_habitat,4.8475,Common Snook (Adult),624.27039
+secondary_habitat,4.8475,Common Snook (Sub-adult),13.177697
+secondary_habitat,4.8475,Spotted Seatrout (Adult),125.851374
+secondary_habitat,4.8475,Spotted Seatrout (Recruit),498.173599
+secondary_habitat,4.8475,Gray Snapper (Recruit),62.488177
+secondary_habitat,4.8475,Gray Snapper (Sub-adult),92.236449
+secondary_habitat,4.8475,Gag Grouper (Sub-adult),23.675427
+secondary_habitat,4.8475,Red Drum (Recruit),40.048414
+secondary_habitat,4.8475,Red Drum (Sub-adult),329.519081
+secondary_habitat,5.1326,Sheepshead (Adult),300.032925
+secondary_habitat,5.1326,Sheepshead (Recruit),33.943261
+secondary_habitat,5.1326,Blue Crab (Recruit),416.600883
+secondary_habitat,5.1326,Common Snook (Adult),622.250256
+secondary_habitat,5.1326,Common Snook (Sub-adult),13.258387
+secondary_habitat,5.1326,Spotted Seatrout (Adult),125.654669
+secondary_habitat,5.1326,Spotted Seatrout (Recruit),499.772377
+secondary_habitat,5.1326,Gray Snapper (Recruit),63.143802
+secondary_habitat,5.1326,Gray Snapper (Sub-adult),91.727969
+secondary_habitat,5.1326,Gag Grouper (Sub-adult),23.688204
+secondary_habitat,5.1326,Red Drum (Recruit),40.180596
+secondary_habitat,5.1326,Red Drum (Sub-adult),328.677849
+secondary_habitat,5.4178,Sheepshead (Adult),299.138231
+secondary_habitat,5.4178,Sheepshead (Recruit),34.233998
+secondary_habitat,5.4178,Blue Crab (Recruit),414.81665
+secondary_habitat,5.4178,Common Snook (Adult),620.253225
+secondary_habitat,5.4178,Common Snook (Sub-adult),13.320425
+secondary_habitat,5.4178,Spotted Seatrout (Adult),125.484018
+secondary_habitat,5.4178,Spotted Seatrout (Recruit),501.248999
+secondary_habitat,5.4178,Gray Snapper (Recruit),63.795436
+secondary_habitat,5.4178,Gray Snapper (Sub-adult),91.214568
+secondary_habitat,5.4178,Gag Grouper (Sub-adult),23.700409
+secondary_habitat,5.4178,Red Drum (Recruit),40.320643
+secondary_habitat,5.4178,Red Drum (Sub-adult),327.809116
+Technique_first,0.0,Sheepshead (Adult),304.714367
+Technique_first,0.0,Sheepshead (Recruit),28.877401
+Technique_first,0.0,Blue Crab (Recruit),460.338341
+Technique_first,0.0,Common Snook (Adult),630.150368
+Technique_first,0.0,Common Snook (Sub-adult),12.077067
+Technique_first,0.0,Spotted Seatrout (Adult),131.457424
+Technique_first,0.0,Spotted Seatrout (Recruit),500.652565
+Technique_first,0.0,Gray Snapper (Recruit),52.367736
+Technique_first,0.0,Gray Snapper (Sub-adult),98.520961
+Technique_first,0.0,Gag Grouper (Sub-adult),23.465315
+Technique_first,0.0,Red Drum (Recruit),38.600156
+Technique_first,0.0,Red Drum (Sub-adult),334.536049
+Technique_first,0.3341,Sheepshead (Adult),305.224475
+Technique_first,0.3341,Sheepshead (Recruit),28.972716
+Technique_first,0.3341,Blue Crab (Recruit),456.926525
+Technique_first,0.3341,Common Snook (Adult),634.056679
+Technique_first,0.3341,Common Snook (Sub-adult),12.058716
+Technique_first,0.3341,Spotted Seatrout (Adult),130.697258
+Technique_first,0.3341,Spotted Seatrout (Recruit),498.415836
+Technique_first,0.3341,Gray Snapper (Recruit),51.928008
+Technique_first,0.3341,Gray Snapper (Sub-adult),98.806347
+Technique_first,0.3341,Gag Grouper (Sub-adult),23.240838
+Technique_first,0.3341,Red Drum (Recruit),38.529738
+Technique_first,0.3341,Red Drum (Sub-adult),334.679504
+Technique_first,0.6683,Sheepshead (Adult),305.789843
+Technique_first,0.6683,Sheepshead (Recruit),29.056145
+Technique_first,0.6683,Blue Crab (Recruit),453.608883
+Technique_first,0.6683,Common Snook (Adult),637.973415
+Technique_first,0.6683,Common Snook (Sub-adult),12.03391
+Technique_first,0.6683,Spotted Seatrout (Adult),129.930044
+Technique_first,0.6683,Spotted Seatrout (Recruit),496.152987
+Technique_first,0.6683,Gray Snapper (Recruit),51.491868
+Technique_first,0.6683,Gray Snapper (Sub-adult),99.123745
+Technique_first,0.6683,Gag Grouper (Sub-adult),23.015575
+Technique_first,0.6683,Red Drum (Recruit),38.465863
+Technique_first,0.6683,Red Drum (Sub-adult),334.863655
+Technique_first,1.0024,Sheepshead (Adult),306.428267
+Technique_first,1.0024,Sheepshead (Recruit),29.151468
+Technique_first,1.0024,Blue Crab (Recruit),450.267666
+Technique_first,1.0024,Common Snook (Adult),642.093483
+Technique_first,1.0024,Common Snook (Sub-adult),12.02012
+Technique_first,1.0024,Spotted Seatrout (Adult),129.197569
+Technique_first,1.0024,Spotted Seatrout (Recruit),494.067265
+Technique_first,1.0024,Gray Snapper (Recruit),51.063062
+Technique_first,1.0024,Gray Snapper (Sub-adult),99.485449
+Technique_first,1.0024,Gag Grouper (Sub-adult),22.803368
+Technique_first,1.0024,Red Drum (Recruit),38.402444
+Technique_first,1.0024,Red Drum (Sub-adult),334.985546
+Technique_first,1.3366,Sheepshead (Adult),307.15101
+Technique_first,1.3366,Sheepshead (Recruit),29.253085
+Technique_first,1.3366,Blue Crab (Recruit),447.052094
+Technique_first,1.3366,Common Snook (Adult),646.148912
+Technique_first,1.3366,Common Snook (Sub-adult),12.002023
+Technique_first,1.3366,Spotted Seatrout (Adult),128.502317
+Technique_first,1.3366,Spotted Seatrout (Recruit),491.861712
+Technique_first,1.3366,Gray Snapper (Recruit),50.627236
+Technique_first,1.3366,Gray Snapper (Sub-adult),99.862729
+Technique_first,1.3366,Gag Grouper (Sub-adult),22.584145
+Technique_first,1.3366,Red Drum (Recruit),38.362682
+Technique_first,1.3366,Red Drum (Sub-adult),335.147625
+Technique_first,1.6707,Sheepshead (Adult),307.935947
+Technique_first,1.6707,Sheepshead (Recruit),29.365976
+Technique_first,1.6707,Blue Crab (Recruit),443.843315
+Technique_first,1.6707,Common Snook (Adult),650.21895
+Technique_first,1.6707,Common Snook (Sub-adult),11.991455
+Technique_first,1.6707,Spotted Seatrout (Adult),127.883142
+Technique_first,1.6707,Spotted Seatrout (Recruit),489.950874
+Technique_first,1.6707,Gray Snapper (Recruit),50.205499
+Technique_first,1.6707,Gray Snapper (Sub-adult),100.31063
+Technique_first,1.6707,Gag Grouper (Sub-adult),22.376297
+Technique_first,1.6707,Red Drum (Recruit),38.28883
+Technique_first,1.6707,Red Drum (Sub-adult),335.443356
+Technique_first,2.0049,Sheepshead (Adult),308.82932
+Technique_first,2.0049,Sheepshead (Recruit),29.510588
+Technique_first,2.0049,Blue Crab (Recruit),440.69643
+Technique_first,2.0049,Common Snook (Adult),654.484896
+Technique_first,2.0049,Common Snook (Sub-adult),11.973395
+Technique_first,2.0049,Spotted Seatrout (Adult),127.201696
+Technique_first,2.0049,Spotted Seatrout (Recruit),487.992867
+Technique_first,2.0049,Gray Snapper (Recruit),49.785517
+Technique_first,2.0049,Gray Snapper (Sub-adult),100.787113
+Technique_first,2.0049,Gag Grouper (Sub-adult),22.170601
+Technique_first,2.0049,Red Drum (Recruit),38.22071
+Technique_first,2.0049,Red Drum (Sub-adult),335.685566
+Technique_first,2.339,Sheepshead (Adult),309.711395
+Technique_first,2.339,Sheepshead (Recruit),29.661284
+Technique_first,2.339,Blue Crab (Recruit),437.557728
+Technique_first,2.339,Common Snook (Adult),658.771397
+Technique_first,2.339,Common Snook (Sub-adult),11.956164
+Technique_first,2.339,Spotted Seatrout (Adult),126.521879
+Technique_first,2.339,Spotted Seatrout (Recruit),486.0571
+Technique_first,2.339,Gray Snapper (Recruit),49.368605
+Technique_first,2.339,Gray Snapper (Sub-adult),101.24159
+Technique_first,2.339,Gag Grouper (Sub-adult),21.965972
+Technique_first,2.339,Red Drum (Recruit),38.137257
+Technique_first,2.339,Red Drum (Sub-adult),335.995037
+Technique_first,2.6732,Sheepshead (Adult),310.614492
+Technique_first,2.6732,Sheepshead (Recruit),29.800936
+Technique_first,2.6732,Blue Crab (Recruit),434.464912
+Technique_first,2.6732,Common Snook (Adult),663.13533
+Technique_first,2.6732,Common Snook (Sub-adult),11.927787
+Technique_first,2.6732,Spotted Seatrout (Adult),125.872515
+Technique_first,2.6732,Spotted Seatrout (Recruit),484.037992
+Technique_first,2.6732,Gray Snapper (Recruit),48.942495
+Technique_first,2.6732,Gray Snapper (Sub-adult),101.702537
+Technique_first,2.6732,Gag Grouper (Sub-adult),21.761725
+Technique_first,2.6732,Red Drum (Recruit),38.046095
+Technique_first,2.6732,Red Drum (Sub-adult),336.350285
+Technique_first,3.0073,Sheepshead (Adult),311.58051
+Technique_first,3.0073,Sheepshead (Recruit),29.976059
+Technique_first,3.0073,Blue Crab (Recruit),431.447327
+Technique_first,3.0073,Common Snook (Adult),667.546165
+Technique_first,3.0073,Common Snook (Sub-adult),11.885925
+Technique_first,3.0073,Spotted Seatrout (Adult),125.174572
+Technique_first,3.0073,Spotted Seatrout (Recruit),482.276316
+Technique_first,3.0073,Gray Snapper (Recruit),48.522446
+Technique_first,3.0073,Gray Snapper (Sub-adult),102.167671
+Technique_first,3.0073,Gag Grouper (Sub-adult),21.562771
+Technique_first,3.0073,Red Drum (Recruit),37.94157
+Technique_first,3.0073,Red Drum (Sub-adult),336.734726
+Technique_first,3.3414,Sheepshead (Adult),312.561246
+Technique_first,3.3414,Sheepshead (Recruit),30.126509
+Technique_first,3.3414,Blue Crab (Recruit),428.467308
+Technique_first,3.3414,Common Snook (Adult),672.074749
+Technique_first,3.3414,Common Snook (Sub-adult),11.860012
+Technique_first,3.3414,Spotted Seatrout (Adult),124.483318
+Technique_first,3.3414,Spotted Seatrout (Recruit),480.339851
+Technique_first,3.3414,Gray Snapper (Recruit),48.105454
+Technique_first,3.3414,Gray Snapper (Sub-adult),102.627407
+Technique_first,3.3414,Gag Grouper (Sub-adult),21.365216
+Technique_first,3.3414,Red Drum (Recruit),37.826746
+Technique_first,3.3414,Red Drum (Sub-adult),337.160019
+Technique_first,3.6756,Sheepshead (Adult),313.593763
+Technique_first,3.6756,Sheepshead (Recruit),30.298766
+Technique_first,3.6756,Blue Crab (Recruit),425.513187
+Technique_first,3.6756,Common Snook (Adult),676.681257
+Technique_first,3.6756,Common Snook (Sub-adult),11.813552
+Technique_first,3.6756,Spotted Seatrout (Adult),123.798761
+Technique_first,3.6756,Spotted Seatrout (Recruit),478.464901
+Technique_first,3.6756,Gray Snapper (Recruit),47.667483
+Technique_first,3.6756,Gray Snapper (Sub-adult),103.06535
+Technique_first,3.6756,Gag Grouper (Sub-adult),21.16822
+Technique_first,3.6756,Red Drum (Recruit),37.72121
+Technique_first,3.6756,Red Drum (Sub-adult),337.604713
+Technique_first,4.0097,Sheepshead (Adult),314.649518
+Technique_first,4.0097,Sheepshead (Recruit),30.454202
+Technique_first,4.0097,Blue Crab (Recruit),422.617767
+Technique_first,4.0097,Common Snook (Adult),681.367832
+Technique_first,4.0097,Common Snook (Sub-adult),11.774473
+Technique_first,4.0097,Spotted Seatrout (Adult),123.097771
+Technique_first,4.0097,Spotted Seatrout (Recruit),476.483524
+Technique_first,4.0097,Gray Snapper (Recruit),47.225022
+Technique_first,4.0097,Gray Snapper (Sub-adult),103.509185
+Technique_first,4.0097,Gag Grouper (Sub-adult),20.975702
+Technique_first,4.0097,Red Drum (Recruit),37.606734
+Technique_first,4.0097,Red Drum (Sub-adult),338.044144
+Technique_first,4.3439,Sheepshead (Adult),315.726723
+Technique_first,4.3439,Sheepshead (Recruit),30.615174
+Technique_first,4.3439,Blue Crab (Recruit),419.765301
+Technique_first,4.3439,Common Snook (Adult),686.117577
+Technique_first,4.3439,Common Snook (Sub-adult),11.749798
+Technique_first,4.3439,Spotted Seatrout (Adult),122.435095
+Technique_first,4.3439,Spotted Seatrout (Recruit),474.564455
+Technique_first,4.3439,Gray Snapper (Recruit),46.763839
+Technique_first,4.3439,Gray Snapper (Sub-adult),103.963844
+Technique_first,4.3439,Gag Grouper (Sub-adult),20.784324
+Technique_first,4.3439,Red Drum (Recruit),37.487201
+Technique_first,4.3439,Red Drum (Sub-adult),338.535706
+Technique_first,4.678,Sheepshead (Adult),316.811996
+Technique_first,4.678,Sheepshead (Recruit),30.770639
+Technique_first,4.678,Blue Crab (Recruit),417.070126
+Technique_first,4.678,Common Snook (Adult),690.882654
+Technique_first,4.678,Common Snook (Sub-adult),11.699789
+Technique_first,4.678,Spotted Seatrout (Adult),121.749746
+Technique_first,4.678,Spotted Seatrout (Recruit),472.517729
+Technique_first,4.678,Gray Snapper (Recruit),46.291395
+Technique_first,4.678,Gray Snapper (Sub-adult),104.400701
+Technique_first,4.678,Gag Grouper (Sub-adult),20.591668
+Technique_first,4.678,Red Drum (Recruit),37.370738
+Technique_first,4.678,Red Drum (Sub-adult),339.04921
+Technique_first,5.0122,Sheepshead (Adult),317.90461
+Technique_first,5.0122,Sheepshead (Recruit),30.94265
+Technique_first,5.0122,Blue Crab (Recruit),414.444786
+Technique_first,5.0122,Common Snook (Adult),695.75205
+Technique_first,5.0122,Common Snook (Sub-adult),11.650254
+Technique_first,5.0122,Spotted Seatrout (Adult),121.05648
+Technique_first,5.0122,Spotted Seatrout (Recruit),470.531082
+Technique_first,5.0122,Gray Snapper (Recruit),45.819303
+Technique_first,5.0122,Gray Snapper (Sub-adult),104.809017
+Technique_first,5.0122,Gag Grouper (Sub-adult),20.398996
+Technique_first,5.0122,Red Drum (Recruit),37.260428
+Technique_first,5.0122,Red Drum (Sub-adult),339.488903
+Technique_first,5.3463,Sheepshead (Adult),319.048704
+Technique_first,5.3463,Sheepshead (Recruit),31.097054
+Technique_first,5.3463,Blue Crab (Recruit),411.925529
+Technique_first,5.3463,Common Snook (Adult),700.739508
+Technique_first,5.3463,Common Snook (Sub-adult),11.605723
+Technique_first,5.3463,Spotted Seatrout (Adult),120.358454
+Technique_first,5.3463,Spotted Seatrout (Recruit),468.502178
+Technique_first,5.3463,Gray Snapper (Recruit),45.336602
+Technique_first,5.3463,Gray Snapper (Sub-adult),105.23839
+Technique_first,5.3463,Gag Grouper (Sub-adult),20.207978
+Technique_first,5.3463,Red Drum (Recruit),37.151512
+Technique_first,5.3463,Red Drum (Sub-adult),339.921215
+Technique_first,5.6805,Sheepshead (Adult),320.194803
+Technique_first,5.6805,Sheepshead (Recruit),31.226143
+Technique_first,5.6805,Blue Crab (Recruit),409.514114
+Technique_first,5.6805,Common Snook (Adult),705.773073
+Technique_first,5.6805,Common Snook (Sub-adult),11.558251
+Technique_first,5.6805,Spotted Seatrout (Adult),119.672497
+Technique_first,5.6805,Spotted Seatrout (Recruit),466.409952
+Technique_first,5.6805,Gray Snapper (Recruit),44.854292
+Technique_first,5.6805,Gray Snapper (Sub-adult),105.67256
+Technique_first,5.6805,Gag Grouper (Sub-adult),20.02136
+Technique_first,5.6805,Red Drum (Recruit),37.035099
+Technique_first,5.6805,Red Drum (Sub-adult),340.334866
+Technique_first,6.0146,Sheepshead (Adult),321.502068
+Technique_first,6.0146,Sheepshead (Recruit),31.388587
+Technique_first,6.0146,Blue Crab (Recruit),407.210869
+Technique_first,6.0146,Common Snook (Adult),711.044298
+Technique_first,6.0146,Common Snook (Sub-adult),11.500428
+Technique_first,6.0146,Spotted Seatrout (Adult),118.987787
+Technique_first,6.0146,Spotted Seatrout (Recruit),464.398367
+Technique_first,6.0146,Gray Snapper (Recruit),44.371498
+Technique_first,6.0146,Gray Snapper (Sub-adult),106.126908
+Technique_first,6.0146,Gag Grouper (Sub-adult),19.833794
+Technique_first,6.0146,Red Drum (Recruit),36.910872
+Technique_first,6.0146,Red Drum (Sub-adult),340.863823
+Technique_first,6.3487,Sheepshead (Adult),322.78355
+Technique_first,6.3487,Sheepshead (Recruit),31.557005
+Technique_first,6.3487,Blue Crab (Recruit),404.998638
+Technique_first,6.3487,Common Snook (Adult),716.328085
+Technique_first,6.3487,Common Snook (Sub-adult),11.446591
+Technique_first,6.3487,Spotted Seatrout (Adult),118.274324
+Technique_first,6.3487,Spotted Seatrout (Recruit),462.396471
+Technique_first,6.3487,Gray Snapper (Recruit),43.875788
+Technique_first,6.3487,Gray Snapper (Sub-adult),106.5923
+Technique_first,6.3487,Gag Grouper (Sub-adult),19.654938
+Technique_first,6.3487,Red Drum (Recruit),36.775392
+Technique_first,6.3487,Red Drum (Sub-adult),341.389393
+Technique_second,0.0,Sheepshead (Adult),310.409702
+Technique_second,0.0,Sheepshead (Recruit),29.273953
+Technique_second,0.0,Blue Crab (Recruit),460.610519
+Technique_second,0.0,Common Snook (Adult),665.013086
+Technique_second,0.0,Common Snook (Sub-adult),12.106832
+Technique_second,0.0,Spotted Seatrout (Adult),130.141001
+Technique_second,0.0,Spotted Seatrout (Recruit),469.950096
+Technique_second,0.0,Gray Snapper (Recruit),51.698585
+Technique_second,0.0,Gray Snapper (Sub-adult),97.496569
+Technique_second,0.0,Gag Grouper (Sub-adult),23.313233
+Technique_second,0.0,Red Drum (Recruit),38.551191
+Technique_second,0.0,Red Drum (Sub-adult),333.940117
+Technique_second,0.3354,Sheepshead (Adult),310.099586
+Technique_second,0.3354,Sheepshead (Recruit),29.092987
+Technique_second,0.3354,Blue Crab (Recruit),457.286549
+Technique_second,0.3354,Common Snook (Adult),664.512327
+Technique_second,0.3354,Common Snook (Sub-adult),12.141758
+Technique_second,0.3354,Spotted Seatrout (Adult),130.924566
+Technique_second,0.3354,Spotted Seatrout (Recruit),470.688652
+Technique_second,0.3354,Gray Snapper (Recruit),51.586002
+Technique_second,0.3354,Gray Snapper (Sub-adult),97.784032
+Technique_second,0.3354,Gag Grouper (Sub-adult),23.133757
+Technique_second,0.3354,Red Drum (Recruit),38.627626
+Technique_second,0.3354,Red Drum (Sub-adult),333.747578
+Technique_second,0.6709,Sheepshead (Adult),309.901416
+Technique_second,0.6709,Sheepshead (Recruit),28.940847
+Technique_second,0.6709,Blue Crab (Recruit),453.863102
+Technique_second,0.6709,Common Snook (Adult),664.057184
+Technique_second,0.6709,Common Snook (Sub-adult),12.156695
+Technique_second,0.6709,Spotted Seatrout (Adult),131.791815
+Technique_second,0.6709,Spotted Seatrout (Recruit),471.441513
+Technique_second,0.6709,Gray Snapper (Recruit),51.46698
+Technique_second,0.6709,Gray Snapper (Sub-adult),98.089068
+Technique_second,0.6709,Gag Grouper (Sub-adult),22.94435
+Technique_second,0.6709,Red Drum (Recruit),38.706882
+Technique_second,0.6709,Red Drum (Sub-adult),333.588539
+Technique_second,1.0063,Sheepshead (Adult),309.738579
+Technique_second,1.0063,Sheepshead (Recruit),28.777599
+Technique_second,1.0063,Blue Crab (Recruit),450.335056
+Technique_second,1.0063,Common Snook (Adult),663.530897
+Technique_second,1.0063,Common Snook (Sub-adult),12.183465
+Technique_second,1.0063,Spotted Seatrout (Adult),132.691969
+Technique_second,1.0063,Spotted Seatrout (Recruit),471.988499
+Technique_second,1.0063,Gray Snapper (Recruit),51.360211
+Technique_second,1.0063,Gray Snapper (Sub-adult),98.431713
+Technique_second,1.0063,Gag Grouper (Sub-adult),22.762813
+Technique_second,1.0063,Red Drum (Recruit),38.794205
+Technique_second,1.0063,Red Drum (Sub-adult),333.37476
+Technique_second,1.3417,Sheepshead (Adult),309.654531
+Technique_second,1.3417,Sheepshead (Recruit),28.605853
+Technique_second,1.3417,Blue Crab (Recruit),446.786987
+Technique_second,1.3417,Common Snook (Adult),662.96232
+Technique_second,1.3417,Common Snook (Sub-adult),12.199776
+Technique_second,1.3417,Spotted Seatrout (Adult),133.61322
+Technique_second,1.3417,Spotted Seatrout (Recruit),472.560524
+Technique_second,1.3417,Gray Snapper (Recruit),51.250964
+Technique_second,1.3417,Gray Snapper (Sub-adult),98.818538
+Technique_second,1.3417,Gag Grouper (Sub-adult),22.579014
+Technique_second,1.3417,Red Drum (Recruit),38.883039
+Technique_second,1.3417,Red Drum (Sub-adult),333.195702
+Technique_second,1.6771,Sheepshead (Adult),309.673398
+Technique_second,1.6771,Sheepshead (Recruit),28.47678
+Technique_second,1.6771,Blue Crab (Recruit),443.352081
+Technique_second,1.6771,Common Snook (Adult),662.357622
+Technique_second,1.6771,Common Snook (Sub-adult),12.204934
+Technique_second,1.6771,Spotted Seatrout (Adult),134.577702
+Technique_second,1.6771,Spotted Seatrout (Recruit),473.121004
+Technique_second,1.6771,Gray Snapper (Recruit),51.138524
+Technique_second,1.6771,Gray Snapper (Sub-adult),99.249932
+Technique_second,1.6771,Gag Grouper (Sub-adult),22.399453
+Technique_second,1.6771,Red Drum (Recruit),38.964322
+Technique_second,1.6771,Red Drum (Sub-adult),333.092583
+Technique_second,2.0126,Sheepshead (Adult),309.704859
+Technique_second,2.0126,Sheepshead (Recruit),28.340212
+Technique_second,2.0126,Blue Crab (Recruit),439.831871
+Technique_second,2.0126,Common Snook (Adult),661.837704
+Technique_second,2.0126,Common Snook (Sub-adult),12.221386
+Technique_second,2.0126,Spotted Seatrout (Adult),135.562326
+Technique_second,2.0126,Spotted Seatrout (Recruit),473.492323
+Technique_second,2.0126,Gray Snapper (Recruit),51.046369
+Technique_second,2.0126,Gray Snapper (Sub-adult),99.739845
+Technique_second,2.0126,Gag Grouper (Sub-adult),22.221909
+Technique_second,2.0126,Red Drum (Recruit),39.045234
+Technique_second,2.0126,Red Drum (Sub-adult),333.042595
+Technique_second,2.348,Sheepshead (Adult),309.722584
+Technique_second,2.348,Sheepshead (Recruit),28.205321
+Technique_second,2.348,Blue Crab (Recruit),436.282616
+Technique_second,2.348,Common Snook (Adult),661.276569
+Technique_second,2.348,Common Snook (Sub-adult),12.228831
+Technique_second,2.348,Spotted Seatrout (Adult),136.526667
+Technique_second,2.348,Spotted Seatrout (Recruit),473.956255
+Technique_second,2.348,Gray Snapper (Recruit),50.977195
+Technique_second,2.348,Gray Snapper (Sub-adult),100.211866
+Technique_second,2.348,Gag Grouper (Sub-adult),22.028923
+Technique_second,2.348,Red Drum (Recruit),39.11071
+Technique_second,2.348,Red Drum (Sub-adult),333.082508
+Technique_second,2.6834,Sheepshead (Adult),309.762087
+Technique_second,2.6834,Sheepshead (Recruit),28.087995
+Technique_second,2.6834,Blue Crab (Recruit),432.748558
+Technique_second,2.6834,Common Snook (Adult),660.703201
+Technique_second,2.6834,Common Snook (Sub-adult),12.24578
+Technique_second,2.6834,Spotted Seatrout (Adult),137.588104
+Technique_second,2.6834,Spotted Seatrout (Recruit),474.373892
+Technique_second,2.6834,Gray Snapper (Recruit),50.902829
+Technique_second,2.6834,Gray Snapper (Sub-adult),100.670881
+Technique_second,2.6834,Gag Grouper (Sub-adult),21.83602
+Technique_second,2.6834,Red Drum (Recruit),39.157649
+Technique_second,2.6834,Red Drum (Sub-adult),333.128174
+Technique_second,3.0189,Sheepshead (Adult),309.772763
+Technique_second,3.0189,Sheepshead (Recruit),27.963928
+Technique_second,3.0189,Blue Crab (Recruit),429.225388
+Technique_second,3.0189,Common Snook (Adult),660.174257
+Technique_second,3.0189,Common Snook (Sub-adult),12.249121
+Technique_second,3.0189,Spotted Seatrout (Adult),138.672783
+Technique_second,3.0189,Spotted Seatrout (Recruit),474.695673
+Technique_second,3.0189,Gray Snapper (Recruit),50.825397
+Technique_second,3.0189,Gray Snapper (Sub-adult),101.114218
+Technique_second,3.0189,Gag Grouper (Sub-adult),21.644688
+Technique_second,3.0189,Red Drum (Recruit),39.178972
+Technique_second,3.0189,Red Drum (Sub-adult),333.122589
+Technique_second,3.3543,Sheepshead (Adult),309.75458
+Technique_second,3.3543,Sheepshead (Recruit),27.838611
+Technique_second,3.3543,Blue Crab (Recruit),425.695782
+Technique_second,3.3543,Common Snook (Adult),659.643475
+Technique_second,3.3543,Common Snook (Sub-adult),12.257104
+Technique_second,3.3543,Spotted Seatrout (Adult),139.762035
+Technique_second,3.3543,Spotted Seatrout (Recruit),474.990658
+Technique_second,3.3543,Gray Snapper (Recruit),50.748489
+Technique_second,3.3543,Gray Snapper (Sub-adult),101.546911
+Technique_second,3.3543,Gag Grouper (Sub-adult),21.461604
+Technique_second,3.3543,Red Drum (Recruit),39.208569
+Technique_second,3.3543,Red Drum (Sub-adult),333.072178
+Technique_second,3.6897,Sheepshead (Adult),309.778193
+Technique_second,3.6897,Sheepshead (Recruit),27.709067
+Technique_second,3.6897,Blue Crab (Recruit),422.202641
+Technique_second,3.6897,Common Snook (Adult),659.064434
+Technique_second,3.6897,Common Snook (Sub-adult),12.270207
+Technique_second,3.6897,Spotted Seatrout (Adult),140.861952
+Technique_second,3.6897,Spotted Seatrout (Recruit),475.171919
+Technique_second,3.6897,Gray Snapper (Recruit),50.666439
+Technique_second,3.6897,Gray Snapper (Sub-adult),101.96804
+Technique_second,3.6897,Gag Grouper (Sub-adult),21.276137
+Technique_second,3.6897,Red Drum (Recruit),39.20754
+Technique_second,3.6897,Red Drum (Sub-adult),333.026768
+Technique_second,4.0252,Sheepshead (Adult),309.760075
+Technique_second,4.0252,Sheepshead (Recruit),27.571843
+Technique_second,4.0252,Blue Crab (Recruit),418.782829
+Technique_second,4.0252,Common Snook (Adult),658.415783
+Technique_second,4.0252,Common Snook (Sub-adult),12.281022
+Technique_second,4.0252,Spotted Seatrout (Adult),142.029253
+Technique_second,4.0252,Spotted Seatrout (Recruit),475.373466
+Technique_second,4.0252,Gray Snapper (Recruit),50.587032
+Technique_second,4.0252,Gray Snapper (Sub-adult),102.374654
+Technique_second,4.0252,Gag Grouper (Sub-adult),21.092182
+Technique_second,4.0252,Red Drum (Recruit),39.232394
+Technique_second,4.0252,Red Drum (Sub-adult),332.97974
+Technique_second,4.3606,Sheepshead (Adult),309.698315
+Technique_second,4.3606,Sheepshead (Recruit),27.44928
+Technique_second,4.3606,Blue Crab (Recruit),415.453274
+Technique_second,4.3606,Common Snook (Adult),657.636309
+Technique_second,4.3606,Common Snook (Sub-adult),12.286494
+Technique_second,4.3606,Spotted Seatrout (Adult),143.253201
+Technique_second,4.3606,Spotted Seatrout (Recruit),475.506699
+Technique_second,4.3606,Gray Snapper (Recruit),50.484058
+Technique_second,4.3606,Gray Snapper (Sub-adult),102.795946
+Technique_second,4.3606,Gag Grouper (Sub-adult),20.912646
+Technique_second,4.3606,Red Drum (Recruit),39.274682
+Technique_second,4.3606,Red Drum (Sub-adult),332.885979
+Technique_second,4.696,Sheepshead (Adult),309.646808
+Technique_second,4.696,Sheepshead (Recruit),27.317436
+Technique_second,4.696,Blue Crab (Recruit),412.132755
+Technique_second,4.696,Common Snook (Adult),656.914415
+Technique_second,4.696,Common Snook (Sub-adult),12.30327
+Technique_second,4.696,Spotted Seatrout (Adult),144.490108
+Technique_second,4.696,Spotted Seatrout (Recruit),475.652718
+Technique_second,4.696,Gray Snapper (Recruit),50.383914
+Technique_second,4.696,Gray Snapper (Sub-adult),103.205864
+Technique_second,4.696,Gag Grouper (Sub-adult),20.733733
+Technique_second,4.696,Red Drum (Recruit),39.30551
+Technique_second,4.696,Red Drum (Sub-adult),332.741714
+Technique_second,5.0314,Sheepshead (Adult),309.521361
+Technique_second,5.0314,Sheepshead (Recruit),27.196862
+Technique_second,5.0314,Blue Crab (Recruit),408.838894
+Technique_second,5.0314,Common Snook (Adult),656.106512
+Technique_second,5.0314,Common Snook (Sub-adult),12.317752
+Technique_second,5.0314,Spotted Seatrout (Adult),145.64082
+Technique_second,5.0314,Spotted Seatrout (Recruit),475.764334
+Technique_second,5.0314,Gray Snapper (Recruit),50.280096
+Technique_second,5.0314,Gray Snapper (Sub-adult),103.626407
+Technique_second,5.0314,Gag Grouper (Sub-adult),20.554508
+Technique_second,5.0314,Red Drum (Recruit),39.332632
+Technique_second,5.0314,Red Drum (Sub-adult),332.613026
+Technique_second,5.3669,Sheepshead (Adult),309.339852
+Technique_second,5.3669,Sheepshead (Recruit),27.052342
+Technique_second,5.3669,Blue Crab (Recruit),405.519524
+Technique_second,5.3669,Common Snook (Adult),655.266172
+Technique_second,5.3669,Common Snook (Sub-adult),12.343855
+Technique_second,5.3669,Spotted Seatrout (Adult),146.807087
+Technique_second,5.3669,Spotted Seatrout (Recruit),476.105419
+Technique_second,5.3669,Gray Snapper (Recruit),50.167252
+Technique_second,5.3669,Gray Snapper (Sub-adult),104.066838
+Technique_second,5.3669,Gag Grouper (Sub-adult),20.385189
+Technique_second,5.3669,Red Drum (Recruit),39.343157
+Technique_second,5.3669,Red Drum (Sub-adult),332.357929
+Technique_second,5.7023,Sheepshead (Adult),309.208469
+Technique_second,5.7023,Sheepshead (Recruit),26.921529
+Technique_second,5.7023,Blue Crab (Recruit),402.167267
+Technique_second,5.7023,Common Snook (Adult),654.484312
+Technique_second,5.7023,Common Snook (Sub-adult),12.383683
+Technique_second,5.7023,Spotted Seatrout (Adult),147.945194
+Technique_second,5.7023,Spotted Seatrout (Recruit),476.321827
+Technique_second,5.7023,Gray Snapper (Recruit),50.045742
+Technique_second,5.7023,Gray Snapper (Sub-adult),104.509617
+Technique_second,5.7023,Gag Grouper (Sub-adult),20.21183
+Technique_second,5.7023,Red Drum (Recruit),39.351806
+Technique_second,5.7023,Red Drum (Sub-adult),332.040539
+Technique_second,6.0377,Sheepshead (Adult),309.064886
+Technique_second,6.0377,Sheepshead (Recruit),26.775573
+Technique_second,6.0377,Blue Crab (Recruit),398.816113
+Technique_second,6.0377,Common Snook (Adult),653.670269
+Technique_second,6.0377,Common Snook (Sub-adult),12.419777
+Technique_second,6.0377,Spotted Seatrout (Adult),149.097282
+Technique_second,6.0377,Spotted Seatrout (Recruit),476.594112
+Technique_second,6.0377,Gray Snapper (Recruit),49.913827
+Technique_second,6.0377,Gray Snapper (Sub-adult),104.958986
+Technique_second,6.0377,Gag Grouper (Sub-adult),20.036529
+Technique_second,6.0377,Red Drum (Recruit),39.368096
+Technique_second,6.0377,Red Drum (Sub-adult),331.730633
+Technique_second,6.3732,Sheepshead (Adult),308.968225
+Technique_second,6.3732,Sheepshead (Recruit),26.618985
+Technique_second,6.3732,Blue Crab (Recruit),395.522614
+Technique_second,6.3732,Common Snook (Adult),652.894281
+Technique_second,6.3732,Common Snook (Sub-adult),12.452628
+Technique_second,6.3732,Spotted Seatrout (Adult),150.242346
+Technique_second,6.3732,Spotted Seatrout (Recruit),476.806614
+Technique_second,6.3732,Gray Snapper (Recruit),49.777
+Technique_second,6.3732,Gray Snapper (Sub-adult),105.386993
+Technique_second,6.3732,Gag Grouper (Sub-adult),19.853319
+Technique_second,6.3732,Red Drum (Recruit),39.353902
+Technique_second,6.3732,Red Drum (Sub-adult),331.376114
