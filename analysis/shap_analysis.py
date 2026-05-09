@@ -81,16 +81,16 @@ WIN_SIZE   = 3    # years per window (averaged before feeding to model)
 N_WINDOWS  = 10   # outer LSTM windows (= sequence length seen by model)
 
 # Paths (relative to gnn-lstm-v2/)
-DATA_NPZ  = os.path.join(_GNN_DIR, f'../data/FIM_restoration_{_DS}_stations_monthly.npz')
-ADJ_PKL   = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_adj.pkl')
-FID_PKL   = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_fid_dict.pkl')
-SPP_PKL   = os.path.join(_GNN_DIR, f'../data/FIM_restoration_{_DS}_species_names.pkl')
+DATA_NPZ  = os.path.join(_GNN_DIR, f'data/FIM_restoration_{_DS}_stations_monthly.npz')
+ADJ_PKL   = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_adj.pkl')
+FID_PKL   = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_fid_dict.pkl')
+SPP_PKL   = os.path.join(_GNN_DIR, f'data/FIM_restoration_{_DS}_species_names.pkl')
 CKPT_DIR  = os.path.join(
     _GNN_DIR,
     f'model/FIM_restoration_{_DS}_stations_monthly/2024/'
     f'gat-rnn-v2-windowed_bs-128_lr-0.001_maxepoch-{_MAXEPOCH}_testyear-2024_win-3_nwin-10_seed-0'
 )
-DIST_PKL  = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_dist_weights.pkl')
+DIST_PKL  = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_dist_weights.pkl')
 
 N_PERM = 5   # permutation repeats
 

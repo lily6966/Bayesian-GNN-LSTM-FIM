@@ -32,7 +32,7 @@ parser.add_argument('-adj', "--us_adj_file", default='', type=str, help='adjacen
 parser.add_argument('-fid_map', "--crop_id_to_fid", default='', type=str, help='crop id to fid file')
 parser.add_argument('-cp', "--checkpoint_path", default='./ckpt', type=str, help='The path to a checkpoint from which to fine-tune.')
 
-parser.add_argument('-dd', "--data_dir", default='./data/soybean_data.npz', type=str, help='The data directory')
+parser.add_argument('-dd', "--data_dir", default='data/soybean_data.npz', type=str, help='The data directory')
 
 parser.add_argument('-seed', "--seed", default=0, type=int, help='seed')
 parser.add_argument('-bs', "--batch_size", default=128, type=int, help='the number of data points in one minibatch')

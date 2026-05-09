@@ -15,8 +15,8 @@ Usage (defaults to Run G in v4):
     python analysis/species_summary.py --run_id run_g
     python analysis/species_summary.py --run_id run_f \\
         --results_dir results/FIM_restoration_0412_stations_monthly \\
-        --spp_pkl ../data/FIM_restoration_0412_species_names.pkl \\
-        --data_npz ../data/FIM_restoration_0412_stations_monthly.npz
+        --spp_pkl data/FIM_restoration_0412_species_names.pkl \\
+        --data_npz data/FIM_restoration_0412_stations_monthly.npz
 """
 import argparse
 import glob

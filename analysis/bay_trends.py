@@ -22,7 +22,7 @@ Usage:
     python analysis/bay_trends.py --run_id run_g --transform root4
     python analysis/bay_trends.py --run_id run_f --transform log1p \\
         --results_dir results/FIM_restoration_0412_stations_monthly \\
-        --meta_pkl ../data/FIM_restoration_0412_station_metadata.pkl
+        --meta_pkl data/FIM_restoration_0412_station_metadata.pkl
 """
 import argparse
 import glob

@@ -26,10 +26,10 @@ cd "$(dirname "$0")"
 
 PYTHONUNBUFFERED=1 /Users/liyingnceas/anaconda3/envs/gnnrnn/bin/python -u main.py \
   -dataset FIM_restoration_0412G_stations_monthly \
-  -dd ../data/FIM_restoration_0412G_stations_monthly.npz \
-  -adj ../map/FIM_restoration_0412_v2_adj.pkl \
-  -fid_map ../map/FIM_restoration_0412_v2_fid_dict.pkl \
-  --dist_weights_path ../map/FIM_restoration_0412_v2_dist_weights.pkl \
+  -dd data/FIM_restoration_0412G_stations_monthly.npz \
+  -adj map/FIM_restoration_0412_v2_adj.pkl \
+  -fid_map map/FIM_restoration_0412_v2_fid_dict.pkl \
+  --dist_weights_path map/FIM_restoration_0412_v2_dist_weights.pkl \
   --no_soil --max_epoch 35 \
   --encoder_type mlp \
   --rolling_windowed \

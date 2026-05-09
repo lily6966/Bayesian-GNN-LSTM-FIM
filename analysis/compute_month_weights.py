@@ -29,8 +29,8 @@ _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 _GNN_DIR    = os.path.dirname(_SCRIPT_DIR)
 sys.path.insert(0, _GNN_DIR)
 
-DATA_NPZ = os.path.join(_GNN_DIR, '../data/FIM_restoration_0412_stations_monthly.npz')
-SPP_PKL  = os.path.join(_GNN_DIR, '../data/FIM_restoration_0412_species_names.pkl')
+DATA_NPZ = os.path.join(_GNN_DIR, 'data/FIM_restoration_0412_stations_monthly.npz')
+SPP_PKL  = os.path.join(_GNN_DIR, 'data/FIM_restoration_0412_species_names.pkl')
 FIGURES  = os.path.join(_SCRIPT_DIR, 'figures')
 os.makedirs(FIGURES, exist_ok=True)
 

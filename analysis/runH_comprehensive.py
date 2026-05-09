@@ -21,10 +21,10 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from scipy.stats import pearsonr
 
-BASE     = "/Users/liyingnceas/GitHub/GNN-RNN-main"
-RES_ROOT = f"{BASE}/gnn-lstm-v4/results/FIM_restoration_0412G_stations_monthly"
-META_PKL = f"{BASE}/data/FIM_restoration_0412G_station_metadata.pkl"
-OUT      = f"{BASE}/gnn-lstm-v4/analysis/figures/runH_comprehensive"
+BASE     = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RES_ROOT = os.path.join(BASE, "results/FIM_restoration_0412G_stations_monthly")
+META_PKL = os.path.join(BASE, "data/FIM_restoration_0412G_station_metadata.pkl")
+OUT      = os.path.join(BASE, "analysis/figures/runH_comprehensive")
 os.makedirs(OUT, exist_ok=True)
 
 MODEL_DIR_TAG = "maxepoch-35"   # selects Run H folder over the maxepoch-50 (Run G)

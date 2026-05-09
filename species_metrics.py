@@ -14,7 +14,7 @@ Outputs (written to --out_dir):
 Usage (from gnn-rnn-v2/ directory):
     python species_metrics.py \\
         --results_dir results/FIM_restoration_0412_stations_monthly/2024/<param_dir> \\
-        --species_pkl ../data/FIM_restoration_0412_species_names.pkl \\
+        --species_pkl data/FIM_restoration_0412_species_names.pkl \\
         --out_dir     species_analysis/2024
 """
 
@@ -89,7 +89,7 @@ def load_species_names(spp_pkl):
 # ── Auto-detect species pkl ───────────────────────────────────────────────────
 def auto_spp_pkl(results_dir):
     """Walk up from results_dir to find the data dir and species pkl."""
-    # results/<dataset>/<year>/<param>/ → look for ../../data/<dataset>_species_names.pkl
+    # results/<dataset>/<year>/<param>/ → look for data/<dataset>_species_names.pkl
     parts = results_dir.rstrip('/').split(os.sep)
     # Try to find 'results' in the path
     try:
@@ -104,9 +104,8 @@ def auto_spp_pkl(results_dir):
     if dataset:
         prefix = dataset.replace('_stations_monthly', '')
         candidates.append(os.path.join(root, 'data', f'{prefix}_species_names.pkl'))
-        candidates.append(os.path.join(root, '..', 'data', f'{prefix}_species_names.pkl'))
-    candidates.append(os.path.join(root, '..', 'data', 'FIM_restoration_0412_species_names.pkl'))
-    candidates.append(os.path.join(root, '..', 'data', 'FIM_species_names.pkl'))
+    candidates.append(os.path.join(root, 'data', 'FIM_restoration_0412_species_names.pkl'))
+    candidates.append(os.path.join(root, 'data', 'FIM_species_names.pkl'))
 
     for c in candidates:
         if os.path.exists(c):

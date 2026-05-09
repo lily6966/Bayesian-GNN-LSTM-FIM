@@ -58,12 +58,12 @@ warnings.filterwarnings('ignore')
 # Constants
 # ─────────────────────────────────────────────────────────────────────────────
 
-DATA_NPZ  = os.path.join(_GNN_DIR, '../data/FIM_restoration_0412G_stations_monthly.npz')
-ADJ_PKL   = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_adj.pkl')
-FID_PKL   = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_fid_dict.pkl')
-SPP_PKL   = os.path.join(_GNN_DIR, '../data/FIM_restoration_0412G_species_names.pkl')
-DIST_PKL  = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_dist_weights.pkl')
-META_PKL  = os.path.join(_GNN_DIR, '../data/FIM_restoration_0412G_station_metadata.pkl')
+DATA_NPZ  = os.path.join(_GNN_DIR, 'data/FIM_restoration_0412G_stations_monthly.npz')
+ADJ_PKL   = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_adj.pkl')
+FID_PKL   = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_fid_dict.pkl')
+SPP_PKL   = os.path.join(_GNN_DIR, 'data/FIM_restoration_0412G_species_names.pkl')
+DIST_PKL  = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_dist_weights.pkl')
+META_PKL  = os.path.join(_GNN_DIR, 'data/FIM_restoration_0412G_station_metadata.pkl')
 RUN_ID      = os.environ.get('PDP_RUN_ID', 'run_g')
 _MAXEPOCH   = '35' if RUN_ID == 'run_h' else '50'
 CKPT_DIR  = os.path.join(
