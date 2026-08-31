@@ -61,8 +61,11 @@ from utils import get_X_Y_2D
 
 # ── Run-specific config (must come before FIGURES_DIR) ────────────────────────
 RUN_ID    = os.environ.get('SHAP_RUN_ID', 'run_h')
-_DS       = '0412G' if RUN_ID in ('run_g','run_h') else '0412'
-_MAXEPOCH = '35' if RUN_ID == 'run_h' else ('50' if RUN_ID == 'run_g' else '30')
+_DS       = '0412G' if RUN_ID in ('run_g','run_h','run_k','run_k2') else '0412'
+_DS_MODEL = ('FIM_restoration_0412G_K_stations_monthly' if RUN_ID == 'run_k'
+             else 'FIM_restoration_0412G_K2_stations_monthly' if RUN_ID == 'run_k2'
+             else f'FIM_restoration_{_DS}_stations_monthly')
+_MAXEPOCH = '35' if RUN_ID == 'run_h' else ('30' if RUN_ID in ('run_g_30','run_k','run_k2') else '50' if RUN_ID == 'run_g' else '30')
 
 # ── Output directory ──────────────────────────────────────────────────────────
 FIGURES_DIR = os.path.join(_SCRIPT_DIR, 'figures', RUN_ID, 'shap')
@@ -81,16 +84,16 @@ WIN_SIZE   = 3    # years per window (averaged before feeding to model)
 N_WINDOWS  = 10   # outer LSTM windows (= sequence length seen by model)
 
 # Paths (relative to gnn-lstm-v2/)
-DATA_NPZ  = os.path.join(_GNN_DIR, f'data/FIM_restoration_{_DS}_stations_monthly.npz')
-ADJ_PKL   = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_adj.pkl')
-FID_PKL   = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_fid_dict.pkl')
-SPP_PKL   = os.path.join(_GNN_DIR, f'data/FIM_restoration_{_DS}_species_names.pkl')
+DATA_NPZ  = os.path.join(_GNN_DIR, f'../data/FIM_restoration_{_DS}_stations_monthly.npz')
+ADJ_PKL   = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_adj.pkl')
+FID_PKL   = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_fid_dict.pkl')
+SPP_PKL   = os.path.join(_GNN_DIR, f'../data/FIM_restoration_{_DS}_species_names.pkl')
 CKPT_DIR  = os.path.join(
     _GNN_DIR,
-    f'model/FIM_restoration_{_DS}_stations_monthly/2024/'
+    f'model/{_DS_MODEL}/2024/'
     f'gat-rnn-v2-windowed_bs-128_lr-0.001_maxepoch-{_MAXEPOCH}_testyear-2024_win-3_nwin-10_seed-0'
 )
-DIST_PKL  = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_dist_weights.pkl')
+DIST_PKL  = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_dist_weights.pkl')
 
 N_PERM = 5   # permutation repeats
 

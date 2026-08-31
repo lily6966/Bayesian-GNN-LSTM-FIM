@@ -24,8 +24,13 @@ Outputs (analysis/figures/):
   pdp_temperature_all.png   Temperature PDP all species (one line each)
   pdp_salinity_all.png      Salinity PDP all species
   pdp_forage.png            Pinfish PDP (adult + recruit) for all species
+  pdp_prey_community.png    Prey nekton community group PDP (0–2× scaling)
+  pdp_nonprey_community.png Non-prey nekton community group PDP (0–2× scaling)
+  pdp_community.png         2-panel: prey + non-prey side by side
   pdp_2d_snook.png          2-D PDP Temperature × Salinity for Snook (A)
   pdp_2d_seatrout.png       2-D PDP Temperature × Salinity for Spotted Seatrout (A)
+  pdp_2d_*_x_prey_community.png   2-D PDP: env feature × prey community scaling
+  pdp_2d_*_x_nonprey_community.png 2-D PDP: env feature × non-prey community scaling
   pdp_values.csv            Raw 1-D PDP values (long format)
 
 Run from the gnn-lstm-v2/ directory:
@@ -58,17 +63,20 @@ warnings.filterwarnings('ignore')
 # Constants
 # ─────────────────────────────────────────────────────────────────────────────
 
-DATA_NPZ  = os.path.join(_GNN_DIR, 'data/FIM_restoration_0412G_stations_monthly.npz')
-ADJ_PKL   = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_adj.pkl')
-FID_PKL   = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_fid_dict.pkl')
-SPP_PKL   = os.path.join(_GNN_DIR, 'data/FIM_restoration_0412G_species_names.pkl')
-DIST_PKL  = os.path.join(_GNN_DIR, 'map/FIM_restoration_0412_v2_dist_weights.pkl')
-META_PKL  = os.path.join(_GNN_DIR, 'data/FIM_restoration_0412G_station_metadata.pkl')
+DATA_NPZ  = os.path.join(_GNN_DIR, '../data/FIM_restoration_0412G_stations_monthly.npz')
+ADJ_PKL   = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_adj.pkl')
+FID_PKL   = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_fid_dict.pkl')
+SPP_PKL   = os.path.join(_GNN_DIR, '../data/FIM_restoration_0412G_species_names.pkl')
+DIST_PKL  = os.path.join(_GNN_DIR, '../map/FIM_restoration_0412_v2_dist_weights.pkl')
+META_PKL  = os.path.join(_GNN_DIR, '../data/FIM_restoration_0412G_station_metadata.pkl')
 RUN_ID      = os.environ.get('PDP_RUN_ID', 'run_g')
-_MAXEPOCH   = '35' if RUN_ID == 'run_h' else '50'
+_MAXEPOCH   = '35' if RUN_ID == 'run_h' else ('30' if RUN_ID in ('run_k','run_k2') else '50')
+_DS_MODEL   = ('FIM_restoration_0412G_K_stations_monthly' if RUN_ID == 'run_k'
+               else 'FIM_restoration_0412G_K2_stations_monthly' if RUN_ID == 'run_k2'
+               else 'FIM_restoration_0412G_stations_monthly')
 CKPT_DIR  = os.path.join(
     _GNN_DIR,
-    'model/FIM_restoration_0412G_stations_monthly/2024/'
+    f'model/{_DS_MODEL}/2024/'
     f'gat-rnn-v2-windowed_bs-128_lr-0.001_maxepoch-{_MAXEPOCH}_testyear-2024_win-3_nwin-10_seed-0'
 )
 FIGURES_DIR = os.path.join(_SCRIPT_DIR, 'figures', RUN_ID, 'pdp')
@@ -198,7 +206,7 @@ class FIMArgs:
     n_windows           = N_WINDOWS
     length              = 1
     forage_species      = 'Lagodon rhomboides_A,Lagodon rhomboides_R'
-    transform           = 'log1p' if RUN_ID == 'run_h' else 'root4'   # match training transform
+    transform           = 'log1p' if RUN_ID in ('run_h', 'run_k', 'run_k2') else 'root4'
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -638,6 +646,41 @@ def plot_restoration_by_species(pdp_bay_results, feat_keys, output_names,
 # 2-D PDP
 # ─────────────────────────────────────────────────────────────────────────────
 
+def compute_group_pdp(model, nodeloader, windowed_XY_T, county_set,
+                      args, dist_weights, group_cols, n_grid):
+    """
+    Group-level PDP: scale ALL columns in `group_cols` by a common multiplier.
+
+    The grid ranges from 0× (all columns zeroed) to 2× (all columns doubled)
+    relative to their observed values, so the x-axis is interpretable as
+    "fraction of observed community abundance".
+
+    Returns:
+      grid_scale  [n_grid]           multiplier values (0 → 2)
+      pdp_mat     [n_grid, n_species] mean predicted count per species
+    """
+    grid_scale = np.linspace(0.0, 2.0, n_grid)
+    group_cols = np.asarray(group_cols, dtype=int)
+    pdp_mat = np.zeros((n_grid, len(args.output_names)))
+
+    for i, scale in enumerate(grid_scale):
+        def perturb(X_merged_np, _cols=group_cols, _s=scale):
+            X_out = X_merged_np.copy()
+            X_out[..., _cols] = X_out[..., _cols] * _s
+            return X_out
+
+        pred_c, _ = run_inference(
+            model, nodeloader, windowed_XY_T, county_set,
+            args, dist_weights, x_perturb_fn=perturb
+        )
+        pdp_mat[i] = pred_c.mean(axis=(0, 1))
+
+        if (i + 1) % 5 == 0:
+            print(f'    grid {i+1}/{n_grid}', flush=True)
+
+    return grid_scale, pdp_mat
+
+
 def compute_2d_pdp(model, nodeloader, windowed_XY_T, county_set,
                    args, dist_weights, feat_idx_1, feat_idx_2,
                    n_grid, X_mean_raw, X_std_raw, sp_idx):
@@ -814,6 +857,51 @@ def plot_restoration_top3(pdp_results, output_names, test_year, out_path):
     _save_pngpdf(fig, out_path)
     plt.close(fig)
     print(f'  Saved → {out_path}')
+
+
+def compute_2d_pdp_feat_x_group(model, nodeloader, windowed_XY_T, county_set,
+                                args, dist_weights, feat_idx, group_cols,
+                                n_grid, X_mean_raw, X_std_raw, sp_idx):
+    """
+    2-D PDP: axis 1 = single feature (physical units), axis 2 = group scaling (0–2×).
+
+    Returns:
+      feat_grid_orig [n_grid]  physical-scale values for the single feature
+      scale_grid     [n_grid]  multiplier values for the group (0 → 2)
+      pdp2d          [n_grid, n_grid]  mean predicted count for sp_idx
+    """
+    X_wins = [windowed_XY_T[w][0] for w in range(1, len(windowed_XY_T) + 1)]
+    X_all  = np.stack(X_wins, axis=1)
+    group_cols = np.asarray(group_cols, dtype=int)
+
+    vals = X_all[..., feat_idx].ravel()
+    lo   = float(np.percentile(vals, 5))
+    hi   = float(np.percentile(vals, 95))
+    feat_grid_std = np.linspace(lo, hi, n_grid)
+    n_r = len(X_mean_raw)
+    feat_grid_orig = (feat_grid_std * X_std_raw[feat_idx] + X_mean_raw[feat_idx]
+                      if feat_idx < n_r else feat_grid_std)
+
+    scale_grid = np.linspace(0.0, 2.0, n_grid)
+    pdp2d = np.zeros((n_grid, n_grid))
+
+    for i, fv in enumerate(feat_grid_std):
+        for j, sv in enumerate(scale_grid):
+            def perturb(X_np, _fi=feat_idx, _fv=fv, _gc=group_cols, _sv=sv):
+                X_out = X_np.copy()
+                X_out[..., _fi] = _fv
+                X_out[..., _gc] = X_out[..., _gc] * _sv
+                return X_out
+
+            pred_c, _ = run_inference(
+                model, nodeloader, windowed_XY_T, county_set,
+                args, dist_weights, x_perturb_fn=perturb
+            )
+            pdp2d[i, j] = pred_c[..., sp_idx].mean()
+
+        print(f'  [2D-group] row {i+1}/{n_grid}', flush=True)
+
+    return feat_grid_orig, scale_grid, pdp2d
 
 
 def plot_2d_pdp(g1_orig, g2_orig, pdp2d, feat1_label, feat2_label,
@@ -1004,19 +1092,99 @@ def main():
         print(f'  Saved → {forage_path}')
 
         # ─────────────────────────────────────────────────────────────────────────
-        # 2-D PDPs: Temperature × Salinity for Snook (Adult) and Seatrout (Adult)
+        # Community PDPs: prey and non-prey nekton community
         # ─────────────────────────────────────────────────────────────────────────
-        snook_idx  = next((i for i, s in enumerate(args.output_names)
-                           if 'undecimalis_A' in s), None)
-        trout_idx  = next((i for i, s in enumerate(args.output_names)
-                           if 'nebulosus_A' in s), None)
-        drum_idx   = next((i for i, s in enumerate(args.output_names)
-                           if 'ocellatus_R' in s), None)
+        prey_slice    = next(((s, e) for s, e, n in args.group_slices
+                              if n == 'prey_community'), None)
+        nonprey_slice = next(((s, e) for s, e, n in args.group_slices
+                              if n == 'nonprey_community'), None)
+
+        community_groups = []
+        if prey_slice:
+            community_groups.append(('prey_community', list(range(*prey_slice)),
+                                     'Prey Nekton Community'))
+        if nonprey_slice:
+            community_groups.append(('nonprey_community', list(range(*nonprey_slice)),
+                                     'Non-prey Nekton Community'))
+
+        for group_key, group_cols, group_label in community_groups:
+            print(f'\n[pdp] Group PDP: {group_label} '
+                  f'(cols {group_cols[0]}–{group_cols[-1]}, {len(group_cols)} species) …')
+            grid_scale, pdp_mat = compute_group_pdp(
+                model, nodeloader, windowed_XY_T, county_set,
+                args, dist_weights, group_cols, N_GRID
+            )
+            pdp_results[group_key] = (grid_scale, pdp_mat)
+
+            for gi, gv in enumerate(grid_scale):
+                for si, sp_name in enumerate(args.output_names):
+                    records.append(dict(
+                        feature=group_key, grid_value=round(float(gv), 4),
+                        species=COMMON_NAMES.get(sp_name, sp_name),
+                        mean_count=round(float(pdp_mat[gi, si]), 6)
+                    ))
+
+            plot_1d_all_species(
+                grid_scale, pdp_mat,
+                f'{group_label} Abundance (× baseline)',
+                args.output_names,
+                ref_lines=[(1.0, 'grey', 'Baseline (1×)')],
+                title=f'Partial Dependence on {group_label}  (test year {TEST_YEAR})',
+                out_path=os.path.join(FIGURES_DIR, f'pdp_{group_key}.png')
+            )
+
+        # Re-save CSV with community PDPs included
+        csv_path = os.path.join(FIGURES_DIR, 'pdp_values.csv')
+        pd.DataFrame(records).to_csv(csv_path, index=False)
+        print(f'\n  Updated → {csv_path}')
+
+        # ── Plot: 2-panel community summary (prey + non-prey side by side) ───
+        if prey_slice and nonprey_slice:
+            print('\n[pdp] Plotting community 2-panel summary …')
+            n_sp = len(args.output_names)
+            fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+            for ax, gkey, gtitle in zip(axes,
+                    ['prey_community', 'nonprey_community'],
+                    ['Prey Nekton Community', 'Non-prey Nekton Community']):
+                grid, pdp_mat = pdp_results[gkey]
+                for s in range(n_sp):
+                    sp = args.output_names[s]
+                    cn = COMMON_NAMES.get(sp, sp)
+                    ax.plot(grid, pdp_mat[:, s],
+                            color=SP_COLORS[s % len(SP_COLORS)],
+                            lw=1.4, label=cn, alpha=0.85)
+                ax.axvline(1.0, color='grey', lw=0.9, ls='--', alpha=0.55)
+                ax.set_xlabel(f'{gtitle} Abundance (× baseline)', fontsize=10)
+                ax.set_ylabel('Mean predicted count', fontsize=10)
+                ax.set_title(f'Partial Dependence on {gtitle}', fontsize=11)
+                ax.legend(fontsize=7, ncol=2,
+                          bbox_to_anchor=(1.01, 1), loc='upper left')
+            fig.suptitle(f'Community Effect on Target Species  '
+                         f'(test year {TEST_YEAR})',
+                         fontsize=12, fontweight='bold', y=1.01)
+            fig.tight_layout()
+            comm_path = os.path.join(FIGURES_DIR, 'pdp_community.png')
+            _save_pngpdf(fig, comm_path)
+            plt.close(fig)
+            print(f'  Saved → {comm_path}')
+
+        # ─────────────────────────────────────────────────────────────────────────
+        # 2-D PDPs: Temperature × Salinity for focal species
+        # ─────────────────────────────────────────────────────────────────────────
+        drum_sa_idx  = next((i for i, s in enumerate(args.output_names)
+                             if 'ocellatus_SA' in s), None)
+        drum_r_idx   = next((i for i, s in enumerate(args.output_names)
+                             if 'ocellatus_R' in s), None)
+        trout_a_idx  = next((i for i, s in enumerate(args.output_names)
+                             if 'nebulosus_A' in s), None)
+        trout_r_idx  = next((i for i, s in enumerate(args.output_names)
+                             if 'nebulosus_R' in s), None)
 
         for sp_idx, sp_tag, sp_label in [
-                (snook_idx,  'snook',   'Common Snook (Adult)'),
-                (trout_idx,  'seatrout','Spotted Seatrout (Adult)'),
-                (drum_idx,   'reddrum', 'Red Drum (Recruit)'),
+                (drum_sa_idx, 'reddrum_SA',  'Red Drum (Sub-adult)'),
+                (drum_r_idx,  'reddrum_R',   'Red Drum (Recruit)'),
+                (trout_a_idx, 'seatrout_A',  'Spotted Seatrout (Adult)'),
+                (trout_r_idx, 'seatrout_R',  'Spotted Seatrout (Recruit)'),
         ]:
             if sp_idx is None:
                 continue
@@ -1034,101 +1202,86 @@ def main():
                         'Temperature (°C)', 'Salinity (PSU)', sp_label,
                         os.path.join(FIGURES_DIR, f'pdp_2d_{sp_tag}.png'))
 
-    # ─────────────────────────────────────────────────────────────────────────
-    # Restoration PDPs — bay-level population totals
-    # ─────────────────────────────────────────────────────────────────────────
+        # ─────────────────────────────────────────────────────────────────────────
+        # 2-D PDPs: feature × community group for focal species
+        # ─────────────────────────────────────────────────────────────────────────
+        prey_cols    = list(range(*prey_slice)) if prey_slice else []
+        nonprey_cols = list(range(*nonprey_slice)) if nonprey_slice else []
 
-    # Load station → bay mapping
-    print('\n[pdp] Loading station metadata for bay mapping …')
-    with open(META_PKL, 'rb') as f:
-        meta_df = pickle.load(f)
-    # Keep one row per station_id (metadata repeats across months)
-    meta_dedup = meta_df.drop_duplicates('station_id').set_index('station_id')
-    station_bay_map = {int(sid): str(row['Bay'])
-                       for sid, row in meta_dedup.iterrows()
-                       if sid in set(county_set)}
-    # Fill any missing stations with a default
-    for sid in county_set:
-        if sid not in station_bay_map:
-            station_bay_map[sid] = 'AP'
-    print(f'[pdp] Bays: {sorted(set(station_bay_map.values()))}')
+        pdp_2d_combos = [
+            # Red Drum (Sub-adult)
+            (drum_sa_idx,  'reddrum_SA', 'Red Drum (Sub-adult)',
+             'Temperature', prey_cols, 'Prey Community'),
+            (drum_sa_idx,  'reddrum_SA', 'Red Drum (Sub-adult)',
+             'Salinity', prey_cols, 'Prey Community'),
+            (drum_sa_idx,  'reddrum_SA', 'Red Drum (Sub-adult)',
+             'Temperature', nonprey_cols, 'Non-prey Community'),
+            # Red Drum (Recruit)
+            (drum_r_idx,   'reddrum_R', 'Red Drum (Recruit)',
+             'Temperature', prey_cols, 'Prey Community'),
+            (drum_r_idx,   'reddrum_R', 'Red Drum (Recruit)',
+             'Salinity', prey_cols, 'Prey Community'),
+            (drum_r_idx,   'reddrum_R', 'Red Drum (Recruit)',
+             'Temperature', nonprey_cols, 'Non-prey Community'),
+            # Spotted Seatrout (Recruit)
+            (trout_r_idx,  'seatrout_R', 'Spotted Seatrout (Recruit)',
+             'Temperature', prey_cols, 'Prey Community'),
+            (trout_r_idx,  'seatrout_R', 'Spotted Seatrout (Recruit)',
+             'Salinity', prey_cols, 'Prey Community'),
+            (trout_r_idx,  'seatrout_R', 'Spotted Seatrout (Recruit)',
+             'Salinity', nonprey_cols, 'Non-prey Community'),
+            # Spotted Seatrout (Adult)
+            (trout_a_idx,  'seatrout_A', 'Spotted Seatrout (Adult)',
+             'Temperature', prey_cols, 'Prey Community'),
+            (trout_a_idx,  'seatrout_A', 'Spotted Seatrout (Adult)',
+             'Salinity', prey_cols, 'Prey Community'),
+            (trout_a_idx,  'seatrout_A', 'Spotted Seatrout (Adult)',
+             'DissolvedO2', prey_cols, 'Prey Community'),
+        ]
 
-    rest_feat_keys  = list(RESTORATION_FEATURES.keys())
-    pdp_bay_results = {}   # fname → (grid_orig, bay_labels, pdp_bay)
-    rest_records    = []
+        for sp_idx, sp_tag, sp_label, feat_key, g_cols, g_label in pdp_2d_combos:
+            if sp_idx is None or not g_cols:
+                continue
+            finfo = FEATURES[feat_key]
+            g_tag = g_label.lower().replace(' ', '_').replace('-', '')
+            out_name = f'pdp_2d_{sp_tag}_{feat_key.lower()}_x_{g_tag}'
+            print(f'\n[pdp] 2-D PDP: {sp_label} — {finfo["label"]} × {g_label} …')
 
-    for fname in rest_feat_keys:
-        finfo = RESTORATION_FEATURES[fname]
-        print(f'\n[pdp] 1-D PDP (restoration, by bay): {fname} (idx={finfo["idx"]}) …')
-        grid_orig, bay_labels, pdp_bay = compute_1d_pdp_by_bay(
-            model, nodeloader, windowed_XY_T, county_set,
-            args, dist_weights, finfo['idx'], N_GRID,
-            X_mean_raw, X_std_raw, station_bay_map
-        )
-        pdp_bay_results[fname] = (grid_orig, bay_labels, pdp_bay)
+            feat_grid, scale_grid, pdp2d = compute_2d_pdp_feat_x_group(
+                model, nodeloader, windowed_XY_T, county_set,
+                args, dist_weights,
+                feat_idx=finfo['idx'], group_cols=g_cols,
+                n_grid=N_GRID_2D,
+                X_mean_raw=X_mean_raw, X_std_raw=X_std_raw,
+                sp_idx=sp_idx
+            )
+            plot_2d_pdp(feat_grid, scale_grid, pdp2d,
+                        finfo['label'],
+                        f'{g_label} (× baseline)',
+                        sp_label,
+                        os.path.join(FIGURES_DIR, f'{out_name}.png'))
 
-        # Also store mean-over-all-stations for CSV compatibility
-        pdp_mat_mean = pdp_bay.mean(axis=1)   # [n_grid, n_species]
-        pdp_results[fname] = (grid_orig, pdp_mat_mean)
-        for gi, gv in enumerate(grid_orig):
-            for si, sp_name in enumerate(args.output_names):
-                rest_records.append(dict(
-                    feature=fname, grid_value=round(float(gv), 4),
-                    species=COMMON_NAMES.get(sp_name, sp_name),
-                    mean_count=round(float(pdp_mat_mean[gi, si]), 6)
-                ))
-
-    # Update main CSV
-    all_records_path = os.path.join(FIGURES_DIR, 'pdp_values.csv')
-    df_rest = pd.DataFrame(rest_records)
-    if os.path.exists(all_records_path):
-        df_existing = pd.read_csv(all_records_path)
-        df_existing = df_existing[~df_existing['feature'].isin(rest_feat_keys)]
-        pd.concat([df_existing, df_rest], ignore_index=True).to_csv(all_records_path, index=False)
-        print(f'\n  Updated → {all_records_path}')
-    else:
-        df_rest.to_csv(all_records_path, index=False)
-        print(f'\n  Saved → {all_records_path}')
-
-    rest_csv = os.path.join(FIGURES_DIR, 'pdp_restoration_values.csv')
-    df_rest.to_csv(rest_csv, index=False)
-    print(f'  Saved  → {rest_csv}')
-
-    # ── Plot: per-species panels, lines = bays, y = population total ──────────
-    print('\n[pdp] Plotting restoration by-species by-bay population panels …')
-    plot_restoration_by_species(
-        pdp_bay_results, rest_feat_keys, args.output_names,
-        bay_labels, TEST_YEAR, FIGURES_DIR
-    )
-
-    # ── Also keep the old 2×4 mean-count panel for reference ──────────────────
-    print('\n[pdp] Plotting restoration 2×4 mean-count panel (reference) …')
-    plot_restoration_panel(
-        pdp_results, rest_feat_keys, args.output_names, TEST_YEAR,
-        os.path.join(FIGURES_DIR, 'pdp_restoration_panel.png')
-    )
-
-    # ── Plot: focused top-3 quantitative restoration features ─────────────────
-    print('\n[pdp] Plotting restoration top-3 quantitative panel …')
-    plot_restoration_top3(
-        pdp_results, args.output_names, TEST_YEAR,
-        os.path.join(FIGURES_DIR, 'pdp_restoration_top3.png')
-    )
+    # ── Final CSV save ────────────────────────────────────────────────────────
+    csv_path = os.path.join(FIGURES_DIR, 'pdp_values.csv')
+    if records:
+        pd.DataFrame(records).to_csv(csv_path, index=False)
+        print(f'\n  Saved → {csv_path}')
 
     # ── Summary ───────────────────────────────────────────────────────────────
     print('\n' + '=' * 64)
     print(f'PDP ANALYSIS COMPLETE  (test year {TEST_YEAR})')
     print('=' * 64)
-    df_csv = pd.read_csv(all_records_path)
-    for fname in target_feats_1d + ['n_projects', 'Acres_Restored', 'targeted_habitat_num']:
-        sub = df_csv[df_csv.feature == fname]
-        if sub.empty:
-            continue
-        ranges = sub.groupby('species')['mean_count'].agg(lambda x: x.max() - x.min())
-        top3   = ranges.nlargest(3)
-        print(f'\n  {fname} — species with widest response range:')
-        for sp_name, rng in top3.items():
-            print(f'    {sp_name:<40s}  Δcount = {rng:.4f}')
+    if os.path.exists(csv_path):
+        df_csv = pd.read_csv(csv_path)
+        for fname in target_feats_1d + ['prey_community', 'nonprey_community']:
+            sub = df_csv[df_csv.feature == fname]
+            if sub.empty:
+                continue
+            ranges = sub.groupby('species')['mean_count'].agg(lambda x: x.max() - x.min())
+            top3   = ranges.nlargest(3)
+            print(f'\n  {fname} — species with widest response range:')
+            for sp_name, rng in top3.items():
+                print(f'    {sp_name:<40s}  Δcount = {rng:.4f}')
 
     print(f'\nAll outputs saved to: {os.path.abspath(FIGURES_DIR)}/')
 
